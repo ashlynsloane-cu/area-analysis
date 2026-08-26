@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Environment variables / credentials
+.env
+
+# Raw or sensitive data
+data/*
+!data/README.md
+
+# Generated results
+results/*
+!results/README.md
+
+# Temporary files
+*.tmp
+*.log
