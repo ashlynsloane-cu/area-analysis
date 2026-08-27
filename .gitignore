@@ -1,4 +1,19 @@
-# macOS
+# Ignore raw data files
+data/
+
+# Ignore virtual environments
+.venv/
+venv/
+ENV/
+
+# Ignore notebook check-points and temporary files
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+.DS_Store
+
+# Ignore local results/plots we want to recreate
+results/
+figures/# macOS
 .DS_Store
 
 # Python
