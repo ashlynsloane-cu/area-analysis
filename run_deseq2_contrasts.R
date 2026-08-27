@@ -1,13 +1,13 @@
 #!/usr/bin/env Rscript
 # ==============================================================================
-# run_deseq2_contrasts.R
+# run_deseq2_contrasts-v2.R
 #
 # This script runs differential expression analysis (DESeq2) comparing:
 #   1. Resilience Program: Resilient vs. Canonical Disease (High-Burden background)
 #   2. Alternative Etiology Program: Alternative Etiology vs. Typical Healthy (Low-Burden)
 #
 # Usage:
-#   Rscript run_deseq2_contrasts.R <path_to_raw_counts.csv>
+#   Rscript run_deseq2_contrasts-v2.R <path_to_raw_counts.csv>
 #
 # If no raw counts file is specified, it will look for 'data/raw_counts_matrix.csv'
 # or run in a robust Mock Mode with simulated counts to verify the installation
@@ -113,6 +113,9 @@ run_deseq_analysis <- function(counts_path, samplesheet_path, contrast_name, ref
   # Ensure cohort is a factor with reference level correctly set
   metadata_aligned$Cohort <- factor(metadata_aligned$Cohort)
   metadata_aligned$Cohort <- relevel(metadata_aligned$Cohort, ref = ref_level)
+  
+  # Ensure rownames of colData match colnames of countData exactly for DESeq2
+  rownames(metadata_aligned) <- colnames(expr_aligned)
   
   # Build DESeq2 DataSet
   dds <- DESeqDataSetFromMatrix(
