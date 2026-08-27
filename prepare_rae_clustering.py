@@ -1,20 +1,17 @@
 #!/usr/bin/env python3
 """
-prepare_rae_clustering.py (v3 - Robust Dynamic Edition)
+prepare_rae_clustering.py
 
 This script serves as the "glue" code for your computational rotation project. 
 It automates the binarization of your continuous gene expression values into 
 Risk-Associated Expression (RAE) profiles (0 or 1) by calculating the leading-edge 
 inflection point for each gene-disease pair using your real AREA results.
 
-It has been upgraded to automatically detect:
-1. Patient IDs across different formats (e.g. pt-xxxx, pt.xxxx, Xpt.xxxx)
-2. Gene expression matrix orientations (Genes as rows or columns)
-3. Column names in the AREA score file (e.g. adjusted_pval, adjpval, padj)
-
 Inputs:
   1. Continuous gene expression matrix (filtered_values_dataframe.csv)
+     - Layout: Rows are patients, columns are genes + 'Participant' column containing patient IDs.
   2. Binary clinical comorbidities table (filtered_binary_attributes_dataframe.csv)
+     - Layout: Rows are patients, columns are comorbidities + 'Participant' column.
   3. Pre-calculated AREA results (.adjpval.csv file)
 
 Output:
@@ -32,23 +29,23 @@ import numpy as np
 import pandas as pd
 
 
-def normalize_id(id_str):
-    """
-    Normalizes a patient ID to make it match across different platforms 
-    (e.g., handling R's conversion of 'pt-xxxx' to 'pt.xxxx' or 'Xpt.xxxx').
-    """
-    if not isinstance(id_str, str):
-        id_str = str(id_str)
-    # Remove 'X' prefix if added by R to numeric-like columns
-    if id_str.lower().startswith('xpt'):
-        id_str = id_str[1:]
-    # Lowercase and remove all non-alphanumeric characters
-    return "".join(c for c in id_str if c.isalnum()).lower()
-
-
 def calculate_leading_edge_threshold(expression_series, disease_labels, nes):
     """
     Calculates the gene expression threshold at the GSEA-like leading-edge peak.
+    
+    Parameters:
+    -----------
+    expression_series : pd.Series
+        Continuous expression values for a gene across all patients.
+    disease_labels : pd.Series
+        Binary comorbidity status (0 or 1, or True/False) for the same patients.
+    nes : float
+        Normalized Enrichment Score from your AREA score sheet.
+        
+    Returns:
+    --------
+    float
+        The gene expression value corresponding to the leading-edge peak.
     """
     # Create aligned dataframe and ensure labels are numeric 0 or 1
     df = pd.DataFrame({
@@ -63,7 +60,7 @@ def calculate_leading_edge_threshold(expression_series, disease_labels, nes):
     n_affected = df['disease'].sum()
     n_typical = len(df) - n_affected
     
-    # Handle edge cases
+    # Handle edge cases (e.g., zero disease cases in the cohort)
     if n_affected == 0 or n_typical == 0:
         return np.nan
         
@@ -92,216 +89,192 @@ def calculate_leading_edge_threshold(expression_series, disease_labels, nes):
     return threshold_value
 
 
+def normalize_id(patient_id):
+    """Normalizes patient IDs to prevent punctuation or casing mismatches."""
+    if pd.isna(patient_id):
+        return ""
+    s = str(patient_id).strip().lower()
+    # Strip common prefixes/suffixes and punctuation
+    s = s.replace("-", "").replace(".", "").replace("_", "")
+    if s.startswith("x") and len(s) > 1: # R-style prepended X
+        s = s[1:]
+    return s
+
+
+def find_column_by_candidates(df, candidates):
+    """Finds a column name in a dataframe matching any candidate name (case-insensitive)."""
+    df_cols = [c.lower() for c in df.columns]
+    for cand in candidates:
+        if cand.lower() in df_cols:
+            idx = df_cols.index(cand.lower())
+            return df.columns[idx]
+    return None
+
+
 def main():
     print("=== STARTING RAE BINARIZATION GLUE PIPELINE ===")
     
-    # File definitions
+    # Define file names - adjust these to match your exact server directories
     expression_file = "filtered_values_dataframe.csv"
     comorbidity_file = "filtered_binary_attributes_dataframe.csv"
     area_scores_file = "254T21_WG_filterednormcounts_filteredconfounding_MONDO_area_scores_20260115-141713.adjpval.csv"
     
-    # Check parent folder and data subfolder
-    paths_to_test = {
-        'expr': [expression_file, os.path.join('data', expression_file)],
-        'comorb': [comorbidity_file, os.path.join('data', comorbidity_file)],
-        'scores': [area_scores_file, os.path.join('data', area_scores_file)]
-    }
-    
-    resolved_paths = {}
-    missing_files = []
-    
-    for key, candidates in paths_to_test.items():
-        found = False
-        for cand in candidates:
-            if os.path.exists(cand):
-                resolved_paths[key] = cand
-                found = True
-                break
-        if not found:
-            missing_files.append(candidates[0])
+    # Dynamic search in both current directory and 'data/' directory
+    paths = {}
+    for filename, key in [
+        (expression_file, "expression"),
+        (comorbidity_file, "comorbidity"),
+        (area_scores_file, "area_scores")
+    ]:
+        if os.path.exists(filename):
+            paths[key] = filename
+        elif os.path.exists(os.path.join("data", filename)):
+            paths[key] = os.path.join("data", filename)
             
-    if missing_files:
+    if len(paths) < 3:
         print("\n提示/Note: The following files could not be found in the current directory or 'data/' directory:")
-        for mf in missing_files:
-            print(f" - {mf}")
+        missing = []
+        for filename in [expression_file, comorbidity_file, area_scores_file]:
+            if not os.path.exists(filename) and not os.path.exists(os.path.join("data", filename)):
+                print(f" - {filename}")
+                missing.append(filename)
         print("\nPlease make sure to place your files in the 'data/' folder of your project!")
         print("\nGenerating a simulated run with mock files to verify the logic...")
         generate_mock_and_run()
         return
 
     print("\n[Step 1/4] Found all files successfully!")
-    print(f" -> Expression path:  {resolved_paths['expr']}")
-    print(f" -> Comorbidity path: {resolved_paths['comorb']}")
-    print(f" -> AREA scores path: {resolved_paths['scores']}")
-    
+    print(f" -> Expression path:  {paths['expression']}")
+    print(f" -> Comorbidity path: {paths['comorbidity']}")
+    print(f" -> AREA scores path: {paths['area_scores']}")
     print("\nLoading real data files...")
-    expr_df = pd.read_csv(resolved_paths['expr'], index_col=0)
-    comorb_df = pd.read_csv(resolved_paths['comorb'], index_col=0)
-    area_scores = pd.read_csv(resolved_paths['scores'])
     
-    # --- Part A: Handle Patient ID Matching & Orientation ---
-    expr_cols = list(expr_df.columns)
-    expr_rows = list(expr_df.index)
+    # Load raw dataframes
+    expr_df = pd.read_csv(paths['expression'])
+    comorb_df = pd.read_csv(paths['comorbidity'])
+    area_scores = pd.read_csv(paths['area_scores'])
     
-    expr_cols_normalized = {normalize_id(col): col for col in expr_cols}
-    expr_rows_normalized = {normalize_id(row): row for row in expr_rows}
+    # -------------------------------------------------------------
+    # PATIENT ID ALIGNMENT & MATRIX ORIENTATION
+    # -------------------------------------------------------------
     
-    comorb_participants = list(comorb_df['Participant'])
-    comorb_normalized = {normalize_id(pat): pat for pat in comorb_participants}
+    # In the local filtered_values_dataframe.csv, 'Participant' is a column,
+    # and the index is just row numbers. This means the matrix layout is:
+    # Patients are Rows, Genes are Columns.
     
-    matched_cols = set(expr_cols_normalized.keys()).intersection(set(comorb_normalized.keys()))
-    matched_rows = set(expr_rows_normalized.keys()).intersection(set(comorb_normalized.keys()))
+    # Step A: Identify the Patient ID column in BOTH matrices
+    expr_pat_col = find_column_by_candidates(expr_df, ['Participant', 'id', 'sample', 'patient_id'])
+    comorb_pat_col = find_column_by_candidates(comorb_df, ['Participant', 'id', 'sample', 'patient_id'])
     
-    if len(matched_cols) >= len(matched_rows) and len(matched_cols) > 0:
-        print(f" -> Detected patients as COLUMNS in the expression matrix ({len(matched_cols)} matches).")
-        matched_normalized = matched_cols
-        expr_id_map = expr_cols_normalized
-        # Keep columns as-is
-    elif len(matched_rows) > len(matched_cols) and len(matched_rows) > 0:
-        print(f" -> Detected patients as ROWS (index) in the expression matrix ({len(matched_rows)} matches).")
-        print(" -> Transposing expression matrix to standard (Genes x Patients) format...")
-        expr_df = expr_df.T
-        matched_normalized = matched_rows
-        expr_id_map = expr_rows_normalized
-    else:
+    if not expr_pat_col:
+        print("\n[Error] Could not find a Participant/ID column in the expression file.")
+        print(f" -> Available columns: {list(expr_df.columns[:5])}")
+        sys.exit(1)
+        
+    if not comorb_pat_col:
+        print("\n[Error] Could not find a Participant/ID column in the comorbidity file.")
+        print(f" -> Available columns: {list(comorb_df.columns[:5])}")
+        sys.exit(1)
+
+    # Step B: Normalize IDs to build a mapping dictionary
+    expr_df['Normalized_ID'] = expr_df[expr_pat_col].apply(normalize_id)
+    comorb_df['Normalized_ID'] = comorb_df[comorb_pat_col].apply(normalize_id)
+    
+    # Filter out empty or null IDs
+    expr_df = expr_df[expr_df['Normalized_ID'] != ""]
+    comorb_df = comorb_df[comorb_df['Normalized_ID'] != ""]
+    
+    # Intersection of normalized IDs
+    common_norm_ids = set(expr_df['Normalized_ID']).intersection(set(comorb_df['Normalized_ID']))
+    
+    if len(common_norm_ids) == 0:
         print("\n[Error] Could not match any patient IDs between expression and comorbidities.")
-        print(f" -> Sample expression columns: {expr_cols[:5]}")
-        print(f" -> Sample expression index:   {expr_rows[:5]}")
-        print(f" -> Sample comorbidity 'Participant' values: {comorb_participants[:5]}")
+        print(f" -> Sample expression '{expr_pat_col}' values: {list(expr_df[expr_pat_col].dropna().head())}")
+        print(f" -> Sample comorbidity '{comorb_pat_col}' values: {list(comorb_df[comorb_pat_col].dropna().head())}")
         sys.exit(1)
         
-    # Standardize both dataframes to the intersection of matched patients
-    common_patients_expr = [expr_id_map[p_norm] for p in matched_normalized]
-    common_patients_comorb = [comorb_normalized[p_norm] for p in matched_normalized]
+    print(f"Successfully matched {len(common_norm_ids)} common patients across both matrices.")
     
-    # Subset expression matrix and rename columns to normalized format for easy alignment
-    expr_df = expr_df[common_patients_expr]
-    expr_df.columns = [normalize_id(col) for col in expr_df.columns]
+    # Subset matrices to matched normalized IDs and set it as the index
+    expr_df = expr_df[expr_df['Normalized_ID'].isin(common_norm_ids)].set_index('Normalized_ID')
+    comorb_df = comorb_df[comorb_df['Normalized_ID'].isin(common_norm_ids)].set_index('Normalized_ID')
     
-    # Subset comorbidity dataframe and set index to normalized format
-    comorb_df = comorb_df[comorb_df['Participant'].isin(common_patients_comorb)]
-    comorb_df['normalized_id'] = comorb_df['Participant'].apply(normalize_id)
-    comorb_df = comorb_df.set_index('normalized_id')
+    # Remove metadata columns from expression to keep only gene columns
+    if expr_pat_col in expr_df.columns:
+        expr_df = expr_df.drop(columns=[expr_pat_col])
+    if 'Unnamed: 0' in expr_df.columns:
+        expr_df = expr_df.drop(columns=['Unnamed: 0'])
+        
+    # -------------------------------------------------------------
+    # COLUMN MAPPING FOR AREA SHEET
+    # -------------------------------------------------------------
     
-    aligned_patients = list(expr_df.columns)
-    print(f"Matched and aligned {len(aligned_patients)} common patients across matrices.")
+    gene_col = find_column_by_candidates(area_scores, ['gene', 'genesymbol', 'feature_id'])
+    disease_col = find_column_by_candidates(area_scores, ['comorbidity', 'attribute', 'label', 'disease'])
+    nes_col = find_column_by_candidates(area_scores, ['nes', 'normalized_enrichment_score'])
+    pval_col = find_column_by_candidates(area_scores, ['adjusted_pval', 'adjusted_p_value', 'adjpval', 'padj', 'p.adj'])
     
-    # --- Part B: Handle AREA Score File Columns ---
-    columns_lower = {col.lower(): col for col in area_scores.columns}
-    
-    # 1. Match adjusted p-value column
-    adj_pval_candidates = [
-        'adjusted_pval', 'adjusted_pvalue', 'adj_pval', 'adj_pvalue', 'adjpval', 
-        'adjusted_p-value', 'padj', 'p.adj', 'fdr', 'q_value', 'qval'
-    ]
-    adj_col = None
-    for cand in adj_pval_candidates:
-        if cand in columns_lower:
-            adj_col = columns_lower[cand]
-            break
-    if not adj_col:
-        for col in area_scores.columns:
-            col_l = col.lower()
-            if 'adj' in col_l or 'padj' in col_l or 'qval' in col_l or 'fdr' in col_l:
-                adj_col = col
-                break
-    if not adj_col:
-        for col in area_scores.columns:
-            if 'p' in col.lower() and 'val' in col.lower():
-                adj_col = col
-                break
-    if not adj_col:
-        print(f"[Error] Could not find adjusted p-value column. Available columns: {list(area_scores.columns)}")
+    if not all([gene_col, disease_col, nes_col, pval_col]):
+        print("\n[Error] Could not map all necessary columns in the AREA score sheet.")
+        print(f" -> Found gene col: {gene_col}")
+        print(f" -> Found disease col: {disease_col}")
+        print(f" -> Found NES col: {nes_col}")
+        print(f" -> Found Adj. P-val col: {pval_col}")
+        print(f" -> Available columns: {list(area_scores.columns)}")
         sys.exit(1)
         
-    # 2. Match gene column
-    gene_candidates = ['gene', 'symbol', 'gene_symbol', 'feature', 'id', 'gene_id', 'gene_name']
-    gene_col = None
-    for cand in gene_candidates:
-        if cand in columns_lower:
-            gene_col = columns_lower[cand]
-            break
-    if not gene_col:
-        for col in area_scores.columns:
-            if 'gene' in col.lower() or 'symbol' in col.lower() or 'feature' in col.lower():
-                gene_col = col
-                break
-    if not gene_col:
-        gene_col = area_scores.columns[0]
-        
-    # 3. Match comorbidity/attribute column
-    disease_candidates = ['comorbidity', 'disease', 'attribute', 'mondo', 'trait', 'label', 'condition']
-    disease_col = None
-    for cand in disease_candidates:
-        if cand in columns_lower:
-            disease_col = columns_lower[cand]
-            break
-    if not disease_col:
-        for col in area_scores.columns:
-            col_l = col.lower()
-            if 'comorb' in col_l or 'disease' in col_l or 'mondo' in col_l or 'trait' in col_l or 'cond' in col_l:
-                disease_col = col
-                break
-    if not disease_col:
-        disease_col = area_scores.columns[1]
-        
-    # 4. Match NES column
-    nes_candidates = ['nes', 'nes_score', 'enrichment', 'score', 'normalized_enrichment_score']
-    nes_col = None
-    for cand in nes_candidates:
-        if cand in columns_lower:
-            nes_col = columns_lower[cand]
-            break
-    if not nes_col:
-        for col in area_scores.columns:
-            if 'nes' in col.lower() or 'score' in col.lower() or 'enrich' in col.lower():
-                nes_col = col
-                break
-    if not nes_col:
-        nes_col = area_scores.columns[2]
-        
-    print(f" -> Mapped columns successfully:")
-    print(f"    * Gene ID Column:      '{gene_col}'")
-    print(f"    * Comorbidity Column:  '{disease_col}'")
-    print(f"    * NES Column:          '{nes_col}'")
-    print(f"    * Adj. P-value Column: '{adj_col}'")
-
-    # --- Part C: Binarization Loop ---
-    print("\n[Step 2/4] Filtering significant gene-disease associations (adj. pval < 0.01)...")
-    area_scores[adj_col] = pd.to_numeric(area_scores[adj_col], errors='coerce')
-    sig_pairs = area_scores[area_scores[adj_col] < 0.01].dropna(subset=[adj_col])
+    # 2. Filter AREA results to significant pairs (adj. p-value < 0.01)
+    print(f"\n[Step 2/4] Filtering significant gene-disease associations using column '{pval_col}' < 0.01...")
+    sig_pairs = area_scores[area_scores[pval_col] < 0.01]
     print(f"Found {len(sig_pairs)} significant gene-disease associations.")
-
+    
     if len(sig_pairs) == 0:
-        print("[Warning] No significant associations found at adj. pval < 0.01. Relaxing threshold to < 0.05...")
-        sig_pairs = area_scores[area_scores[adj_col] < 0.05].dropna(subset=[adj_col])
-        print(f"Found {len(sig_pairs)} significant associations at adj. pval < 0.05.")
+        print("[Warning] No significant associations found at adj. p-value < 0.01. Relaxing threshold to < 0.05...")
+        sig_pairs = area_scores[area_scores[pval_col] < 0.05]
+        print(f"Found {len(sig_pairs)} associations at adj. p-value < 0.05.")
+        if len(sig_pairs) == 0:
+            print("[Error] No associations found even at < 0.05. Cannot proceed.")
+            sys.exit(1)
 
+    # 3. Compute leading edge thresholds and binarize
     print("\n[Step 3/4] Calculating leading edge thresholds & binarizing...")
-    unique_genes = sig_pairs[gene_col].unique()
-    rae_matrix = pd.DataFrame(0, index=aligned_patients, columns=unique_genes)
+    
+    # We want our output RAE matrix to have patients as rows and genes as columns
+    unique_sig_genes = [g for g in sig_pairs[gene_col].unique() if g in expr_df.columns]
+    print(f"Out of {len(sig_pairs[gene_col].unique())} significant genes, {len(unique_sig_genes)} are present in the expression matrix columns.")
+    
+    rae_matrix = pd.DataFrame(0, index=expr_df.index, columns=unique_sig_genes)
 
+    processed_count = 0
     for row in sig_pairs.itertuples():
         gene = getattr(row, gene_col)
         disease = getattr(row, disease_col)
         nes = getattr(row, nes_col)
         
-        # Ensure gene and comorbidity are present in our matrices
-        if gene in expr_df.index and disease in comorb_df.columns:
-            expr_series = expr_df.loc[gene]
+        # Ensure gene and comorbidity are present in your datasets
+        if gene in expr_df.columns and disease in comorb_df.columns:
+            expr_series = expr_df[gene]
             disease_series = comorb_df[disease]
             
             # Compute leading-edge threshold
             threshold = calculate_leading_edge_threshold(expr_series, disease_series, nes)
             
             if not np.isnan(threshold):
+                processed_count += 1
                 # Binarize RAE: 1 if in risk zone, 0 typical
                 if nes > 0:
                     rae_matrix[gene] = np.where(expr_series >= threshold, 1, rae_matrix[gene])
                 else:
                     rae_matrix[gene] = np.where(expr_series <= threshold, 1, rae_matrix[gene])
 
-    # Save results
+    print(f"Computed leading-edge thresholds and binarized {processed_count} gene-disease configurations.")
+
+    # 5. Restore original Participant ID names for the output
+    # Create mapping from normalized ID back to original Participant ID
+    id_mapping = pd.Series(comorb_df[comorb_pat_col].values, index=comorb_df.index).to_dict()
+    rae_matrix.index = rae_matrix.index.map(id_mapping)
+    
+    # 6. Save results for Downstream Clustering
     output_filename = "RAE_matrix_for_clustering.csv"
     rae_matrix.to_csv(output_filename)
     print(f"\n[Step 4/4] Success! Binarized Patient-by-Gene RAE matrix saved to: '{output_filename}'")
@@ -316,8 +289,9 @@ def generate_mock_and_run():
     genes = [f"GENE_{i}" for i in range(1, 21)]
     
     # 1. Mock Expression (Filtered, >= 1 count)
-    expr_data = np.random.exponential(scale=10, size=(len(genes), len(patients))) + 1.0
-    expr_df = pd.DataFrame(expr_data, index=genes, columns=patients)
+    expr_data = np.random.exponential(scale=10, size=(len(patients), len(genes))) + 1.0
+    expr_df = pd.DataFrame(expr_data, columns=genes)
+    expr_df['Participant'] = patients
     
     # 2. Mock Comorbidities
     comorb_columns = ['Participant', 'MONDO_sleep_apnea_syndrome', 'MONDO_congenital_heart_disease']
@@ -339,29 +313,22 @@ def generate_mock_and_run():
     ]
     area_scores = pd.DataFrame(area_data)
     
-    # Align and run matching logic
-    expr_cols = list(expr_df.columns)
-    comorb_participants = list(comorb_df['Participant'])
-    expr_normalized = {normalize_id(col): col for col in expr_cols}
-    comorb_normalized = {normalize_id(pat): pat for pat in comorb_participants}
-    matched_normalized = set(expr_normalized.keys()).intersection(set(comorb_normalized.keys()))
+    # Align
+    expr_df['Normalized_ID'] = expr_df['Participant'].apply(normalize_id)
+    comorb_df['Normalized_ID'] = comorb_df['Participant'].apply(normalize_id)
     
-    common_patients_expr = [expr_id_map[p_norm] for p_norm in matched_normalized] if 'expr_id_map' in locals() else [expr_normalized[p] for p in matched_normalized]
-    expr_df = expr_df[common_patients_expr]
-    expr_df.columns = [normalize_id(col) for col in expr_df.columns]
-    
-    comorb_df_set = comorb_df.set_index('Participant')
+    expr_df_set = expr_df.set_index('Normalized_ID')
+    comorb_df_set = comorb_df.set_index('Normalized_ID')
     
     # Binarize
-    rae_matrix = pd.DataFrame(0, index=[normalize_id(p) for p in patients], columns=area_scores['gene'].unique())
+    rae_matrix = pd.DataFrame(0, index=patients, columns=area_scores['gene'].unique())
     for row in area_scores.itertuples():
         gene = row.gene
         disease = row.comorbidity
         nes = row.NES
         
-        expr_series = expr_df.loc[gene]
-        disease_series = comorb_df_set.loc[[expr_normalized[p] for p in matched_normalized], disease]
-        disease_series.index = [normalize_id(idx) for idx in disease_series.index]
+        expr_series = expr_df_set[gene]
+        disease_series = comorb_df_set[disease]
         
         threshold = calculate_leading_edge_threshold(expr_series, disease_series, nes)
         print(f"Calculated Leading-Edge Threshold for {gene} ({disease}): {threshold:.4f} (NES: {nes})")
