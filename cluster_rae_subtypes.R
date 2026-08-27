@@ -1,6 +1,6 @@
 #!/usr/bin/env Rscript
 # ==============================================================================
-# cluster_rae_subtypes.R (v2)
+# cluster_rae_subtypes-v3.R
 #
 # This R script performs unsupervised K-means clustering on your binarized 
 # Patient-by-Gene Risk-Associated Expression (RAE) matrix. It calculates 
@@ -9,18 +9,23 @@
 # (Resilient, Canonical Diseased, Alternative Etiology, Typical Healthy) 
 # to generate your downstream DESeq2 design sample sheets.
 #
-# Usage:
-#   Rscript cluster_rae_subtypes.R <comorbidity_name> <number_of_clusters_k>
+# It includes an "Auto-Select Mode" that mathematically determines the optimal 
+# number of clusters k using Silhouette Analysis (maximizing average silhouette width)
+# so you do not have to guess!
 #
-# Example (Obstructive Sleep Apnea with k=3):
-#   Rscript cluster_rae_subtypes.R MONDO_obstructive_sleep_apnea_syndrome 3
+# Usage:
+#   Rscript cluster_rae_subtypes-v3.R <comorbidity_name> <k_clusters_or_"auto">
+#
+# Examples:
+#   Rscript cluster_rae_subtypes-v3.R MONDO_obstructive_sleep_apnea_syndrome auto
+#   Rscript cluster_rae_subtypes-v3.R MONDO_obstructive_sleep_apnea_syndrome 3
 # ==============================================================================
 
 # Suppress annoying loading warnings
 options(warn = -1)
 
 # Check and install/load standard packages if needed
-required_packages <- c("cluster", "ggplot2")
+required_packages <- c("cluster", "factoextra", "ggplot2")
 for (pkg in required_packages) {
   if (!requireNamespace(pkg, quietly = TRUE)) {
     message(paste("Installing package:", pkg))
@@ -38,7 +43,7 @@ args <- commandArgs(trailingOnly = TRUE)
 
 # Default values if no arguments are passed
 selected_disease <- if(length(args) >= 1) args[1] else "MONDO_sleep_apnea_syndrome"
-k_clusters <- if(length(args) >= 2) as.integer(args[2]) else 3
+k_input <- if(length(args) >= 2) args[2] else "auto"
 
 # Define input paths
 rae_file <- "RAE_matrix_for_clustering.csv"
@@ -126,7 +131,7 @@ for (k in 2:max_k) {
   km <- kmeans(cluster_matrix, centers = k, nstart = 25, iter.max = 50)
   wss[k] <- km$tot.withinss
   
-  # Calculate silhouette widths (using binary distance metric for binary vectors)
+  # Calculate silhouette widths (using binary distance metric for binary matrix)
   sil <- silhouette(km$cluster, dist(cluster_matrix, method = "binary"))
   sil_widths[k] <- mean(sil[, 3])
 }
@@ -163,8 +168,18 @@ ggsave("figures/clustering_silhouette_plot.png", plot = p2, width = 6, height = 
 cat(" -> Diagnostic plots saved to 'figures/clustering_elbow_plot.png' and 'figures/clustering_silhouette_plot.png'\n")
 
 # ==============================================================================
-# 5. EXECUTE FINAL K-MEANS & BURDEN PROFILING
+# 5. DETERMINE OPTIMAL K & RUN FINAL K-MEANS
 # ==============================================================================
+if (tolower(k_input) == "auto") {
+  # Programmatically select the k that maximizes average silhouette width
+  optimal_k <- which.max(sil_widths)
+  cat(sprintf("\n[Auto-Select] Programmatically identified optimal k = %d based on maximum Silhouette Width (%.4f).\n", 
+              optimal_k, sil_widths[optimal_k]))
+  k_clusters <- optimal_k
+} else {
+  k_clusters <- as.integer(k_input)
+}
+
 cat(paste("\n[Step 2/3] Running final K-Means with k =", k_clusters, "...\n"))
 
 # Set random seed for reproducibility
@@ -185,8 +200,6 @@ patient_clusters$RAE_Burden <- rowSums(cluster_matrix)
 # Classify each cluster's average burden to identify the "High Burden" background
 cluster_profiles <- aggregate(RAE_Burden ~ Cluster, data = patient_clusters, FUN = mean)
 colnames(cluster_profiles)[2] <- "Mean_RAE_Burden"
-
-# FIX: In R's order() function, the argument is 'decreasing', not 'descending'!
 cluster_profiles <- cluster_profiles[order(cluster_profiles$Mean_RAE_Burden, decreasing = TRUE), ]
 
 cat("\nSummary of Patient Clusters:\n")
