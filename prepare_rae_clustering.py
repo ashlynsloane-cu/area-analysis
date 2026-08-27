@@ -158,10 +158,6 @@ def main():
     # PATIENT ID ALIGNMENT & MATRIX ORIENTATION
     # -------------------------------------------------------------
     
-    # In the local filtered_values_dataframe.csv, 'Participant' is a column,
-    # and the index is just row numbers. This means the matrix layout is:
-    # Patients are Rows, Genes are Columns.
-    
     # Step A: Identify the Patient ID column in BOTH matrices
     expr_pat_col = find_column_by_candidates(expr_df, ['Participant', 'id', 'sample', 'patient_id'])
     comorb_pat_col = find_column_by_candidates(comorb_df, ['Participant', 'id', 'sample', 'patient_id'])
@@ -209,10 +205,10 @@ def main():
     # COLUMN MAPPING FOR AREA SHEET
     # -------------------------------------------------------------
     
-    gene_col = find_column_by_candidates(area_scores, ['gene', 'genesymbol', 'feature_id'])
-    disease_col = find_column_by_candidates(area_scores, ['comorbidity', 'attribute', 'label', 'disease'])
+    gene_col = find_column_by_candidates(area_scores, ['gene', 'genesymbol', 'feature_id', 'ranked_by'])
+    disease_col = find_column_by_candidates(area_scores, ['comorbidity', 'attribute', 'label', 'disease', 'boolean_attribute'])
     nes_col = find_column_by_candidates(area_scores, ['nes', 'normalized_enrichment_score'])
-    pval_col = find_column_by_candidates(area_scores, ['adjusted_pval', 'adjusted_p_value', 'adjpval', 'padj', 'p.adj'])
+    pval_col = find_column_by_candidates(area_scores, ['adjusted_pval', 'adjusted_p_value', 'adjpval', 'padj', 'p.adj', 'p_value_benjaminihochberg'])
     
     if not all([gene_col, disease_col, nes_col, pval_col]):
         print("\n[Error] Could not map all necessary columns in the AREA score sheet.")
@@ -246,10 +242,11 @@ def main():
     rae_matrix = pd.DataFrame(0, index=expr_df.index, columns=unique_sig_genes)
 
     processed_count = 0
-    for row in sig_pairs.itertuples():
-        gene = getattr(row, gene_col)
-        disease = getattr(row, disease_col)
-        nes = getattr(row, nes_col)
+    # Iterating over rows using a dictionary for perfect key/index safety
+    for idx, row in sig_pairs.iterrows():
+        gene = row[gene_col]
+        disease = row[disease_col]
+        nes = row[nes_col]
         
         # Ensure gene and comorbidity are present in your datasets
         if gene in expr_df.columns and disease in comorb_df.columns:
@@ -306,10 +303,10 @@ def generate_mock_and_run():
     
     # 3. Mock AREA scores
     area_data = [
-        {'gene': 'GENE_1', 'comorbidity': 'MONDO_sleep_apnea_syndrome', 'NES': 1.8, 'adjusted_pval': 0.0005},
-        {'gene': 'GENE_2', 'comorbidity': 'MONDO_sleep_apnea_syndrome', 'NES': -1.5, 'adjusted_pval': 0.0012},
-        {'gene': 'GENE_3', 'comorbidity': 'MONDO_congenital_heart_disease', 'NES': 2.1, 'adjusted_pval': 0.0001},
-        {'gene': 'GENE_4', 'comorbidity': 'MONDO_congenital_heart_disease', 'NES': -1.2, 'adjusted_pval': 0.008}
+        {'ranked_by': 'GENE_1', 'boolean_attribute': 'MONDO_sleep_apnea_syndrome', 'NES': 1.8, 'p_value_BenjaminiHochberg': 0.0005},
+        {'ranked_by': 'GENE_2', 'boolean_attribute': 'MONDO_sleep_apnea_syndrome', 'NES': -1.5, 'p_value_BenjaminiHochberg': 0.0012},
+        {'ranked_by': 'GENE_3', 'boolean_attribute': 'MONDO_congenital_heart_disease', 'NES': 2.1, 'p_value_BenjaminiHochberg': 0.0001},
+        {'ranked_by': 'GENE_4', 'boolean_attribute': 'MONDO_congenital_heart_disease', 'NES': -1.2, 'p_value_BenjaminiHochberg': 0.008}
     ]
     area_scores = pd.DataFrame(area_data)
     
@@ -321,11 +318,11 @@ def generate_mock_and_run():
     comorb_df_set = comorb_df.set_index('Normalized_ID')
     
     # Binarize
-    rae_matrix = pd.DataFrame(0, index=patients, columns=area_scores['gene'].unique())
-    for row in area_scores.itertuples():
-        gene = row.gene
-        disease = row.comorbidity
-        nes = row.NES
+    rae_matrix = pd.DataFrame(0, index=patients, columns=area_scores['ranked_by'].unique())
+    for idx, row in area_scores.iterrows():
+        gene = row['ranked_by']
+        disease = row['boolean_attribute']
+        nes = row['NES']
         
         expr_series = expr_df_set[gene]
         disease_series = comorb_df_set[disease]
