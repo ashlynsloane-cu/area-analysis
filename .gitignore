@@ -42,3 +42,7 @@ results/*
 # Temporary files
 *.tmp
 *.log
+
+# Allow tracking of structured reports and data tables inside results
+!results/**/*.txt
+!results/**/*.csv

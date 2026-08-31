@@ -1,0 +1,326 @@
+Comorbidity_A,Comorbidity_B,Raw_Col_A,Raw_Col_B,Cases_A,Cases_B,Overlap_Count,Jaccard_Similarity,Phi_Correlation,Odds_Ratio,P_Value
+Hashimoto Thyroiditis,Alopecia Areata,MONDO_Hashimoto_thyroiditis,MONDO_alopecia_areata,18,17,0,0.0,-0.07396572845038646,0.0,0.6180083632284836
+Hashimoto Thyroiditis,Astigmatism,MONDO_Hashimoto_thyroiditis,MONDO_astigmatism,18,25,3,0.075,0.06326661438386111,1.9454545454545455,0.39932132516479685
+Hashimoto Thyroiditis,Atrial Septal Defect,MONDO_Hashimoto_thyroiditis,MONDO_atrial_septal_defect,18,82,7,0.07526881720430108,0.03901607157294792,1.366060606060606,0.6028212275718183
+Hashimoto Thyroiditis,Atrioventricular Septal Defect,MONDO_Hashimoto_thyroiditis,MONDO_atrioventricular_septal_defect,18,32,3,0.06382978723404255,0.033858616921518564,1.4275862068965517,0.4822633836998361
+Hashimoto Thyroiditis,Celiac Disease,MONDO_Hashimoto_thyroiditis,MONDO_celiac_disease,18,24,4,0.10526315789473684,0.12060104035083828,3.085714285714286,0.0759912845797268
+Hashimoto Thyroiditis,Conductive Hearing Loss Disorder,MONDO_Hashimoto_thyroiditis,MONDO_conductive_hearing_loss_disorder,18,41,4,0.07272727272727272,0.04564264582799728,1.5366795366795367,0.5040297309482942
+Hashimoto Thyroiditis,Congenital Heart Disease,MONDO_Hashimoto_thyroiditis,MONDO_congenital_heart_disease,18,141,11,0.07432432432432433,0.03111708693543463,1.2813186813186814,0.8064498535019816
+Hashimoto Thyroiditis,Eustachian Tube Disorder,MONDO_Hashimoto_thyroiditis,MONDO_eustachian_tube_disorder,18,27,2,0.046511627906976744,0.004311571734154367,1.055,1.0
+Hashimoto Thyroiditis,Folliculitis,MONDO_Hashimoto_thyroiditis,MONDO_folliculitis,18,38,5,0.09803921568627451,0.09923998457506712,2.365967365967366,0.16006776743511972
+Hashimoto Thyroiditis,Hearing Loss Disorder,MONDO_Hashimoto_thyroiditis,MONDO_hearing_loss_disorder,18,59,3,0.04054054054054054,-0.04291268504591808,0.6428571428571429,0.7720436159945937
+Hashimoto Thyroiditis,Hidradenitis Suppurativa,MONDO_Hashimoto_thyroiditis,MONDO_hidradenitis_suppurativa,18,25,2,0.04878048780487805,0.011761101391871616,1.1576086956521738,0.6931785186093564
+Hashimoto Thyroiditis,Hypothyroidism,MONDO_Hashimoto_thyroiditis,MONDO_hypothyroidism,18,135,17,0.125,0.22854376150982855,17.0,0.00013823775608864906
+Hashimoto Thyroiditis,Obstructive Sleep Apnea Syndrome,MONDO_Hashimoto_thyroiditis,MONDO_obstructive_sleep_apnea_syndrome,18,86,6,0.061224489795918366,-0.003063480506574174,0.975,1.0
+Hashimoto Thyroiditis,"Otitis Media, Susceptibility To",MONDO_Hashimoto_thyroiditis,"MONDO_otitis_media,_susceptibility_to",18,44,4,0.06896551724137931,0.035753600131842936,1.4,0.5261831676266289
+Hashimoto Thyroiditis,Patent Ductus Arteriosus,MONDO_Hashimoto_thyroiditis,MONDO_patent_ductus_arteriosus,18,45,1,0.016129032258064516,-0.08796362888380413,0.25668449197860965,0.21203095009349504
+Hashimoto Thyroiditis,Patent Foramen Ovale,MONDO_Hashimoto_thyroiditis,MONDO_patent_foramen_ovale,18,34,1,0.0196078431372549,-0.0635096871900647,0.36185383244206776,0.48160629122716403
+Hashimoto Thyroiditis,Pneumonia,MONDO_Hashimoto_thyroiditis,MONDO_pneumonia,18,24,2,0.05,0.015694655936067996,1.2159090909090908,0.6819428023894174
+Hashimoto Thyroiditis,Psoriasis,MONDO_Hashimoto_thyroiditis,MONDO_psoriasis,18,16,2,0.0625,0.05469932372018622,1.9821428571428572,0.31571835001663534
+Hashimoto Thyroiditis,Pulmonary Hypertension,MONDO_Hashimoto_thyroiditis,MONDO_pulmonary_hypertension,18,20,0,0.0,-0.08073973509982288,0.0,0.37484847691078815
+Hashimoto Thyroiditis,Reactive Airway Disease,MONDO_Hashimoto_thyroiditis,MONDO_reactive_airway_disease,18,21,2,0.05405405405405406,0.028514350941080305,1.4276315789473684,0.6503261280720116
+Hashimoto Thyroiditis,Scoliosis,MONDO_Hashimoto_thyroiditis,MONDO_scoliosis,18,14,1,0.03225806451612903,0.0005293806988469837,1.009049773755656,1.0
+Hashimoto Thyroiditis,Seborrheic Dermatitis,MONDO_Hashimoto_thyroiditis,MONDO_seborrheic_dermatitis,18,14,1,0.03225806451612903,0.0005293806988469837,1.009049773755656,1.0
+Hashimoto Thyroiditis,Sleep Apnea Syndrome,MONDO_Hashimoto_thyroiditis,MONDO_sleep_apnea_syndrome,18,102,7,0.061946902654867256,-0.007146836712673603,0.9444976076555024,1.0
+Hashimoto Thyroiditis,Strabismus,MONDO_Hashimoto_thyroiditis,MONDO_strabismus,18,27,1,0.022727272727272728,-0.045467483741991506,0.4751131221719457,0.7026504242357392
+Hashimoto Thyroiditis,Ventricular Septal Defect,MONDO_Hashimoto_thyroiditis,MONDO_ventricular_septal_defect,18,67,6,0.0759493670886076,0.0435889754695571,1.4344262295081966,0.5788550152128673
+Alopecia Areata,Astigmatism,MONDO_alopecia_areata,MONDO_astigmatism,17,25,1,0.024390243902439025,-0.03560489678993562,0.5546875,1.0
+Alopecia Areata,Atrial Septal Defect,MONDO_alopecia_areata,MONDO_atrial_septal_defect,17,82,8,0.08791208791208792,0.0846351747758006,1.957957957957958,0.18787203948721048
+Alopecia Areata,Atrioventricular Septal Defect,MONDO_alopecia_areata,MONDO_atrioventricular_septal_defect,17,32,4,0.08888888888888889,0.0882250450013503,2.2967032967032965,0.24419186746090601
+Alopecia Areata,Celiac Disease,MONDO_alopecia_areata,MONDO_celiac_disease,17,24,1,0.025,-0.03265521506033051,0.5815217391304348,1.0
+Alopecia Areata,Conductive Hearing Loss Disorder,MONDO_alopecia_areata,MONDO_conductive_hearing_loss_disorder,17,41,3,0.05454545454545454,0.010958042812540467,1.1221804511278195,0.7426492528401656
+Alopecia Areata,Congenital Heart Disease,MONDO_alopecia_areata,MONDO_congenital_heart_disease,17,141,9,0.06040268456375839,-0.013854012240750469,0.8948863636363636,1.0
+Alopecia Areata,Eustachian Tube Disorder,MONDO_alopecia_areata,MONDO_eustachian_tube_disorder,17,27,2,0.047619047619047616,0.009860583967309556,1.1306666666666667,0.6988382501874795
+Alopecia Areata,Folliculitis,MONDO_alopecia_areata,MONDO_folliculitis,17,38,6,0.12244897959183673,0.15267826227319764,3.4943181818181817,0.0266729311624141
+Alopecia Areata,Hearing Loss Disorder,MONDO_alopecia_areata,MONDO_hearing_loss_disorder,17,59,3,0.0410958904109589,-0.03539770433143362,0.6926020408163265,0.7691210982509348
+Alopecia Areata,Hidradenitis Suppurativa,MONDO_alopecia_areata,MONDO_hidradenitis_suppurativa,17,25,3,0.07692307692307693,0.07016871472636435,2.094155844155844,0.22670073173363733
+Alopecia Areata,Hypothyroidism,MONDO_alopecia_areata,MONDO_hypothyroidism,17,135,10,0.07042253521126761,0.030452789865456888,1.28,0.8022999247269018
+Alopecia Areata,Obstructive Sleep Apnea Syndrome,MONDO_alopecia_areata,MONDO_obstructive_sleep_apnea_syndrome,17,86,4,0.04040404040404041,-0.05845643936216302,0.5816135084427767,0.4343483907913741
+Alopecia Areata,"Otitis Media, Susceptibility To",MONDO_alopecia_areata,"MONDO_otitis_media,_susceptibility_to",17,44,1,0.016666666666666666,-0.0809640696147581,0.2819767441860465,0.32060185125423835
+Alopecia Areata,Patent Ductus Arteriosus,MONDO_alopecia_areata,MONDO_patent_ductus_arteriosus,17,45,2,0.03333333333333333,-0.04174986636335921,0.6015503875968993,0.7447560193829095
+Alopecia Areata,Patent Foramen Ovale,MONDO_alopecia_areata,MONDO_patent_foramen_ovale,17,34,3,0.0625,0.03351725089945584,1.423963133640553,0.7092947436162977
+Alopecia Areata,Pneumonia,MONDO_alopecia_areata,MONDO_pneumonia,17,24,0,0.0,-0.08651511522477175,0.0,0.38262270615078653
+Alopecia Areata,Psoriasis,MONDO_alopecia_areata,MONDO_psoriasis,17,16,2,0.06451612903225806,0.060251088792750096,2.123809523809524,0.2910111062430097
+Alopecia Areata,Pulmonary Hypertension,MONDO_alopecia_areata,MONDO_pulmonary_hypertension,17,20,1,0.027777777777777776,-0.019805093224537808,0.7171052631578947,1.0
+Alopecia Areata,Reactive Airway Disease,MONDO_alopecia_areata,MONDO_reactive_airway_disease,17,21,0,0.0,-0.08040479972872594,0.0,0.3745918777754368
+Alopecia Areata,Scoliosis,MONDO_alopecia_areata,MONDO_scoliosis,17,14,1,0.03333333333333333,0.004348622516799468,1.0769230769230769,1.0
+Alopecia Areata,Seborrheic Dermatitis,MONDO_alopecia_areata,MONDO_seborrheic_dermatitis,17,14,2,0.06896551724137931,0.07338300497099101,2.5,0.23860377375210393
+Alopecia Areata,Sleep Apnea Syndrome,MONDO_alopecia_areata,MONDO_sleep_apnea_syndrome,17,102,4,0.034782608695652174,-0.09084560692066695,0.4364207221350079,0.20163973981138467
+Alopecia Areata,Strabismus,MONDO_alopecia_areata,MONDO_strabismus,17,27,1,0.023255813953488372,-0.04125346353670324,0.5072115384615384,1.0
+Alopecia Areata,Ventricular Septal Defect,MONDO_alopecia_areata,MONDO_ventricular_septal_defect,17,67,5,0.06329113924050633,0.018438027455833027,1.1760752688172043,0.7784501744793717
+Astigmatism,Atrial Septal Defect,MONDO_astigmatism,MONDO_atrial_septal_defect,25,82,11,0.11458333333333333,0.08279689308549439,1.7484909456740443,0.2589854642543819
+Astigmatism,Atrioventricular Septal Defect,MONDO_astigmatism,MONDO_atrioventricular_septal_defect,25,32,1,0.017857142857142856,-0.0856157017666757,0.2661290322580645,0.33516494737911007
+Astigmatism,Celiac Disease,MONDO_astigmatism,MONDO_celiac_disease,25,24,4,0.08888888888888889,0.07400073720591263,1.9904761904761905,0.27134593848705857
+Astigmatism,Conductive Hearing Loss Disorder,MONDO_astigmatism,MONDO_conductive_hearing_loss_disorder,25,41,6,0.1,0.07057177974864264,1.7503759398496241,0.25784338475780577
+Astigmatism,Congenital Heart Disease,MONDO_astigmatism,MONDO_congenital_heart_disease,25,141,16,0.10666666666666667,0.056435482393038874,1.479111111111111,0.4040900416966144
+Astigmatism,Eustachian Tube Disorder,MONDO_astigmatism,MONDO_eustachian_tube_disorder,25,27,10,0.23809523809523808,0.314844622461831,8.313725490196079,3.923395860259303e-05
+Astigmatism,Folliculitis,MONDO_astigmatism,MONDO_folliculitis,25,38,3,0.05,-0.02742530271153371,0.7558441558441559,1.0
+Astigmatism,Hearing Loss Disorder,MONDO_astigmatism,MONDO_hearing_loss_disorder,25,59,5,0.06329113924050633,-0.025259386839943786,0.8101851851851852,0.8068372950250472
+Astigmatism,Hidradenitis Suppurativa,MONDO_astigmatism,MONDO_hidradenitis_suppurativa,25,25,5,0.1111111111111111,0.11266375545851529,2.6125,0.0822150676270225
+Astigmatism,Hypothyroidism,MONDO_astigmatism,MONDO_hypothyroidism,25,135,11,0.0738255033557047,-0.06058261591594726,0.6653225806451613,0.4005250398508152
+Astigmatism,Obstructive Sleep Apnea Syndrome,MONDO_astigmatism,MONDO_obstructive_sleep_apnea_syndrome,25,86,17,0.18085106382978725,0.23837882012859685,4.927536231884058,0.00027459918400155037
+Astigmatism,"Otitis Media, Susceptibility To",MONDO_astigmatism,"MONDO_otitis_media,_susceptibility_to",25,44,8,0.13114754098360656,0.1281422015829967,2.522875816993464,0.05195992714672995
+Astigmatism,Patent Ductus Arteriosus,MONDO_astigmatism,MONDO_patent_ductus_arteriosus,25,45,11,0.1864406779661017,0.22745170213962854,4.506302521008403,0.001119141661861515
+Astigmatism,Patent Foramen Ovale,MONDO_astigmatism,MONDO_patent_foramen_ovale,25,34,11,0.22916666666666666,0.2970692611994828,7.037267080745342,6.100071218248474e-05
+Astigmatism,Pneumonia,MONDO_astigmatism,MONDO_pneumonia,25,24,5,0.11363636363636363,0.11918387963452276,2.763157894736842,0.07057320986930136
+Astigmatism,Psoriasis,MONDO_astigmatism,MONDO_psoriasis,25,16,1,0.025,-0.0312691906507489,0.5944444444444444,1.0
+Astigmatism,Pulmonary Hypertension,MONDO_astigmatism,MONDO_pulmonary_hypertension,25,20,5,0.125,0.14875790489467192,3.566666666666667,0.03411472774088575
+Astigmatism,Reactive Airway Disease,MONDO_astigmatism,MONDO_reactive_airway_disease,25,21,4,0.09523809523809523,0.09276969713016527,2.3753501400560224,0.13719882703011024
+Astigmatism,Scoliosis,MONDO_astigmatism,MONDO_scoliosis,25,14,2,0.05405405405405406,0.036024644414602985,1.5724637681159421,0.6352543250099818
+Astigmatism,Seborrheic Dermatitis,MONDO_astigmatism,MONDO_seborrheic_dermatitis,25,14,5,0.14705882352941177,0.2097637522875617,6.111111111111111,0.006711603528984635
+Astigmatism,Sleep Apnea Syndrome,MONDO_astigmatism,MONDO_sleep_apnea_syndrome,25,102,5,0.040983606557377046,-0.13586273228839077,0.3402061855670103,0.03262918070099689
+Astigmatism,Strabismus,MONDO_astigmatism,MONDO_strabismus,25,27,9,0.20930232558139536,0.27196497950992476,6.59375,0.00029731978745784355
+Astigmatism,Ventricular Septal Defect,MONDO_astigmatism,MONDO_ventricular_septal_defect,25,67,3,0.033707865168539325,-0.10780150584373065,0.3515625,0.09802886816895687
+Atrial Septal Defect,Atrioventricular Septal Defect,MONDO_atrial_septal_defect,MONDO_atrioventricular_septal_defect,82,32,28,0.32558139534883723,0.44836347061436843,21.77777777777778,5.578295516811215e-12
+Atrial Septal Defect,Celiac Disease,MONDO_atrial_septal_defect,MONDO_celiac_disease,82,24,8,0.08163265306122448,0.0072533608768146655,1.054054054054054,1.0
+Atrial Septal Defect,Conductive Hearing Loss Disorder,MONDO_atrial_septal_defect,MONDO_conductive_hearing_loss_disorder,82,41,14,0.12844036697247707,0.01748029872827735,1.1056644880174291,0.8555612902811374
+Atrial Septal Defect,Congenital Heart Disease,MONDO_atrial_septal_defect,MONDO_congenital_heart_disease,82,141,82,0.5815602836879432,0.6181193911577427,inf,2.8878420616949575e-28
+Atrial Septal Defect,Eustachian Tube Disorder,MONDO_atrial_septal_defect,MONDO_eustachian_tube_disorder,82,27,13,0.13541666666666666,0.1170207655773267,2.1262939958592133,0.08069830805644389
+Atrial Septal Defect,Folliculitis,MONDO_atrial_septal_defect,MONDO_folliculitis,82,38,15,0.14285714285714285,0.06450147512819705,1.4503569110966905,0.3477318340019738
+Atrial Septal Defect,Hearing Loss Disorder,MONDO_atrial_septal_defect,MONDO_hearing_loss_disorder,82,59,22,0.18487394957983194,0.058877153092368344,1.337837837837838,0.34589572593201007
+Atrial Septal Defect,Hidradenitis Suppurativa,MONDO_atrial_septal_defect,MONDO_hidradenitis_suppurativa,82,25,8,0.08080808080808081,-0.002003150639165187,0.985691573926868,1.0
+Atrial Septal Defect,Hypothyroidism,MONDO_atrial_septal_defect,MONDO_hypothyroidism,82,135,51,0.3072289156626506,0.12516110360365756,1.7235023041474655,0.059488276650441076
+Atrial Septal Defect,Obstructive Sleep Apnea Syndrome,MONDO_atrial_septal_defect,MONDO_obstructive_sleep_apnea_syndrome,82,86,38,0.2923076923076923,0.18213706410623368,2.231060606060606,0.004583245594081419
+Atrial Septal Defect,"Otitis Media, Susceptibility To",MONDO_atrial_septal_defect,"MONDO_otitis_media,_susceptibility_to",82,44,17,0.1559633027522936,0.06219439011874887,1.4045584045584045,0.37563962345772983
+Atrial Septal Defect,Patent Ductus Arteriosus,MONDO_atrial_septal_defect,MONDO_patent_ductus_arteriosus,82,45,24,0.23300970873786409,0.2089031907729581,2.9753694581280787,0.0014085405747696945
+Atrial Septal Defect,Patent Foramen Ovale,MONDO_atrial_septal_defect,MONDO_patent_foramen_ovale,82,34,16,0.16,0.12423064092138843,2.074074074074074,0.07444508175476279
+Atrial Septal Defect,Pneumonia,MONDO_atrial_septal_defect,MONDO_pneumonia,82,24,15,0.16483516483516483,0.2087607927358221,4.054726368159204,0.002072612935335614
+Atrial Septal Defect,Psoriasis,MONDO_atrial_septal_defect,MONDO_psoriasis,82,16,6,0.06521739130434782,0.028927855633727014,1.2789473684210526,0.7829487532357088
+Atrial Septal Defect,Pulmonary Hypertension,MONDO_atrial_septal_defect,MONDO_pulmonary_hypertension,82,20,12,0.13333333333333333,0.17330399677454142,3.5142857142857142,0.010713373904135716
+Atrial Septal Defect,Reactive Airway Disease,MONDO_atrial_septal_defect,MONDO_reactive_airway_disease,82,21,13,0.14444444444444443,0.1901946644338853,3.86231884057971,0.0057464574241668665
+Atrial Septal Defect,Scoliosis,MONDO_atrial_septal_defect,MONDO_scoliosis,82,14,4,0.043478260869565216,-0.019174901551923813,0.8307692307692308,1.0
+Atrial Septal Defect,Seborrheic Dermatitis,MONDO_atrial_septal_defect,MONDO_seborrheic_dermatitis,82,14,5,0.054945054945054944,0.017722257494959887,1.176046176046176,0.7742055524915634
+Atrial Septal Defect,Sleep Apnea Syndrome,MONDO_atrial_septal_defect,MONDO_sleep_apnea_syndrome,82,102,32,0.21052631578947367,-0.015959488695786443,0.9325714285714286,0.8912329321202199
+Atrial Septal Defect,Strabismus,MONDO_atrial_septal_defect,MONDO_strabismus,82,27,9,0.09,0.007744021251440738,1.0547945205479452,1.0
+Atrial Septal Defect,Ventricular Septal Defect,MONDO_atrial_septal_defect,MONDO_ventricular_septal_defect,82,67,45,0.4326923076923077,0.44654428756255565,8.292383292383292,5.4569970935987916e-12
+Atrioventricular Septal Defect,Celiac Disease,MONDO_atrioventricular_septal_defect,MONDO_celiac_disease,32,24,3,0.05660377358490566,-0.0009581427883255249,0.9901477832512315,1.0
+Atrioventricular Septal Defect,Conductive Hearing Loss Disorder,MONDO_atrioventricular_septal_defect,MONDO_conductive_hearing_loss_disorder,32,41,4,0.057971014492753624,-0.037580149597935326,0.7142857142857143,0.7969481539851824
+Atrioventricular Septal Defect,Congenital Heart Disease,MONDO_atrioventricular_septal_defect,MONDO_congenital_heart_disease,32,141,32,0.22695035460992907,0.3398820017215433,inf,1.6115120143260804e-09
+Atrioventricular Septal Defect,Eustachian Tube Disorder,MONDO_atrioventricular_septal_defect,MONDO_eustachian_tube_disorder,32,27,1,0.017241379310344827,-0.09244502579107781,0.24317617866004962,0.2184288741365395
+Atrioventricular Septal Defect,Folliculitis,MONDO_atrioventricular_septal_defect,MONDO_folliculitis,32,38,4,0.06060606060606061,-0.026191468277941464,0.7899159663865546,0.7965804572822328
+Atrioventricular Septal Defect,Hearing Loss Disorder,MONDO_atrioventricular_septal_defect,MONDO_hearing_loss_disorder,32,59,8,0.0963855421686747,0.01592823682285643,1.1176470588235294,0.8237590931941314
+Atrioventricular Septal Defect,Hidradenitis Suppurativa,MONDO_atrioventricular_septal_defect,MONDO_hidradenitis_suppurativa,32,25,3,0.05555555555555555,-0.005958601954457282,0.9404388714733543,1.0
+Atrioventricular Septal Defect,Hypothyroidism,MONDO_atrioventricular_septal_defect,MONDO_hypothyroidism,32,135,18,0.12080536912751678,0.023588954867329526,1.1538461538461537,0.8500372818899641
+Atrioventricular Septal Defect,Obstructive Sleep Apnea Syndrome,MONDO_atrioventricular_septal_defect,MONDO_obstructive_sleep_apnea_syndrome,32,86,10,0.09259259259259259,-0.020925725212681958,0.8732057416267942,0.8428719075941443
+Atrioventricular Septal Defect,"Otitis Media, Susceptibility To",MONDO_atrioventricular_septal_defect,"MONDO_otitis_media,_susceptibility_to",32,44,3,0.0410958904109589,-0.07973427616185397,0.456686291000841,0.3159170441946045
+Atrioventricular Septal Defect,Patent Ductus Arteriosus,MONDO_atrioventricular_septal_defect,MONDO_patent_ductus_arteriosus,32,45,4,0.0547945205479452,-0.051872237338662,0.6306620209059234,0.6197476859728117
+Atrioventricular Septal Defect,Patent Foramen Ovale,MONDO_atrioventricular_septal_defect,MONDO_patent_foramen_ovale,32,34,1,0.015384615384615385,-0.11440994460358,0.18475073313782991,0.0926380839284239
+Atrioventricular Septal Defect,Pneumonia,MONDO_atrioventricular_septal_defect,MONDO_pneumonia,32,24,5,0.09803921568627451,0.08016461328990225,1.9785575048732944,0.20061523497593348
+Atrioventricular Septal Defect,Psoriasis,MONDO_atrioventricular_septal_defect,MONDO_psoriasis,32,16,0,0.0,-0.09843963953377269,0.0,0.23434225887716537
+Atrioventricular Septal Defect,Pulmonary Hypertension,MONDO_atrioventricular_septal_defect,MONDO_pulmonary_hypertension,32,20,2,0.04,-0.0228928323735132,0.7555555555555555,1.0
+Atrioventricular Septal Defect,Reactive Airway Disease,MONDO_atrioventricular_septal_defect,MONDO_reactive_airway_disease,32,21,6,0.1276595744680851,0.14451086829392756,3.1846153846153844,0.03367270449122013
+Atrioventricular Septal Defect,Scoliosis,MONDO_atrioventricular_septal_defect,MONDO_scoliosis,32,14,1,0.022222222222222223,-0.03970823787161997,0.5186104218362283,1.0
+Atrioventricular Septal Defect,Seborrheic Dermatitis,MONDO_atrioventricular_septal_defect,MONDO_seborrheic_dermatitis,32,14,1,0.022222222222222223,-0.03970823787161997,0.5186104218362283,1.0
+Atrioventricular Septal Defect,Sleep Apnea Syndrome,MONDO_atrioventricular_septal_defect,MONDO_sleep_apnea_syndrome,32,102,13,0.10743801652892562,0.003620847553763598,1.0224719101123596,1.0
+Atrioventricular Septal Defect,Strabismus,MONDO_atrioventricular_septal_defect,MONDO_strabismus,32,27,3,0.05357142857142857,-0.015458020706049078,0.853448275862069,1.0
+Atrioventricular Septal Defect,Ventricular Septal Defect,MONDO_atrioventricular_septal_defect,MONDO_ventricular_septal_defect,32,67,29,0.4142857142857143,0.5535121857874137,46.80701754385965,1.9372223751642518e-16
+Celiac Disease,Conductive Hearing Loss Disorder,MONDO_celiac_disease,MONDO_conductive_hearing_loss_disorder,24,41,3,0.04838709677419355,-0.031974348597453024,0.7218045112781954,0.7755971259262178
+Celiac Disease,Congenital Heart Disease,MONDO_celiac_disease,MONDO_congenital_heart_disease,24,141,12,0.0784313725490196,-0.03582786758538705,0.7829457364341085,0.6672654577969293
+Celiac Disease,Eustachian Tube Disorder,MONDO_celiac_disease,MONDO_eustachian_tube_disorder,24,27,3,0.0625,0.019599297347925,1.2261904761904763,0.7281168437514025
+Celiac Disease,Folliculitis,MONDO_celiac_disease,MONDO_folliculitis,24,38,6,0.10714285714285714,0.09092079184111859,2.0625,0.22284099183519746
+Celiac Disease,Hearing Loss Disorder,MONDO_celiac_disease,MONDO_hearing_loss_disorder,24,59,8,0.10666666666666667,0.0772979296285443,1.7549019607843137,0.21373572287237164
+Celiac Disease,Hidradenitis Suppurativa,MONDO_celiac_disease,MONDO_hidradenitis_suppurativa,24,25,2,0.0425531914893617,-0.016365547651307603,0.8181818181818182,1.0
+Celiac Disease,Hypothyroidism,MONDO_celiac_disease,MONDO_hypothyroidism,24,135,13,0.08904109589041095,0.006583878165799995,1.0461997019374067,1.0
+Celiac Disease,Obstructive Sleep Apnea Syndrome,MONDO_celiac_disease,MONDO_obstructive_sleep_apnea_syndrome,24,86,11,0.1111111111111111,0.08174278963145305,1.7487179487179487,0.2562222741106363
+Celiac Disease,"Otitis Media, Susceptibility To",MONDO_celiac_disease,"MONDO_otitis_media,_susceptibility_to",24,44,3,0.046153846153846156,-0.041166297278484414,0.6585365853658537,0.7765478036880942
+Celiac Disease,Patent Ductus Arteriosus,MONDO_celiac_disease,MONDO_patent_ductus_arteriosus,24,45,5,0.078125,0.026369668011022907,1.25,0.7781049618505465
+Celiac Disease,Patent Foramen Ovale,MONDO_celiac_disease,MONDO_patent_foramen_ovale,24,34,2,0.03571428571428571,-0.04793253286375411,0.5625,0.7514967933931356
+Celiac Disease,Pneumonia,MONDO_celiac_disease,MONDO_pneumonia,24,24,0,0.0,-0.10434782608695652,0.0,0.14217531486131607
+Celiac Disease,Psoriasis,MONDO_celiac_disease,MONDO_psoriasis,24,16,3,0.08108108108108109,0.0824467975397009,2.3846153846153846,0.18254673129224505
+Celiac Disease,Pulmonary Hypertension,MONDO_celiac_disease,MONDO_pulmonary_hypertension,24,20,2,0.047619047619047616,0.005508908587581999,1.0707070707070707,1.0
+Celiac Disease,Reactive Airway Disease,MONDO_celiac_disease,MONDO_reactive_airway_disease,24,21,0,0.0,-0.09697803715399027,0.0,0.23543676560802995
+Celiac Disease,Scoliosis,MONDO_celiac_disease,MONDO_scoliosis,24,14,1,0.02702702702702703,-0.019040338929657886,0.725752508361204,1.0
+Celiac Disease,Seborrheic Dermatitis,MONDO_celiac_disease,MONDO_seborrheic_dermatitis,24,14,2,0.05555555555555555,0.03993827190123362,1.6515151515151516,0.6288670735585435
+Celiac Disease,Sleep Apnea Syndrome,MONDO_celiac_disease,MONDO_sleep_apnea_syndrome,24,102,9,0.07692307692307693,-0.017511509973693194,0.8838709677419355,0.8303284508310906
+Celiac Disease,Strabismus,MONDO_celiac_disease,MONDO_strabismus,24,27,1,0.02,-0.06773792241300396,0.3411371237458194,0.48614963349779666
+Celiac Disease,Ventricular Septal Defect,MONDO_celiac_disease,MONDO_ventricular_septal_defect,24,67,6,0.07058823529411765,-0.01010070163319051,0.9234972677595629,1.0
+Conductive Hearing Loss Disorder,Congenital Heart Disease,MONDO_conductive_hearing_loss_disorder,MONDO_congenital_heart_disease,41,141,23,0.14465408805031446,0.005171295163877123,1.0287193973634652,1.0
+Conductive Hearing Loss Disorder,Eustachian Tube Disorder,MONDO_conductive_hearing_loss_disorder,MONDO_eustachian_tube_disorder,41,27,9,0.15254237288135594,0.16115258056529883,3.046875,0.02222172766775497
+Conductive Hearing Loss Disorder,Folliculitis,MONDO_conductive_hearing_loss_disorder,MONDO_folliculitis,41,38,5,0.06756756756756757,-0.034016692472338794,0.7575757575757576,0.8110205149481233
+Conductive Hearing Loss Disorder,Hearing Loss Disorder,MONDO_conductive_hearing_loss_disorder,MONDO_hearing_loss_disorder,41,59,3,0.030927835051546393,-0.1653093685008355,0.2213345864661654,0.007853914359173753
+Conductive Hearing Loss Disorder,Hidradenitis Suppurativa,MONDO_conductive_hearing_loss_disorder,MONDO_hidradenitis_suppurativa,41,25,3,0.047619047619047616,-0.03719514644066736,0.6854066985645934,0.7758294270380954
+Conductive Hearing Loss Disorder,Hypothyroidism,MONDO_conductive_hearing_loss_disorder,MONDO_hypothyroidism,41,135,24,0.15789473684210525,0.047363170476738915,1.2972972972972974,0.4970153108542363
+Conductive Hearing Loss Disorder,Obstructive Sleep Apnea Syndrome,MONDO_conductive_hearing_loss_disorder,MONDO_obstructive_sleep_apnea_syndrome,41,86,17,0.15454545454545454,0.0705081930655242,1.4782608695652173,0.2822967330223129
+Conductive Hearing Loss Disorder,"Otitis Media, Susceptibility To",MONDO_conductive_hearing_loss_disorder,"MONDO_otitis_media,_susceptibility_to",41,44,16,0.2318840579710145,0.2515884638754787,4.228571428571429,0.00022521837549160839
+Conductive Hearing Loss Disorder,Patent Ductus Arteriosus,MONDO_conductive_hearing_loss_disorder,MONDO_patent_ductus_arteriosus,41,45,11,0.14666666666666667,0.10471408023220935,1.9303921568627451,0.11678206624282217
+Conductive Hearing Loss Disorder,Patent Foramen Ovale,MONDO_conductive_hearing_loss_disorder,MONDO_patent_foramen_ovale,41,34,4,0.056338028169014086,-0.046769127802484704,0.6594594594594595,0.6181384645501269
+Conductive Hearing Loss Disorder,Pneumonia,MONDO_conductive_hearing_loss_disorder,MONDO_pneumonia,41,24,6,0.1016949152542373,0.0777754425343452,1.8571428571428572,0.24157192876636632
+Conductive Hearing Loss Disorder,Psoriasis,MONDO_conductive_hearing_loss_disorder,MONDO_psoriasis,41,16,3,0.05555555555555555,0.01838127638835359,1.214574898785425,0.7284238346554515
+Conductive Hearing Loss Disorder,Pulmonary Hypertension,MONDO_conductive_hearing_loss_disorder,MONDO_pulmonary_hypertension,41,20,3,0.05172413793103448,-0.009072423961525602,0.9102167182662538,1.0
+Conductive Hearing Loss Disorder,Reactive Airway Disease,MONDO_conductive_hearing_loss_disorder,MONDO_reactive_airway_disease,41,21,6,0.10714285714285714,0.10142480711255873,2.262857142857143,0.1212137859014992
+Conductive Hearing Loss Disorder,Scoliosis,MONDO_conductive_hearing_loss_disorder,MONDO_scoliosis,41,14,0,0.0,-0.10596453181668804,0.0,0.13520884705341335
+Conductive Hearing Loss Disorder,Seborrheic Dermatitis,MONDO_conductive_hearing_loss_disorder,MONDO_seborrheic_dermatitis,41,14,3,0.057692307692307696,0.03470615327793963,1.4497607655502391,0.47897031778487764
+Conductive Hearing Loss Disorder,Sleep Apnea Syndrome,MONDO_conductive_hearing_loss_disorder,MONDO_sleep_apnea_syndrome,41,102,19,0.1532258064516129,0.05534549262675138,1.352683461117196,0.38944146341208963
+Conductive Hearing Loss Disorder,Strabismus,MONDO_conductive_hearing_loss_disorder,MONDO_strabismus,41,27,5,0.07936507936507936,0.022279788492064214,1.2058080808080809,0.781561360106191
+Conductive Hearing Loss Disorder,Ventricular Septal Defect,MONDO_conductive_hearing_loss_disorder,MONDO_ventricular_septal_defect,41,67,11,0.1134020618556701,0.004493222482129661,1.0279761904761904,1.0
+Congenital Heart Disease,Eustachian Tube Disorder,MONDO_congenital_heart_disease,MONDO_eustachian_tube_disorder,141,27,20,0.13513513513513514,0.12882045088788074,2.5029515938606846,0.04270090629207389
+Congenital Heart Disease,Folliculitis,MONDO_congenital_heart_disease,MONDO_folliculitis,141,38,25,0.16233766233766234,0.08674495382896147,1.6578249336870026,0.21533740370978982
+Congenital Heart Disease,Hearing Loss Disorder,MONDO_congenital_heart_disease,MONDO_hearing_loss_disorder,141,59,35,0.21212121212121213,0.04217392473787921,1.2244496855345912,0.5514471147835884
+Congenital Heart Disease,Hidradenitis Suppurativa,MONDO_congenital_heart_disease,MONDO_hidradenitis_suppurativa,141,25,14,0.09210526315789473,0.003245825517966985,1.0221904080171798,1.0
+Congenital Heart Disease,Hypothyroidism,MONDO_congenital_heart_disease,MONDO_hypothyroidism,141,135,83,0.43005181347150256,0.1279465852798074,1.6787135278514589,0.044033866415923426
+Congenital Heart Disease,Obstructive Sleep Apnea Syndrome,MONDO_congenital_heart_disease,MONDO_obstructive_sleep_apnea_syndrome,141,86,57,0.3352941176470588,0.15501890785285868,1.9655172413793103,0.01627333930297552
+Congenital Heart Disease,"Otitis Media, Susceptibility To",MONDO_congenital_heart_disease,"MONDO_otitis_media,_susceptibility_to",141,44,31,0.2012987012987013,0.13763589379214955,2.167832167832168,0.030802254600583723
+Congenital Heart Disease,Patent Ductus Arteriosus,MONDO_congenital_heart_disease,MONDO_patent_ductus_arteriosus,141,45,45,0.3191489361702128,0.4153964485985609,inf,1.140009897523937e-13
+Congenital Heart Disease,Patent Foramen Ovale,MONDO_congenital_heart_disease,MONDO_patent_foramen_ovale,141,34,34,0.24113475177304963,0.35193121067485106,inf,3.456920634166172e-10
+Congenital Heart Disease,Pneumonia,MONDO_congenital_heart_disease,MONDO_pneumonia,141,24,19,0.13013698630136986,0.15376126505395277,3.363934426229508,0.016861308572579458
+Congenital Heart Disease,Psoriasis,MONDO_congenital_heart_disease,MONDO_psoriasis,141,16,8,0.053691275167785234,-0.02875747629083904,0.7894736842105263,0.7960106136584637
+Congenital Heart Disease,Pulmonary Hypertension,MONDO_congenital_heart_disease,MONDO_pulmonary_hypertension,141,20,19,0.13380281690140844,0.23230535660393645,17.442622950819672,9.399724383138392e-05
+Congenital Heart Disease,Reactive Airway Disease,MONDO_congenital_heart_disease,MONDO_reactive_airway_disease,141,21,16,0.1095890410958904,0.12492205690355176,2.7648,0.0650905164988677
+Congenital Heart Disease,Scoliosis,MONDO_congenital_heart_disease,MONDO_scoliosis,141,14,8,0.05442176870748299,0.007927013116418693,1.0726817042606516,1.0
+Congenital Heart Disease,Seborrheic Dermatitis,MONDO_congenital_heart_disease,MONDO_seborrheic_dermatitis,141,14,7,0.0472972972972973,-0.02678783742789765,0.7910447761194029,0.784170600088222
+Congenital Heart Disease,Sleep Apnea Syndrome,MONDO_congenital_heart_disease,MONDO_sleep_apnea_syndrome,141,102,56,0.2994652406417112,-0.010052785802762578,0.9595907928388747,0.8980251418149938
+Congenital Heart Disease,Strabismus,MONDO_congenital_heart_disease,MONDO_strabismus,141,27,14,0.09090909090909091,-0.02539979039501812,0.8479709267110842,0.6881304676727504
+Congenital Heart Disease,Ventricular Septal Defect,MONDO_congenital_heart_disease,MONDO_ventricular_septal_defect,141,67,67,0.475177304964539,0.5358537366335455,inf,6.499205813018605e-22
+Eustachian Tube Disorder,Folliculitis,MONDO_eustachian_tube_disorder,MONDO_folliculitis,27,38,3,0.04838709677419355,-0.03722120615099507,0.6857142857142857,0.7764331759711505
+Eustachian Tube Disorder,Hearing Loss Disorder,MONDO_eustachian_tube_disorder,MONDO_hearing_loss_disorder,27,59,7,0.08860759493670886,0.022030969347243114,1.1778846153846154,0.8095453908658823
+Eustachian Tube Disorder,Hidradenitis Suppurativa,MONDO_eustachian_tube_disorder,MONDO_hidradenitis_suppurativa,27,25,3,0.061224489795918366,0.014687121798487556,1.1647727272727273,0.7365971312336365
+Eustachian Tube Disorder,Hypothyroidism,MONDO_eustachian_tube_disorder,MONDO_hypothyroidism,27,135,19,0.13286713286713286,0.11901856836998796,2.2726293103448274,0.06754333880178394
+Eustachian Tube Disorder,Obstructive Sleep Apnea Syndrome,MONDO_eustachian_tube_disorder,MONDO_obstructive_sleep_apnea_syndrome,27,86,17,0.17708333333333334,0.21211034961084424,3.8927536231884057,0.001153239253288847
+Eustachian Tube Disorder,"Otitis Media, Susceptibility To",MONDO_eustachian_tube_disorder,"MONDO_otitis_media,_susceptibility_to",27,44,17,0.3148148148148148,0.4159235787491863,12.592592592592593,1.4666206854668157e-08
+Eustachian Tube Disorder,Patent Ductus Arteriosus,MONDO_eustachian_tube_disorder,MONDO_patent_ductus_arteriosus,27,45,10,0.16129032258064516,0.17451857880855753,3.226890756302521,0.013020235385979819
+Eustachian Tube Disorder,Patent Foramen Ovale,MONDO_eustachian_tube_disorder,MONDO_patent_foramen_ovale,27,34,11,0.22,0.2770685452416321,6.0978260869565215,0.0001475245606816941
+Eustachian Tube Disorder,Pneumonia,MONDO_eustachian_tube_disorder,MONDO_pneumonia,27,24,3,0.0625,0.019599297347925,1.2261904761904763,0.7281168437514025
+Eustachian Tube Disorder,Psoriasis,MONDO_eustachian_tube_disorder,MONDO_psoriasis,27,16,1,0.023809523809523808,-0.036844843974900385,0.5435897435897435,1.0
+Eustachian Tube Disorder,Pulmonary Hypertension,MONDO_eustachian_tube_disorder,MONDO_pulmonary_hypertension,27,20,5,0.11904761904761904,0.13630290843087625,3.212121212121212,0.04659584291857556
+Eustachian Tube Disorder,Reactive Airway Disease,MONDO_eustachian_tube_disorder,MONDO_reactive_airway_disease,27,21,4,0.09090909090909091,0.08199057317186409,2.1483375959079285,0.25513767658162656
+Eustachian Tube Disorder,Scoliosis,MONDO_eustachian_tube_disorder,MONDO_scoliosis,27,14,3,0.07894736842105263,0.08461878300868832,2.4545454545454546,0.17584842302002582
+Eustachian Tube Disorder,Seborrheic Dermatitis,MONDO_eustachian_tube_disorder,MONDO_seborrheic_dermatitis,27,14,4,0.10810810810810811,0.14059058218631026,3.773913043478261,0.04834252284539518
+Eustachian Tube Disorder,Sleep Apnea Syndrome,MONDO_eustachian_tube_disorder,MONDO_sleep_apnea_syndrome,27,102,9,0.075,-0.04800971883260098,0.7204301075268817,0.5356760855672615
+Eustachian Tube Disorder,Strabismus,MONDO_eustachian_tube_disorder,MONDO_strabismus,27,27,8,0.17391304347826086,0.21259585576766193,4.609418282548477,0.0032088440880590624
+Eustachian Tube Disorder,Ventricular Septal Defect,MONDO_eustachian_tube_disorder,MONDO_ventricular_septal_defect,27,67,6,0.06818181818181818,-0.03252309327732976,0.7775175644028103,0.8175050448194292
+Folliculitis,Hearing Loss Disorder,MONDO_folliculitis,MONDO_hearing_loss_disorder,38,59,13,0.15476190476190477,0.1090796861959281,1.9217391304347826,0.09618258644395661
+Folliculitis,Hidradenitis Suppurativa,MONDO_folliculitis,MONDO_hidradenitis_suppurativa,38,25,9,0.16666666666666666,0.19489470437557999,3.8793103448275863,0.0050540835612618495
+Folliculitis,Hypothyroidism,MONDO_folliculitis,MONDO_hypothyroidism,38,135,22,0.1456953642384106,0.03988471004719383,1.2533185840707965,0.5984563940213372
+Folliculitis,Obstructive Sleep Apnea Syndrome,MONDO_folliculitis,MONDO_obstructive_sleep_apnea_syndrome,38,86,15,0.13761467889908258,0.0497710434896379,1.3319044703000613,0.45959002150963724
+Folliculitis,"Otitis Media, Susceptibility To",MONDO_folliculitis,"MONDO_otitis_media,_susceptibility_to",38,44,5,0.06493506493506493,-0.04616059451592499,0.6876456876456877,0.6421726991578994
+Folliculitis,Patent Ductus Arteriosus,MONDO_folliculitis,MONDO_patent_ductus_arteriosus,38,45,4,0.05063291139240506,-0.07898805076726564,0.5021520803443329,0.25501411389484385
+Folliculitis,Patent Foramen Ovale,MONDO_folliculitis,MONDO_patent_foramen_ovale,38,34,5,0.07462686567164178,-0.002807716201322918,0.9770114942528736,1.0
+Folliculitis,Pneumonia,MONDO_folliculitis,MONDO_pneumonia,38,24,6,0.10714285714285714,0.09092079184111859,2.0625,0.22284099183519746
+Folliculitis,Psoriasis,MONDO_folliculitis,MONDO_psoriasis,38,16,5,0.10204081632653061,0.11841067196863642,2.8236914600550964,0.07175557424528524
+Folliculitis,Pulmonary Hypertension,MONDO_folliculitis,MONDO_pulmonary_hypertension,38,20,4,0.07407407407407407,0.04130459468784135,1.4705882352941178,0.5139797190453562
+Folliculitis,Reactive Airway Disease,MONDO_folliculitis,MONDO_reactive_airway_disease,38,21,1,0.017241379310344827,-0.08584057497247786,0.2648648648648649,0.3324161405019077
+Folliculitis,Scoliosis,MONDO_folliculitis,MONDO_scoliosis,38,14,3,0.061224489795918366,0.04379651192174611,1.5974025974025974,0.4468263884002823
+Folliculitis,Seborrheic Dermatitis,MONDO_folliculitis,MONDO_seborrheic_dermatitis,38,14,6,0.13043478260869565,0.1888962601146615,4.875,0.009214367407264286
+Folliculitis,Sleep Apnea Syndrome,MONDO_folliculitis,MONDO_sleep_apnea_syndrome,38,102,15,0.12,-0.00585064007763084,0.967016491754123,1.0
+Folliculitis,Strabismus,MONDO_folliculitis,MONDO_strabismus,38,27,5,0.08333333333333333,0.03440141780622272,1.3360881542699725,0.5709646186493984
+Folliculitis,Ventricular Septal Defect,MONDO_folliculitis,MONDO_ventricular_septal_defect,38,67,14,0.15384615384615385,0.09959659596909538,1.7940251572327044,0.11552902723404171
+Hearing Loss Disorder,Hidradenitis Suppurativa,MONDO_hearing_loss_disorder,MONDO_hidradenitis_suppurativa,59,25,4,0.05,-0.05655638321723999,0.6025974025974026,0.4609736774059195
+Hearing Loss Disorder,Hypothyroidism,MONDO_hearing_loss_disorder,MONDO_hypothyroidism,59,135,31,0.1901840490797546,-0.006693568556821068,0.96875,1.0
+Hearing Loss Disorder,Obstructive Sleep Apnea Syndrome,MONDO_hearing_loss_disorder,MONDO_obstructive_sleep_apnea_syndrome,59,86,22,0.17886178861788618,0.03986721892451887,1.2170608108108107,0.5334180068767208
+Hearing Loss Disorder,"Otitis Media, Susceptibility To",MONDO_hearing_loss_disorder,"MONDO_otitis_media,_susceptibility_to",59,44,10,0.10752688172043011,-0.005431361755272766,0.9663865546218487,1.0
+Hearing Loss Disorder,Patent Ductus Arteriosus,MONDO_hearing_loss_disorder,MONDO_patent_ductus_arteriosus,59,45,10,0.10638297872340426,-0.011055417012786827,0.9329446064139941,1.0
+Hearing Loss Disorder,Patent Foramen Ovale,MONDO_hearing_loss_disorder,MONDO_patent_foramen_ovale,59,34,10,0.12048192771084337,0.05756349395223103,1.4540816326530612,0.3845849359404691
+Hearing Loss Disorder,Pneumonia,MONDO_hearing_loss_disorder,MONDO_pneumonia,59,24,7,0.09210526315789473,0.04542508202196922,1.409502262443439,0.45381881024935455
+Hearing Loss Disorder,Psoriasis,MONDO_hearing_loss_disorder,MONDO_psoriasis,59,16,2,0.0273972602739726,-0.0658710684522237,0.45363408521303256,0.3747783981620706
+Hearing Loss Disorder,Pulmonary Hypertension,MONDO_hearing_loss_disorder,MONDO_pulmonary_hypertension,59,20,7,0.09722222222222222,0.08149574719608586,1.8846153846153846,0.2665575746656077
+Hearing Loss Disorder,Reactive Airway Disease,MONDO_hearing_loss_disorder,MONDO_reactive_airway_disease,59,21,6,0.08108108108108109,0.0379851582996383,1.3584905660377358,0.5903330483648596
+Hearing Loss Disorder,Scoliosis,MONDO_hearing_loss_disorder,MONDO_scoliosis,59,14,2,0.028169014084507043,-0.05114629388973597,0.5350877192982456,0.5315472376144881
+Hearing Loss Disorder,Seborrheic Dermatitis,MONDO_hearing_loss_disorder,MONDO_seborrheic_dermatitis,59,14,2,0.028169014084507043,-0.05114629388973597,0.5350877192982456,0.5315472376144881
+Hearing Loss Disorder,Sleep Apnea Syndrome,MONDO_hearing_loss_disorder,MONDO_sleep_apnea_syndrome,59,102,28,0.21052631578947367,0.081912867730484,1.4768962510897994,0.2257091580326855
+Hearing Loss Disorder,Strabismus,MONDO_hearing_loss_disorder,MONDO_strabismus,59,27,7,0.08860759493670886,0.022030969347243114,1.1778846153846154,0.8095453908658823
+Hearing Loss Disorder,Ventricular Septal Defect,MONDO_hearing_loss_disorder,MONDO_ventricular_septal_defect,59,67,20,0.18867924528301888,0.09386904509496329,1.6148390616475723,0.17667271303801746
+Hidradenitis Suppurativa,Hypothyroidism,MONDO_hidradenitis_suppurativa,MONDO_hypothyroidism,25,135,14,0.0958904109589041,0.018873413908410422,1.1359879789631855,0.8346912827856763
+Hidradenitis Suppurativa,Obstructive Sleep Apnea Syndrome,MONDO_hidradenitis_suppurativa,MONDO_obstructive_sleep_apnea_syndrome,25,86,12,0.12121212121212122,0.09873809062522139,1.9334719334719335,0.12424331640821074
+Hidradenitis Suppurativa,"Otitis Media, Susceptibility To",MONDO_hidradenitis_suppurativa,"MONDO_otitis_media,_susceptibility_to",25,44,6,0.09523809523809523,0.05829645222230751,1.5872576177285318,0.40176096538117767
+Hidradenitis Suppurativa,Patent Ductus Arteriosus,MONDO_hidradenitis_suppurativa,MONDO_patent_ductus_arteriosus,25,45,4,0.06060606060606061,-0.014854544956991917,0.8734030197444832,1.0
+Hidradenitis Suppurativa,Patent Foramen Ovale,MONDO_hidradenitis_suppurativa,MONDO_patent_foramen_ovale,25,34,0,0.0,-0.12989139507179032,0.0,0.03187694174257565
+Hidradenitis Suppurativa,Pneumonia,MONDO_hidradenitis_suppurativa,MONDO_pneumonia,25,24,4,0.08888888888888889,0.07400073720591263,1.9904761904761905,0.27134593848705857
+Hidradenitis Suppurativa,Psoriasis,MONDO_hidradenitis_suppurativa,MONDO_psoriasis,25,16,6,0.17142857142857143,0.24072993350302577,6.91578947368421,0.002033346887470178
+Hidradenitis Suppurativa,Pulmonary Hypertension,MONDO_hidradenitis_suppurativa,MONDO_pulmonary_hypertension,25,20,2,0.046511627906976744,0.0015455366742303577,1.0193236714975846,1.0
+Hidradenitis Suppurativa,Reactive Airway Disease,MONDO_hidradenitis_suppurativa,MONDO_reactive_airway_disease,25,21,2,0.045454545454545456,-0.0032119854403519547,0.9610983981693364,1.0
+Hidradenitis Suppurativa,Scoliosis,MONDO_hidradenitis_suppurativa,MONDO_scoliosis,25,14,2,0.05405405405405406,0.036024644414602985,1.5724637681159421,0.6352543250099818
+Hidradenitis Suppurativa,Seborrheic Dermatitis,MONDO_hidradenitis_suppurativa,MONDO_seborrheic_dermatitis,25,14,8,0.25806451612903225,0.3835028601605204,17.49019607843137,5.7599418817812815e-06
+Hidradenitis Suppurativa,Sleep Apnea Syndrome,MONDO_hidradenitis_suppurativa,MONDO_sleep_apnea_syndrome,25,102,11,0.09482758620689655,0.025898833342474493,1.1915227629513343,0.6741120379538019
+Hidradenitis Suppurativa,Strabismus,MONDO_hidradenitis_suppurativa,MONDO_strabismus,25,27,2,0.04,-0.028192521153418644,0.7095652173913043,1.0
+Hidradenitis Suppurativa,Ventricular Septal Defect,MONDO_hidradenitis_suppurativa,MONDO_ventricular_septal_defect,25,67,4,0.045454545454545456,-0.0778107254666139,0.5018896447467877,0.3379100687280522
+Hypothyroidism,Obstructive Sleep Apnea Syndrome,MONDO_hypothyroidism,MONDO_obstructive_sleep_apnea_syndrome,135,86,50,0.29239766081871343,0.07154549067469701,1.3562091503267975,0.28861761658355617
+Hypothyroidism,"Otitis Media, Susceptibility To",MONDO_hypothyroidism,"MONDO_otitis_media,_susceptibility_to",135,44,27,0.17763157894736842,0.07534706339927422,1.5,0.24876937748317643
+Hypothyroidism,Patent Ductus Arteriosus,MONDO_hypothyroidism,MONDO_patent_ductus_arteriosus,135,45,26,0.16883116883116883,0.0430363972011416,1.2554321583775954,0.5147231685558705
+Hypothyroidism,Patent Foramen Ovale,MONDO_hypothyroidism,MONDO_patent_foramen_ovale,135,34,21,0.14189189189189189,0.06787061299377083,1.5020242914979758,0.3563137044949304
+Hypothyroidism,Pneumonia,MONDO_hypothyroidism,MONDO_pneumonia,135,24,13,0.08904109589041095,0.006583878165799995,1.0461997019374067,1.0
+Hypothyroidism,Psoriasis,MONDO_hypothyroidism,MONDO_psoriasis,135,16,6,0.041379310344827586,-0.0813145533551087,0.5069767441860465,0.20836036677330577
+Hypothyroidism,Pulmonary Hypertension,MONDO_hypothyroidism,MONDO_pulmonary_hypertension,135,20,11,0.0763888888888889,0.010840880623274632,1.0842293906810037,1.0
+Hypothyroidism,Reactive Airway Disease,MONDO_hypothyroidism,MONDO_reactive_airway_disease,135,21,11,0.07586206896551724,-0.004624405232270509,0.9669354838709677,1.0
+Hypothyroidism,Scoliosis,MONDO_hypothyroidism,MONDO_scoliosis,135,14,7,0.04929577464788732,-0.015244318679334118,0.875,1.0
+Hypothyroidism,Seborrheic Dermatitis,MONDO_hypothyroidism,MONDO_seborrheic_dermatitis,135,14,7,0.04929577464788732,-0.015244318679334118,0.875,1.0
+Hypothyroidism,Sleep Apnea Syndrome,MONDO_hypothyroidism,MONDO_sleep_apnea_syndrome,135,102,55,0.3021978021978022,0.012672659057671263,1.053191489361702,0.8981496543045459
+Hypothyroidism,Strabismus,MONDO_hypothyroidism,MONDO_strabismus,135,27,14,0.0945945945945946,-0.008969223187916112,0.9434202161474888,1.0
+Hypothyroidism,Ventricular Septal Defect,MONDO_hypothyroidism,MONDO_ventricular_septal_defect,135,67,39,0.2392638036809816,0.06068824545709163,1.3203125,0.3923804476127971
+Obstructive Sleep Apnea Syndrome,"Otitis Media, Susceptibility To",MONDO_obstructive_sleep_apnea_syndrome,"MONDO_otitis_media,_susceptibility_to",86,44,28,0.27450980392156865,0.2880338076087607,4.586206896551724,1.4490027372457355e-05
+Obstructive Sleep Apnea Syndrome,Patent Ductus Arteriosus,MONDO_obstructive_sleep_apnea_syndrome,MONDO_patent_ductus_arteriosus,86,45,26,0.24761904761904763,0.2345390943342552,3.398245614035088,0.0004043271566888005
+Obstructive Sleep Apnea Syndrome,Patent Foramen Ovale,MONDO_obstructive_sleep_apnea_syndrome,MONDO_patent_foramen_ovale,86,34,16,0.15384615384615385,0.10966049095792552,1.9047619047619047,0.1179106038598364
+Obstructive Sleep Apnea Syndrome,Pneumonia,MONDO_obstructive_sleep_apnea_syndrome,MONDO_pneumonia,86,24,16,0.1702127659574468,0.22395284830535084,4.571428571428571,0.0009945039938519021
+Obstructive Sleep Apnea Syndrome,Psoriasis,MONDO_obstructive_sleep_apnea_syndrome,MONDO_psoriasis,86,16,7,0.07368421052631578,0.05419680898067696,1.5654008438818565,0.4191604353118712
+Obstructive Sleep Apnea Syndrome,Pulmonary Hypertension,MONDO_obstructive_sleep_apnea_syndrome,MONDO_pulmonary_hypertension,86,20,15,0.16483516483516483,0.2541671932607194,6.887323943661972,0.00011040638537614033
+Obstructive Sleep Apnea Syndrome,Reactive Airway Disease,MONDO_obstructive_sleep_apnea_syndrome,MONDO_reactive_airway_disease,86,21,15,0.16304347826086957,0.2383451081698429,5.704225352112676,0.00038545294726339245
+Obstructive Sleep Apnea Syndrome,Scoliosis,MONDO_obstructive_sleep_apnea_syndrome,MONDO_scoliosis,86,14,6,0.06382978723404255,0.045927887825753536,1.5,0.5627042302551881
+Obstructive Sleep Apnea Syndrome,Seborrheic Dermatitis,MONDO_obstructive_sleep_apnea_syndrome,MONDO_seborrheic_dermatitis,86,14,9,0.0989010989010989,0.15529367071082914,3.81038961038961,0.01919866440045789
+Obstructive Sleep Apnea Syndrome,Sleep Apnea Syndrome,MONDO_obstructive_sleep_apnea_syndrome,MONDO_sleep_apnea_syndrome,86,102,47,0.3333333333333333,0.21153642682966886,2.475990675990676,0.0011093664691139951
+Obstructive Sleep Apnea Syndrome,Strabismus,MONDO_obstructive_sleep_apnea_syndrome,MONDO_strabismus,86,27,16,0.16494845360824742,0.18511835121347228,3.2623376623376625,0.004772156866567272
+Obstructive Sleep Apnea Syndrome,Ventricular Septal Defect,MONDO_obstructive_sleep_apnea_syndrome,MONDO_ventricular_septal_defect,86,67,23,0.17692307692307693,0.005946041224527662,1.028860028860029,1.0
+"Otitis Media, Susceptibility To",Patent Ductus Arteriosus,"MONDO_otitis_media,_susceptibility_to",MONDO_patent_ductus_arteriosus,44,45,17,0.2361111111111111,0.2508009176964236,4.092592592592593,0.0002870336724701743
+"Otitis Media, Susceptibility To",Patent Foramen Ovale,"MONDO_otitis_media,_susceptibility_to",MONDO_patent_foramen_ovale,44,34,10,0.14705882352941177,0.1255780439731958,2.2794117647058822,0.05353354190624788
+"Otitis Media, Susceptibility To",Pneumonia,"MONDO_otitis_media,_susceptibility_to",MONDO_pneumonia,44,24,7,0.11475409836065574,0.10109546474512159,2.14785373608903,0.15068611986330183
+"Otitis Media, Susceptibility To",Psoriasis,"MONDO_otitis_media,_susceptibility_to",MONDO_psoriasis,44,16,2,0.034482758620689655,-0.03304240240215955,0.6666666666666666,1.0
+"Otitis Media, Susceptibility To",Pulmonary Hypertension,"MONDO_otitis_media,_susceptibility_to",MONDO_pulmonary_hypertension,44,20,6,0.10344827586206896,0.09793252570407643,2.210526315789474,0.12771468895619517
+"Otitis Media, Susceptibility To",Reactive Airway Disease,"MONDO_otitis_media,_susceptibility_to",MONDO_reactive_airway_disease,44,21,12,0.22641509433962265,0.31588639308172595,8.375,1.6367646090960196e-05
+"Otitis Media, Susceptibility To",Scoliosis,"MONDO_otitis_media,_susceptibility_to",MONDO_scoliosis,44,14,3,0.05454545454545454,0.02620277161211517,1.3237250554323725,0.7153616707972568
+"Otitis Media, Susceptibility To",Seborrheic Dermatitis,"MONDO_otitis_media,_susceptibility_to",MONDO_seborrheic_dermatitis,44,14,3,0.05454545454545454,0.02620277161211517,1.3237250554323725,0.7153616707972568
+"Otitis Media, Susceptibility To",Sleep Apnea Syndrome,"MONDO_otitis_media,_susceptibility_to",MONDO_sleep_apnea_syndrome,44,102,13,0.09774436090225563,-0.09908931440716977,0.5701341065603479,0.12989071145724734
+"Otitis Media, Susceptibility To",Strabismus,"MONDO_otitis_media,_susceptibility_to",MONDO_strabismus,44,27,14,0.24561403508771928,0.31466678417829813,7.0717948717948715,1.1987665094345965e-05
+"Otitis Media, Susceptibility To",Ventricular Septal Defect,"MONDO_otitis_media,_susceptibility_to",MONDO_ventricular_septal_defect,44,67,13,0.1326530612244898,0.03290099800057631,1.2114695340501793,0.5783793784484541
+Patent Ductus Arteriosus,Patent Foramen Ovale,MONDO_patent_ductus_arteriosus,MONDO_patent_foramen_ovale,45,34,20,0.3389830508474576,0.4232511572037045,11.142857142857142,3.959495020324142e-09
+Patent Ductus Arteriosus,Pneumonia,MONDO_patent_ductus_arteriosus,MONDO_pneumonia,45,24,9,0.15,0.16737799800680855,3.2333333333333334,0.01995773070563021
+Patent Ductus Arteriosus,Psoriasis,MONDO_patent_ductus_arteriosus,MONDO_psoriasis,45,16,4,0.07017543859649122,0.04946110803460751,1.6016260162601625,0.4954479452917979
+Patent Ductus Arteriosus,Pulmonary Hypertension,MONDO_patent_ductus_arteriosus,MONDO_pulmonary_hypertension,45,20,8,0.14035087719298245,0.17062556416953137,3.5495495495495497,0.012437268868738346
+Patent Ductus Arteriosus,Reactive Airway Disease,MONDO_patent_ductus_arteriosus,MONDO_reactive_airway_disease,45,21,8,0.13793103448275862,0.16023690070533414,3.25987525987526,0.017364484426553414
+Patent Ductus Arteriosus,Scoliosis,MONDO_patent_ductus_arteriosus,MONDO_scoliosis,45,14,3,0.05357142857142857,0.023481448978188893,1.2857142857142858,0.719144239956097
+Patent Ductus Arteriosus,Seborrheic Dermatitis,MONDO_patent_ductus_arteriosus,MONDO_seborrheic_dermatitis,45,14,4,0.07272727272727272,0.06866544928470389,1.9414634146341463,0.281711939250578
+Patent Ductus Arteriosus,Sleep Apnea Syndrome,MONDO_patent_ductus_arteriosus,MONDO_sleep_apnea_syndrome,45,102,20,0.15748031496062992,0.040578388914932775,1.2390243902439024,0.6153850346342858
+Patent Ductus Arteriosus,Strabismus,MONDO_patent_ductus_arteriosus,MONDO_strabismus,45,27,9,0.14285714285714285,0.14106369653129444,2.6527777777777777,0.03321622596458345
+Patent Ductus Arteriosus,Ventricular Septal Defect,MONDO_patent_ductus_arteriosus,MONDO_ventricular_septal_defect,45,67,13,0.13131313131313133,0.02643895539653997,1.166087962962963,0.7102707893269076
+Patent Foramen Ovale,Pneumonia,MONDO_patent_foramen_ovale,MONDO_pneumonia,34,24,5,0.09433962264150944,0.07065379844202717,1.823956442831216,0.33854376591410296
+Patent Foramen Ovale,Psoriasis,MONDO_patent_foramen_ovale,MONDO_psoriasis,34,16,0,0.0,-0.10192943828752511,0.0,0.13964353246493652
+Patent Foramen Ovale,Pulmonary Hypertension,MONDO_patent_foramen_ovale,MONDO_pulmonary_hypertension,34,20,9,0.2,0.2714387304978391,6.84,0.00028637135605779046
+Patent Foramen Ovale,Reactive Airway Disease,MONDO_patent_foramen_ovale,MONDO_reactive_airway_disease,34,21,4,0.0784313725490196,0.04991930567588583,1.592156862745098,0.498620352522516
+Patent Foramen Ovale,Scoliosis,MONDO_patent_foramen_ovale,MONDO_scoliosis,34,14,2,0.043478260869565216,0.00638306902323129,1.0833333333333333,1.0
+Patent Foramen Ovale,Seborrheic Dermatitis,MONDO_patent_foramen_ovale,MONDO_seborrheic_dermatitis,34,14,2,0.043478260869565216,0.00638306902323129,1.0833333333333333,1.0
+Patent Foramen Ovale,Sleep Apnea Syndrome,MONDO_patent_foramen_ovale,MONDO_sleep_apnea_syndrome,34,102,14,0.11475409836065574,0.008171654445749908,1.05,1.0
+Patent Foramen Ovale,Strabismus,MONDO_patent_foramen_ovale,MONDO_strabismus,34,27,7,0.12962962962962962,0.12701436508944755,2.5925925925925926,0.06615236640572034
+Patent Foramen Ovale,Ventricular Septal Defect,MONDO_patent_foramen_ovale,MONDO_ventricular_septal_defect,34,67,9,0.09782608695652174,0.0008263822559211291,1.0055172413793103,1.0
+Pneumonia,Psoriasis,MONDO_pneumonia,MONDO_psoriasis,24,16,2,0.05263157894736842,0.027046039404557968,1.4025974025974026,0.6534022209969328
+Pneumonia,Pulmonary Hypertension,MONDO_pneumonia,MONDO_pulmonary_hypertension,24,20,7,0.1891891891891892,0.2553772623814798,6.873303167420814,0.0009489626905836941
+Pneumonia,Reactive Airway Disease,MONDO_pneumonia,MONDO_reactive_airway_disease,24,21,8,0.21621621621621623,0.29401277930812925,8.346153846153847,0.0001770455347093017
+Pneumonia,Scoliosis,MONDO_pneumonia,MONDO_scoliosis,24,14,1,0.02702702702702703,-0.019040338929657886,0.725752508361204,1.0
+Pneumonia,Seborrheic Dermatitis,MONDO_pneumonia,MONDO_seborrheic_dermatitis,24,14,2,0.05555555555555555,0.03993827190123362,1.6515151515151516,0.6288670735585435
+Pneumonia,Sleep Apnea Syndrome,MONDO_pneumonia,MONDO_sleep_apnea_syndrome,24,102,13,0.11504424778761062,0.0923137624539135,1.8723186925434117,0.188603518328576
+Pneumonia,Strabismus,MONDO_pneumonia,MONDO_strabismus,24,27,4,0.0851063829787234,0.06326790722838947,1.8,0.29974144944775494
+Pneumonia,Ventricular Septal Defect,MONDO_pneumonia,MONDO_ventricular_septal_defect,24,67,11,0.1375,0.14261228734480885,2.629120879120879,0.029469713278502552
+Psoriasis,Pulmonary Hypertension,MONDO_psoriasis,MONDO_pulmonary_hypertension,16,20,2,0.058823529411764705,0.04453346145441136,1.746031746031746,0.36475542329093086
+Psoriasis,Reactive Airway Disease,MONDO_psoriasis,MONDO_reactive_airway_disease,16,21,0,0.0,-0.07784006674529119,0.0,0.3755437927255504
+Psoriasis,Scoliosis,MONDO_psoriasis,MONDO_scoliosis,16,14,1,0.034482758620689655,0.008386932469890395,1.1538461538461537,0.6077655804177508
+Psoriasis,Seborrheic Dermatitis,MONDO_psoriasis,MONDO_seborrheic_dermatitis,16,14,4,0.15384615384615385,0.22141501720510645,7.6,0.00725089352021399
+Psoriasis,Sleep Apnea Syndrome,MONDO_psoriasis,MONDO_sleep_apnea_syndrome,16,102,12,0.11320754716981132,0.18428623764212881,4.933333333333334,0.006447359900341938
+Psoriasis,Strabismus,MONDO_psoriasis,MONDO_strabismus,16,27,3,0.075,0.06830785680739959,2.0576923076923075,0.39047358847404845
+Psoriasis,Ventricular Septal Defect,MONDO_psoriasis,MONDO_ventricular_septal_defect,16,67,0,0.0,-0.15519871134643812,0.0,0.008068050567441119
+Pulmonary Hypertension,Reactive Airway Disease,MONDO_pulmonary_hypertension,MONDO_reactive_airway_disease,20,21,3,0.07894736842105263,0.07146864885187053,2.1176470588235294,0.2213897227102405
+Pulmonary Hypertension,Scoliosis,MONDO_pulmonary_hypertension,MONDO_scoliosis,20,14,2,0.0625,0.05749661560353623,2.0555555555555554,0.3033989658570561
+Pulmonary Hypertension,Seborrheic Dermatitis,MONDO_pulmonary_hypertension,MONDO_seborrheic_dermatitis,20,14,2,0.0625,0.05749661560353623,2.0555555555555554,0.3033989658570561
+Pulmonary Hypertension,Sleep Apnea Syndrome,MONDO_pulmonary_hypertension,MONDO_sleep_apnea_syndrome,20,102,10,0.08928571428571429,0.05869825599309375,1.5434782608695652,0.35379457132164205
+Pulmonary Hypertension,Strabismus,MONDO_pulmonary_hypertension,MONDO_strabismus,20,27,2,0.044444444444444446,-0.005974922013408275,0.9288888888888889,1.0
+Pulmonary Hypertension,Ventricular Septal Defect,MONDO_pulmonary_hypertension,MONDO_ventricular_septal_defect,20,67,7,0.0875,0.05719959836555878,1.5615384615384615,0.42754556716965847
+Reactive Airway Disease,Scoliosis,MONDO_reactive_airway_disease,MONDO_scoliosis,21,14,0,0.0,-0.07250869416569115,0.0,0.6139263729600317
+Reactive Airway Disease,Seborrheic Dermatitis,MONDO_reactive_airway_disease,MONDO_seborrheic_dermatitis,21,14,2,0.06060606060606061,0.05277843724985682,1.9385964912280702,0.3250277404811438
+Reactive Airway Disease,Sleep Apnea Syndrome,MONDO_reactive_airway_disease,MONDO_sleep_apnea_syndrome,21,102,9,0.07894736842105263,0.016533050959398797,1.1290322580645162,0.8190960310820896
+Reactive Airway Disease,Strabismus,MONDO_reactive_airway_disease,MONDO_strabismus,21,27,7,0.17073170731707318,0.22113715837667577,5.325,0.0029176162560940098
+Reactive Airway Disease,Ventricular Septal Defect,MONDO_reactive_airway_disease,MONDO_ventricular_septal_defect,21,67,10,0.1282051282051282,0.14470518651794523,2.807017543859649,0.03527881156100532
+Scoliosis,Seborrheic Dermatitis,MONDO_scoliosis,MONDO_seborrheic_dermatitis,14,14,2,0.07692307692307693,0.09285714285714286,3.1666666666666665,0.17552328062049974
+Scoliosis,Sleep Apnea Syndrome,MONDO_scoliosis,MONDO_sleep_apnea_syndrome,14,102,4,0.03571428571428571,-0.05708285647905631,0.5795918367346938,0.41518821110062964
+Scoliosis,Strabismus,MONDO_scoliosis,MONDO_strabismus,14,27,5,0.1388888888888889,0.19656238136393223,5.505050505050505,0.009561926478917685
+Scoliosis,Ventricular Septal Defect,MONDO_scoliosis,MONDO_ventricular_septal_defect,14,67,2,0.02531645569620253,-0.06627360763607666,0.44871794871794873,0.36681882321171266
+Seborrheic Dermatitis,Sleep Apnea Syndrome,MONDO_seborrheic_dermatitis,MONDO_sleep_apnea_syndrome,14,102,5,0.04504504504504504,-0.02189099835847305,0.8190148911798396,0.7870578359631517
+Seborrheic Dermatitis,Strabismus,MONDO_seborrheic_dermatitis,MONDO_strabismus,14,27,3,0.07894736842105263,0.08461878300868832,2.4545454545454546,0.17584842302002582
+Seborrheic Dermatitis,Ventricular Septal Defect,MONDO_seborrheic_dermatitis,MONDO_ventricular_septal_defect,14,67,3,0.038461538461538464,-0.027125941730115097,0.75,1.0
+Sleep Apnea Syndrome,Strabismus,MONDO_sleep_apnea_syndrome,MONDO_strabismus,102,27,6,0.04878048780487805,-0.12617938923952823,0.3898809523809524,0.06033486447382255
+Sleep Apnea Syndrome,Ventricular Septal Defect,MONDO_sleep_apnea_syndrome,MONDO_ventricular_septal_defect,102,67,27,0.19014084507042253,0.001721992110049117,1.008,1.0
+Strabismus,Ventricular Septal Defect,MONDO_strabismus,MONDO_ventricular_septal_defect,27,67,6,0.06818181818181818,-0.03252309327732976,0.7775175644028103,0.8175050448194292

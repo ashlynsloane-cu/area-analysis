@@ -1,0 +1,2204 @@
+Gene,Num_Protected_Comorbidities,Protected_Comorbidities,Median_RR,Max_CI_Upper
+ENSG00000158859.9,6,"Astigmatism, Hidradenitis Suppurativa, Patent Ductus Arteriosus, Patent Foramen Ovale, Seborrheic Dermatitis, Strabismus",0.2823673240339907,0.9066230624600388
+ENSG00000170485.16,6,"Hashimoto Thyroiditis, Astigmatism, Eustachian Tube Disorder, Folliculitis, Hidradenitis Suppurativa, Obstructive Sleep Apnea Syndrome",0.3970070422535211,0.9969773795522778
+ENSG00000023318.7,5,"Astigmatism, Eustachian Tube Disorder, Obstructive Sleep Apnea Syndrome, Otitis Media, Susceptibility To, Patent Foramen Ovale",0.38306292045904233,0.9561187407022315
+ENSG00000182979.17,5,"Astigmatism, Eustachian Tube Disorder, Otitis Media, Susceptibility To, Patent Ductus Arteriosus, Patent Foramen Ovale",0.46895695364238416,0.9723271231683605
+ENSG00000116497.17,5,"Eustachian Tube Disorder, Obstructive Sleep Apnea Syndrome, Otitis Media, Susceptibility To, Patent Ductus Arteriosus, Patent Foramen Ovale",0.5077186963979416,0.9682633512119564
+ENSG00000203876.9,4,"Atrial Septal Defect, Conductive Hearing Loss Disorder, Psoriasis, Seborrheic Dermatitis",0.4271116034339518,0.9942231292221213
+ENSG00000187244.10,4,"Folliculitis, Hidradenitis Suppurativa, Psoriasis, Sleep Apnea Syndrome",0.4139429248543498,0.9388660873641885
+ENSG00000234465.10,4,"Atrial Septal Defect, Conductive Hearing Loss Disorder, Patent Ductus Arteriosus, Patent Foramen Ovale",0.4577636238441865,0.9730291980329612
+ENSG00000206601.1,4,"Eustachian Tube Disorder, Obstructive Sleep Apnea Syndrome, Otitis Media, Susceptibility To, Patent Ductus Arteriosus",0.46200607902735563,0.9362516109360064
+ENSG00000107551.20,4,"Alopecia Areata, Hidradenitis Suppurativa, Obstructive Sleep Apnea Syndrome, Reactive Airway Disease",0.3058189655172414,0.894716576515108
+ENSG00000169136.10,4,"Obstructive Sleep Apnea Syndrome, Otitis Media, Susceptibility To, Patent Ductus Arteriosus, Patent Foramen Ovale",0.5280671296296295,0.9954052414766392
+ENSG00000140511.11,4,"Eustachian Tube Disorder, Otitis Media, Susceptibility To, Patent Ductus Arteriosus, Patent Foramen Ovale",0.3862516793551276,0.9078771177806189
+ENSG00000235304.1,4,"Conductive Hearing Loss Disorder, Eustachian Tube Disorder, Otitis Media, Susceptibility To, Patent Foramen Ovale",0.4822043628013777,0.9817915486813956
+ENSG00000268027.5,4,"Hashimoto Thyroiditis, Atrioventricular Septal Defect, Celiac Disease, Ventricular Septal Defect",0.4090055069646906,0.96035929992612
+ENSG00000122378.13,4,"Hashimoto Thyroiditis, Celiac Disease, Hearing Loss Disorder, Otitis Media, Susceptibility To",0.323039923039923,0.9739240887302907
+ENSG00000168118.11,4,"Congenital Heart Disease, Eustachian Tube Disorder, Hearing Loss Disorder, Strabismus",0.3024193548387097,0.9951659680828532
+ENSG00000100298.15,4,"Alopecia Areata, Atrial Septal Defect, Atrioventricular Septal Defect, Hidradenitis Suppurativa",0.4458777663112029,0.9862193092111224
+ENSG00000232680.2,4,"Astigmatism, Patent Ductus Arteriosus, Patent Foramen Ovale, Strabismus",0.41670751633986924,0.9803606622926692
+ENSG00000197122.11,4,"Obstructive Sleep Apnea Syndrome, Otitis Media, Susceptibility To, Patent Ductus Arteriosus, Pulmonary Hypertension",0.41676179284874937,0.9132676200751332
+ENSG00000185760.15,4,"Atrial Septal Defect, Atrioventricular Septal Defect, Folliculitis, Ventricular Septal Defect",0.4199839624262558,0.989801379881385
+ENSG00000226308.1,4,"Obstructive Sleep Apnea Syndrome, Otitis Media, Susceptibility To, Patent Ductus Arteriosus, Patent Foramen Ovale",0.49451659451659447,0.9973375682597341
+ENSG00000255587.7,3,"Hidradenitis Suppurativa, Patent Foramen Ovale, Seborrheic Dermatitis",0.33796296296296297,0.9999808977458552
+ENSG00000204366.3,3,"Hidradenitis Suppurativa, Obstructive Sleep Apnea Syndrome, Sleep Apnea Syndrome",0.6372893258426966,0.9603921382719256
+ENSG00000114853.13,3,"Atrioventricular Septal Defect, Celiac Disease, Scoliosis",0.4202898550724638,0.9873492862521491
+ENSG00000133131.14,3,"Alopecia Areata, Eustachian Tube Disorder, Strabismus",0.34775641025641024,0.9010075349426567
+ENSG00000166126.10,3,"Eustachian Tube Disorder, Otitis Media, Susceptibility To, Patent Foramen Ovale",0.5301204819277109,0.9860567078457815
+ENSG00000276317.1,3,"Astigmatism, Obstructive Sleep Apnea Syndrome, Reactive Airway Disease",0.366504854368932,0.995659390462858
+ENSG00000197608.11,3,"Alopecia Areata, Atrioventricular Septal Defect, Scoliosis",0.3132183908045977,0.9332714342907849
+ENSG00000273148.1,3,"Celiac Disease, Folliculitis, Hearing Loss Disorder",0.5108556832694764,0.9116242748441314
+ENSG00000250101.1,3,"Hearing Loss Disorder, Patent Ductus Arteriosus, Patent Foramen Ovale",0.5180310608054751,0.9898370626850174
+ENSG00000124225.15,3,"Hidradenitis Suppurativa, Psoriasis, Sleep Apnea Syndrome",0.30701754385964913,0.9617704921481761
+ENSG00000166704.11,3,"Alopecia Areata, Atrioventricular Septal Defect, Hypothyroidism",0.4729678638941399,0.9813979773032891
+ENSG00000275263.1,3,"Celiac Disease, Folliculitis, Obstructive Sleep Apnea Syndrome",0.5118750000000001,0.9614995353245434
+ENSG00000197442.9,3,"Astigmatism, Eustachian Tube Disorder, Obstructive Sleep Apnea Syndrome",0.40982905982905987,0.950286639972564
+ENSG00000253958.1,3,"Atrioventricular Septal Defect, Celiac Disease, Scoliosis",0.33473684210526317,0.9686264309366535
+ENSG00000197380.10,3,"Atrioventricular Septal Defect, Scoliosis, Ventricular Septal Defect",0.2903225806451613,0.9315007543823713
+ENSG00000167232.13,3,"Celiac Disease, Folliculitis, Psoriasis",0.40339892665474064,0.9607824073233819
+ENSG00000251230.5,3,"Conductive Hearing Loss Disorder, Patent Foramen Ovale, Strabismus",0.45660222130810374,0.9719560957690128
+ENSG00000133048.12,3,"Atrioventricular Septal Defect, Sleep Apnea Syndrome, Ventricular Septal Defect",0.6045918367346939,0.974100429199462
+ENSG00000070047.11,3,"Hashimoto Thyroiditis, Celiac Disease, Hearing Loss Disorder",0.40935672514619886,0.9970890649389422
+ENSG00000134207.15,3,"Astigmatism, Eustachian Tube Disorder, Reactive Airway Disease",0.4507978723404255,0.9889355704339766
+ENSG00000112655.15,3,"Atrioventricular Septal Defect, Sleep Apnea Syndrome, Ventricular Septal Defect",0.4032809295967191,0.9781833212377626
+ENSG00000253313.5,3,"Astigmatism, Patent Ductus Arteriosus, Strabismus",0.4141824751580849,0.9571506609152295
+ENSG00000101440.9,3,"Atrial Septal Defect, Congenital Heart Disease, Patent Foramen Ovale",0.5104754230459307,0.9352768544041475
+ENSG00000165617.14,3,"Patent Foramen Ovale, Reactive Airway Disease, Strabismus",0.39252336448598135,0.9392137765146127
+ENSG00000204060.7,3,"Hidradenitis Suppurativa, Obstructive Sleep Apnea Syndrome, Seborrheic Dermatitis",0.33632862644415923,0.9059209210217989
+ENSG00000226791.6,3,"Astigmatism, Obstructive Sleep Apnea Syndrome, Seborrheic Dermatitis",0.3768303186907838,0.9464591647136661
+ENSG00000263988.2,3,"Celiac Disease, Obstructive Sleep Apnea Syndrome, Patent Ductus Arteriosus",0.344,0.9511606928576812
+ENSG00000101811.13,3,"Hashimoto Thyroiditis, Celiac Disease, Conductive Hearing Loss Disorder",0.3746130030959752,0.9429437268775127
+ENSG00000262714.1,3,"Atrioventricular Septal Defect, Hearing Loss Disorder, Scoliosis",0.4065934065934066,0.9638004474783962
+ENSG00000162620.15,3,"Hashimoto Thyroiditis, Atrioventricular Septal Defect, Scoliosis",0.3466666666666667,0.8941858455496278
+ENSG00000101190.12,3,"Alopecia Areata, Atrial Septal Defect, Otitis Media, Susceptibility To",0.5012028869286287,0.9877541961639379
+ENSG00000225614.2,3,"Hearing Loss Disorder, Patent Ductus Arteriosus, Patent Foramen Ovale",0.5491898148148148,0.9999808977458552
+ENSG00000266153.1,3,"Atrioventricular Septal Defect, Celiac Disease, Ventricular Septal Defect",0.48054919908466814,0.9970637730048617
+ENSG00000227868.5,3,"Conductive Hearing Loss Disorder, Reactive Airway Disease, Strabismus",0.38153846153846155,0.9887079316565909
+ENSG00000267128.1,3,"Hearing Loss Disorder, Pneumonia, Pulmonary Hypertension",0.26612903225806456,0.8834547703902991
+ENSG00000131370.15,3,"Atrioventricular Septal Defect, Reactive Airway Disease, Ventricular Septal Defect",0.4677533664068037,0.9815468097821437
+ENSG00000105556.11,3,"Hashimoto Thyroiditis, Celiac Disease, Conductive Hearing Loss Disorder",0.4202898550724638,0.95785916132449
+ENSG00000160710.15,3,"Astigmatism, Obstructive Sleep Apnea Syndrome, Seborrheic Dermatitis",0.46222222222222226,0.9884352131741959
+ENSG00000228224.3,3,"Alopecia Areata, Celiac Disease, Ventricular Septal Defect",0.384180790960452,0.9931323779319011
+ENSG00000140807.6,3,"Alopecia Areata, Pneumonia, Psoriasis",0.3447242206235012,0.9499006849705267
+ENSG00000131778.18,3,"Atrioventricular Septal Defect, Folliculitis, Hidradenitis Suppurativa",0.2291575731121781,0.9530057349693815
+ENSG00000270001.1,3,"Obstructive Sleep Apnea Syndrome, Otitis Media, Susceptibility To, Reactive Airway Disease",0.33723196881091616,0.9900033541216289
+ENSG00000270011.6,3,"Hearing Loss Disorder, Obstructive Sleep Apnea Syndrome, Patent Foramen Ovale",0.6277056277056278,0.9785768162283089
+ENSG00000160185.14,3,"Astigmatism, Hidradenitis Suppurativa, Otitis Media, Susceptibility To",0.41670329670329675,0.9209147002772093
+ENSG00000270066.3,3,"Atrial Septal Defect, Atrioventricular Septal Defect, Ventricular Septal Defect",0.6120823620823621,0.9834719187333719
+ENSG00000228794.8,3,"Hidradenitis Suppurativa, Scoliosis, Seborrheic Dermatitis",0.3092783505154639,0.9781416227956934
+ENSG00000126945.8,3,"Atrioventricular Septal Defect, Scoliosis, Ventricular Septal Defect",0.3186335403726708,0.998046933391461
+ENSG00000259097.1,3,"Astigmatism, Otitis Media, Susceptibility To, Patent Foramen Ovale",0.4084417645192003,0.897383252793136
+ENSG00000259030.6,3,"Obstructive Sleep Apnea Syndrome, Pulmonary Hypertension, Reactive Airway Disease",0.27176470588235296,0.9336008917182111
+ENSG00000089012.14,3,"Atrial Septal Defect, Atrioventricular Septal Defect, Ventricular Septal Defect",0.6197390572390572,0.989185551765495
+ENSG00000165349.11,3,"Atrioventricular Septal Defect, Folliculitis, Ventricular Septal Defect",0.45729356867518767,0.9646325754616396
+ENSG00000132704.15,3,"Folliculitis, Psoriasis, Seborrheic Dermatitis",0.24423337856173677,0.9627464103028123
+ENSG00000186369.10,3,"Hidradenitis Suppurativa, Psoriasis, Seborrheic Dermatitis",0.28145454545454546,0.9850287877821733
+ENSG00000272529.1,3,"Eustachian Tube Disorder, Otitis Media, Susceptibility To, Patent Foramen Ovale",0.34428442844284435,0.9882699742095306
+ENSG00000197093.10,3,"Hidradenitis Suppurativa, Otitis Media, Susceptibility To, Patent Foramen Ovale",0.46381578947368424,0.9747836472095499
+ENSG00000110911.14,3,"Eustachian Tube Disorder, Obstructive Sleep Apnea Syndrome, Patent Ductus Arteriosus",0.4970588235294117,0.9834614472768223
+ENSG00000102024.17,3,"Hidradenitis Suppurativa, Psoriasis, Seborrheic Dermatitis",0.28795098706603134,0.9859070321135558
+ENSG00000283486.2,3,"Alopecia Areata, Astigmatism, Patent Foramen Ovale",0.3894409937888199,0.9975304662183067
+ENSG00000239653.1,3,"Celiac Disease, Conductive Hearing Loss Disorder, Psoriasis",0.3769230769230769,0.9492870520478577
+ENSG00000147180.16,3,"Atrioventricular Septal Defect, Psoriasis, Ventricular Septal Defect",0.4690831556503199,0.9320902842033114
+ENSG00000122025.14,3,"Alopecia Areata, Folliculitis, Hearing Loss Disorder",0.385,0.8380941727088759
+ENSG00000211804.3,3,"Hearing Loss Disorder, Hidradenitis Suppurativa, Seborrheic Dermatitis",0.29333333333333333,0.9598277779219693
+ENSG00000235192.1,3,"Atrial Septal Defect, Atrioventricular Septal Defect, Ventricular Septal Defect",0.6142857142857143,0.9440056447971039
+ENSG00000205628.2,3,"Atrial Septal Defect, Patent Foramen Ovale, Reactive Airway Disease",0.3489326765188834,0.9490332053624421
+ENSG00000010278.12,3,"Astigmatism, Hidradenitis Suppurativa, Seborrheic Dermatitis",0.33211678832116787,0.8150264325789022
+ENSG00000135912.10,3,"Alopecia Areata, Atrioventricular Septal Defect, Scoliosis",0.31550068587105623,0.9132700849238087
+ENSG00000205611.4,3,"Celiac Disease, Hidradenitis Suppurativa, Psoriasis",0.34710743801652894,0.8926891675341323
+ENSG00000211797.2,3,"Hidradenitis Suppurativa, Psoriasis, Strabismus",0.38306292045904233,0.9561187407022315
+ENSG00000169045.17,3,"Atrioventricular Septal Defect, Psoriasis, Ventricular Septal Defect",0.4359861591695502,0.9962410492715557
+ENSG00000211765.1,3,"Obstructive Sleep Apnea Syndrome, Patent Ductus Arteriosus, Patent Foramen Ovale",0.44780219780219777,0.8923104447639437
+ENSG00000034713.7,3,"Atrioventricular Septal Defect, Folliculitis, Hidradenitis Suppurativa",0.3107142857142857,0.9622138047669802
+ENSG00000233765.1,3,"Astigmatism, Pneumonia, Pulmonary Hypertension",0.30320699708454807,0.9337050841965205
+ENSG00000280374.1,3,"Alopecia Areata, Celiac Disease, Psoriasis",0.35726643598615915,0.9962987701890289
+ENSG00000207561.1,3,"Atrial Septal Defect, Atrioventricular Septal Defect, Ventricular Septal Defect",0.5944412932501418,0.986045339164756
+ENSG00000171425.9,3,"Astigmatism, Obstructive Sleep Apnea Syndrome, Pulmonary Hypertension",0.43662587412587417,0.9506984641873173
+ENSG00000180628.14,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.5338835212023618,0.9700997270896007
+ENSG00000106066.14,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.5319428691451376,0.9813979773032891
+ENSG00000119397.16,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.47035816035816036,0.9909741339133332
+ENSG00000228590.1,2,"Celiac Disease, Hidradenitis Suppurativa",0.24838709677419357,0.9822683953342618
+ENSG00000119686.9,2,"Hashimoto Thyroiditis, Strabismus",0.3269230769230769,0.8208375647334017
+ENSG00000127585.11,2,"Hashimoto Thyroiditis, Hidradenitis Suppurativa",0.3725806451612903,0.9099395378662151
+ENSG00000259848.8,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.43910143910143906,0.9560744891825377
+ENSG00000197993.7,2,"Hidradenitis Suppurativa, Psoriasis",0.39472743165924984,0.9859863286392155
+ENSG00000160326.13,2,"Hidradenitis Suppurativa, Seborrheic Dermatitis",0.32055046589930314,0.9248888173244671
+ENSG00000259956.1,2,"Hashimoto Thyroiditis, Celiac Disease",0.3162992226328533,0.9730874912005882
+ENSG00000119013.8,2,"Hashimoto Thyroiditis, Celiac Disease",0.41344827586206895,0.9919916007667154
+ENSG00000147677.10,2,"Conductive Hearing Loss Disorder, Obstructive Sleep Apnea Syndrome",0.6079758134177944,0.958821971895608
+ENSG00000162734.12,2,"Eustachian Tube Disorder, Patent Foramen Ovale",0.4607744107744108,0.9436206097165467
+ENSG00000160683.4,2,"Celiac Disease, Sleep Apnea Syndrome",0.5066973268180511,0.9744682439593555
+ENSG00000260063.1,2,"Atrioventricular Septal Defect, Folliculitis",0.4893141945773525,0.9175240369039152
+ENSG00000196715.5,2,"Patent Foramen Ovale, Reactive Airway Disease",0.3714003123373243,0.9234139834059519
+ENSG00000105928.13,2,"Folliculitis, Psoriasis",0.25316221528500404,0.8597383006879822
+ENSG00000119147.9,2,"Conductive Hearing Loss Disorder, Otitis Media, Susceptibility To",0.4324209840338873,0.884523138773545
+ENSG00000121481.10,2,"Psoriasis, Scoliosis",0.33165924984106804,0.9859863286392155
+ENSG00000105835.11,2,"Hidradenitis Suppurativa, Sleep Apnea Syndrome",0.4435428097192125,0.9785928226820332
+ENSG00000126950.7,2,"Otitis Media, Susceptibility To, Strabismus",0.4857758620689655,0.995910480566264
+ENSG00000149922.10,2,"Hearing Loss Disorder, Patent Foramen Ovale",0.5555079603055615,0.9575211249229005
+ENSG00000107263.18,2,"Hashimoto Thyroiditis, Atrioventricular Septal Defect",0.3722567287784679,0.9873492862521491
+ENSG00000259094.1,2,"Astigmatism, Pneumonia",0.388991822131357,0.8614206376129109
+ENSG00000149782.11,2,"Atrioventricular Septal Defect, Celiac Disease",0.37926421404682276,0.9989680469126953
+ENSG00000143486.15,2,"Conductive Hearing Loss Disorder, Otitis Media, Susceptibility To",0.5265512265512267,0.9180263604388044
+ENSG00000147454.13,2,"Hypothyroidism, Sleep Apnea Syndrome",0.571465188555317,0.9676252202012412
+ENSG00000259254.1,2,"Otitis Media, Susceptibility To, Reactive Airway Disease",0.4330182072829132,0.9839527122309675
+ENSG00000126953.5,2,"Hidradenitis Suppurativa, Seborrheic Dermatitis",0.3637969094922737,0.9723271231683605
+ENSG00000197961.11,2,"Hearing Loss Disorder, Hypothyroidism",0.5744363395225465,0.9748297392353363
+ENSG00000130024.14,2,"Atrioventricular Septal Defect, Celiac Disease",0.38181818181818183,0.8449761357296945
+ENSG00000196678.13,2,"Obstructive Sleep Apnea Syndrome, Pulmonary Hypertension",0.47379032258064513,0.9780487882596585
+ENSG00000162783.10,2,"Atrial Septal Defect, Atrioventricular Septal Defect",0.5345593869731801,0.8832758626895103
+ENSG00000160075.11,2,"Atrioventricular Septal Defect, Psoriasis",0.4354411764705882,0.9889336331894726
+ENSG00000102226.9,2,"Patent Ductus Arteriosus, Patent Foramen Ovale",0.5459183673469388,0.9919277935583515
+ENSG00000148175.12,2,"Alopecia Areata, Hidradenitis Suppurativa",0.41269841269841273,0.9762865316333145
+ENSG00000160111.12,2,"Alopecia Areata, Scoliosis",0.25749559082892415,0.98597596646494
+ENSG00000162714.12,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.3906341977259349,0.8604839335198485
+ENSG00000262187.1,2,"Eustachian Tube Disorder, Otitis Media, Susceptibility To",0.4727285693909571,0.9866682952317557
+ENSG00000162444.11,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.4725570228091236,0.9911111158033156
+ENSG00000196591.11,2,"Astigmatism, Patent Foramen Ovale",0.4201306969254391,0.9102780579988365
+ENSG00000104824.16,2,"Hashimoto Thyroiditis, Celiac Disease",0.23185483870967744,0.920376474673152
+ENSG00000128564.6,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.5326358867246321,0.9802291625754981
+ENSG00000104408.9,2,"Hashimoto Thyroiditis, Celiac Disease",0.3777372262773722,0.9618427188053772
+ENSG00000104388.14,2,"Astigmatism, Patent Foramen Ovale",0.43530583214793744,0.9844887864887224
+ENSG00000261240.1,2,"Celiac Disease, Obstructive Sleep Apnea Syndrome",0.5252100840336134,0.9647219663820757
+ENSG00000261324.2,2,"Hashimoto Thyroiditis, Psoriasis",0.3645833333333333,0.9856733881456572
+ENSG00000119906.11,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.5212301587301587,0.9679173176114074
+ENSG00000142798.17,2,"Patent Ductus Arteriosus, Patent Foramen Ovale",0.5160883892227176,0.9439856335576079
+ENSG00000260126.1,2,"Patent Foramen Ovale, Pulmonary Hypertension",0.171719621634732,0.8877561864687232
+ENSG00000129465.15,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.40242741186137415,0.8316293379321785
+ENSG00000227775.3,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.5238478644275745,0.99955546688909
+ENSG00000181585.3,2,"Eustachian Tube Disorder, Otitis Media, Susceptibility To",0.4363214185195609,0.9710477239071635
+ENSG00000162188.5,2,"Hidradenitis Suppurativa, Sleep Apnea Syndrome",0.42144597217060986,0.9549770398807739
+ENSG00000103353.15,2,"Psoriasis, Scoliosis",0.2150063051702396,0.8551141955123845
+ENSG00000198168.8,2,"Hashimoto Thyroiditis, Celiac Disease",0.3488624052004334,0.8880562594230016
+ENSG00000170873.18,2,"Folliculitis, Hidradenitis Suppurativa",0.39727564102564106,0.975587408092721
+ENSG00000104884.14,2,"Hashimoto Thyroiditis, Celiac Disease",0.36226312387303095,0.9526821652376005
+ENSG00000227945.1,2,"Obstructive Sleep Apnea Syndrome, Otitis Media, Susceptibility To",0.6104205900816071,0.9800169189790627
+ENSG00000182168.14,2,"Celiac Disease, Psoriasis",0.33362598770851626,0.900782418082243
+ENSG00000161010.14,2,"Obstructive Sleep Apnea Syndrome, Sleep Apnea Syndrome",0.6595451088618313,0.9136083596580178
+ENSG00000196700.8,2,"Psoriasis, Strabismus",0.2755102040816327,0.9663425027403963
+ENSG00000235560.3,2,"Otitis Media, Susceptibility To, Patent Foramen Ovale",0.4828254847645429,0.9918820291534796
+ENSG00000105610.4,2,"Hidradenitis Suppurativa, Ventricular Septal Defect",0.48363636363636364,0.9991183340226549
+ENSG00000196498.13,2,"Celiac Disease, Hearing Loss Disorder",0.4424133811230586,0.9822683953342618
+ENSG00000128000.15,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.5475382003395586,0.9888107181506165
+ENSG00000147606.8,2,"Obstructive Sleep Apnea Syndrome, Pulmonary Hypertension",0.5011158449989855,0.9340244817867658
+ENSG00000234911.2,2,"Psoriasis, Scoliosis",0.351213282247765,0.9609471524442726
+ENSG00000260361.1,2,"Folliculitis, Hidradenitis Suppurativa",0.3522017045454545,0.9622138047669802
+ENSG00000260398.1,2,"Atrioventricular Septal Defect, Folliculitis",0.3620509745127436,0.838234472075394
+ENSG00000198093.10,2,"Alopecia Areata, Folliculitis",0.4664634146341464,0.9817222755301134
+ENSG00000143195.12,2,"Atrioventricular Septal Defect, Patent Foramen Ovale",0.5029452110062131,0.955505058901808
+ENSG00000142233.11,2,"Atrial Septal Defect, Pulmonary Hypertension",0.4294999172048352,0.991553647848418
+ENSG00000119820.10,2,"Celiac Disease, Psoriasis",0.3247058823529412,0.7881981143877829
+ENSG00000121057.12,2,"Atrioventricular Septal Defect, Psoriasis",0.3409141583054626,0.9550968288140572
+ENSG00000182199.10,2,"Pulmonary Hypertension, Scoliosis",0.34117246080436264,0.8976688981734493
+ENSG00000160781.15,2,"Alopecia Areata, Folliculitis",0.2495555844606313,0.852301823638937
+ENSG00000123268.8,2,"Celiac Disease, Conductive Hearing Loss Disorder",0.45054945054945056,0.8789221555241777
+ENSG00000229093.1,2,"Psoriasis, Ventricular Septal Defect",0.44009413778348305,0.9151384860515539
+ENSG00000151748.14,2,"Hidradenitis Suppurativa, Psoriasis",0.3499138673557278,0.974758541047413
+ENSG00000244005.12,2,"Conductive Hearing Loss Disorder, Seborrheic Dermatitis",0.365328163943506,0.8485852638376392
+ENSG00000154814.13,2,"Hidradenitis Suppurativa, Otitis Media, Susceptibility To",0.3179818296097366,0.8651583420305281
+ENSG00000234174.1,2,"Alopecia Areata, Celiac Disease",0.3467843631778058,0.9934525538392769
+ENSG00000151882.11,2,"Scoliosis, Sleep Apnea Syndrome",0.4947643979057592,0.9040072256684194
+ENSG00000154957.13,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.5385331043225781,0.9722650424380258
+ENSG00000185359.12,2,"Hashimoto Thyroiditis, Scoliosis",0.30859979714941543,0.9832510923611006
+ENSG00000197296.5,2,"Hashimoto Thyroiditis, Otitis Media, Susceptibility To",0.3034055727554179,0.827545153858874
+ENSG00000151876.12,2,"Conductive Hearing Loss Disorder, Ventricular Septal Defect",0.5757411385606874,0.944001012390239
+ENSG00000231595.1,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.5387062937062937,0.9815288435093947
+ENSG00000196950.13,2,"Atrioventricular Septal Defect, Conductive Hearing Loss Disorder",0.508234126984127,0.9765089946453139
+ENSG00000116679.15,2,"Hearing Loss Disorder, Pulmonary Hypertension",0.4256444683136412,0.9856284308806639
+ENSG00000184967.6,2,"Hashimoto Thyroiditis, Folliculitis",0.38505291005291004,0.9952669657061197
+ENSG00000197417.7,2,"Hashimoto Thyroiditis, Celiac Disease",0.238342566943675,0.8386620001208261
+ENSG00000116771.5,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.3814188107184798,0.8988376158408894
+ENSG00000147050.14,2,"Hashimoto Thyroiditis, Patent Foramen Ovale",0.38410074773711134,0.9743267846626159
+ENSG00000111802.13,2,"Atrioventricular Septal Defect, Scoliosis",0.38298506350802697,0.9942231292221213
+ENSG00000254054.2,2,"Patent Ductus Arteriosus, Patent Foramen Ovale",0.49313336445689393,0.9803606622926692
+ENSG00000184860.9,2,"Otitis Media, Susceptibility To, Patent Foramen Ovale",0.4994462901439646,0.8869907939822471
+ENSG00000197183.14,2,"Patent Ductus Arteriosus, Patent Foramen Ovale",0.47981486676016827,0.9694679784421528
+ENSG00000244101.1,2,"Pulmonary Hypertension, Scoliosis",0.35273209549071616,0.9803993599172053
+ENSG00000183506.17,2,"Hashimoto Thyroiditis, Seborrheic Dermatitis",0.3125690607734807,0.8414099261339552
+ENSG00000233680.4,2,"Patent Foramen Ovale, Pulmonary Hypertension",0.38057522123893806,0.9234139834059519
+ENSG00000232874.1,2,"Folliculitis, Hidradenitis Suppurativa",0.4506059265811587,0.9561187407022315
+ENSG00000123728.9,2,"Hearing Loss Disorder, Ventricular Septal Defect",0.5467700702075702,0.9159549033250358
+ENSG00000115524.15,2,"Celiac Disease, Conductive Hearing Loss Disorder",0.40569780306622416,0.9001899857956892
+ENSG00000233542.1,2,"Astigmatism, Pulmonary Hypertension",0.352992547741034,0.9536637217596504
+ENSG00000248302.3,2,"Hidradenitis Suppurativa, Psoriasis",0.35546875,0.9902378784620435
+ENSG00000245149.3,2,"Celiac Disease, Conductive Hearing Loss Disorder",0.39991518235793044,0.8842358636376612
+ENSG00000153896.17,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.49518559243959703,0.8925288124596128
+ENSG00000114503.10,2,"Atrioventricular Septal Defect, Psoriasis",0.4211837189486793,0.9794123192850379
+ENSG00000244791.2,2,"Eustachian Tube Disorder, Otitis Media, Susceptibility To",0.5198757763975155,0.984299948382349
+ENSG00000250410.1,2,"Alopecia Areata, Scoliosis",0.30205479452054795,0.9183169526474166
+ENSG00000232533.1,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.4903172358052132,0.9435806181874122
+ENSG00000115946.7,2,"Alopecia Areata, Astigmatism",0.2802867383512545,0.9871670239816996
+ENSG00000249388.1,2,"Folliculitis, Psoriasis",0.4517663043478261,0.9744456222810574
+ENSG00000232453.6,2,"Pneumonia, Ventricular Septal Defect",0.44467636516972386,0.9822683953342618
+ENSG00000154229.11,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.5351381710077363,0.950851612415127
+ENSG00000124181.14,2,"Hidradenitis Suppurativa, Psoriasis",0.34090909090909094,0.9367610628900551
+ENSG00000244184.1,2,"Astigmatism, Pulmonary Hypertension",0.3624269005847953,0.9934622179170441
+ENSG00000145819.15,2,"Hidradenitis Suppurativa, Ventricular Septal Defect",0.49021291208791207,0.9775043768743654
+ENSG00000156136.9,2,"Psoriasis, Scoliosis",0.1162040708432461,0.936844066335651
+ENSG00000156471.12,2,"Otitis Media, Susceptibility To, Ventricular Septal Defect",0.38387978142076506,0.9793605805729299
+ENSG00000111667.13,2,"Hashimoto Thyroiditis, Celiac Disease",0.2813172043010753,0.9822683953342618
+ENSG00000150867.13,2,"Celiac Disease, Sleep Apnea Syndrome",0.5505502747547106,0.9739387389717338
+ENSG00000108932.11,2,"Atrial Septal Defect, Atrioventricular Septal Defect",0.43185456518789855,0.8885442052396787
+ENSG00000143889.15,2,"Atrioventricular Septal Defect, Obstructive Sleep Apnea Syndrome",0.5771163430142636,0.9813979773032891
+ENSG00000122203.14,2,"Obstructive Sleep Apnea Syndrome, Otitis Media, Susceptibility To",0.5605865291653238,0.9659868726808992
+ENSG00000229677.1,2,"Celiac Disease, Psoriasis",0.3558394160583941,0.9618427188053772
+ENSG00000122122.9,2,"Celiac Disease, Conductive Hearing Loss Disorder",0.46741935483870967,0.9653650736582701
+ENSG00000108604.15,2,"Celiac Disease, Conductive Hearing Loss Disorder",0.47804047285113205,0.986656244838146
+ENSG00000108582.11,2,"Hearing Loss Disorder, Sleep Apnea Syndrome",0.5305679650053515,0.9673342218943992
+ENSG00000184009.9,2,"Celiac Disease, Conductive Hearing Loss Disorder",0.39163885799035963,0.851491709589118
+ENSG00000183878.15,2,"Hashimoto Thyroiditis, Patent Foramen Ovale",0.41122303622303624,0.9885878072534261
+ENSG00000156509.13,2,"Conductive Hearing Loss Disorder, Scoliosis",0.29284010696475465,0.92172354263205
+ENSG00000147439.12,2,"Atrioventricular Septal Defect, Hidradenitis Suppurativa",0.40143564356435646,0.9765385501367881
+ENSG00000143878.9,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.5408993498238349,0.9719103650811046
+ENSG00000143845.14,2,"Hidradenitis Suppurativa, Psoriasis",0.16863143631436314,0.687508407816693
+ENSG00000258378.1,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.31083571269465204,0.9858480545039631
+ENSG00000108187.15,2,"Celiac Disease, Sleep Apnea Syndrome",0.5327706057596822,0.9686697845294046
+ENSG00000107937.18,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.4139727011494253,0.9742464141163868
+ENSG00000146021.14,2,"Hidradenitis Suppurativa, Seborrheic Dermatitis",0.26515151515151514,0.8403697741815063
+ENSG00000159210.9,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.4466929748838739,0.922029298767429
+ENSG00000188827.10,2,"Hearing Loss Disorder, Patent Ductus Arteriosus",0.5243848257006152,0.9674601834748301
+ENSG00000197629.5,2,"Celiac Disease, Hearing Loss Disorder",0.42938256493948046,0.9228334470284459
+ENSG00000144120.12,2,"Atrioventricular Septal Defect, Celiac Disease",0.39103835978835977,0.8599529210926242
+ENSG00000109667.11,2,"Patent Ductus Arteriosus, Patent Foramen Ovale",0.4382198509485095,0.8895917347610401
+ENSG00000254934.5,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.42304344255563764,0.9720622548182503
+ENSG00000144567.10,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.5333526122999807,0.9925255400121246
+ENSG00000255031.5,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.5653248993674526,0.9821527247439796
+ENSG00000125447.16,2,"Atrioventricular Septal Defect, Celiac Disease",0.39949702508740725,0.8887625855032049
+ENSG00000184481.16,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.4544642514855281,0.8691025186738509
+ENSG00000162892.15,2,"Folliculitis, Ventricular Septal Defect",0.37674790962462196,0.9492025225587147
+ENSG00000184465.15,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.5585472559994853,0.9559237879965375
+ENSG00000157191.19,2,"Obstructive Sleep Apnea Syndrome, Patent Ductus Arteriosus",0.611921810326596,0.9985435120153491
+ENSG00000157514.16,2,"Celiac Disease, Scoliosis",0.3698630136986301,0.9760689196210812
+ENSG00000151503.12,2,"Atrioventricular Septal Defect, Scoliosis",0.394593626924454,0.9636307071748105
+ENSG00000184428.12,2,"Conductive Hearing Loss Disorder, Patent Foramen Ovale",0.46322789360172534,0.9595444392356319
+ENSG00000256294.7,2,"Scoliosis, Strabismus",0.25456385719543617,0.9710477239071635
+ENSG00000144218.18,2,"Celiac Disease, Hidradenitis Suppurativa",0.18994290733421168,0.8059351432994425
+ENSG00000234444.9,2,"Folliculitis, Psoriasis",0.3937302014225091,0.999125975552303
+ENSG00000242220.6,2,"Hearing Loss Disorder, Patent Foramen Ovale",0.3954105144361892,0.999139551225269
+ENSG00000157851.16,2,"Alopecia Areata, Patent Ductus Arteriosus",0.3607800650054171,0.8294974879876313
+ENSG00000242193.10,2,"Hashimoto Thyroiditis, Celiac Disease",0.3223188405797101,0.981411293010114
+ENSG00000159176.13,2,"Hashimoto Thyroiditis, Celiac Disease",0.22689075630252103,0.7645867223202472
+ENSG00000170881.4,2,"Hashimoto Thyroiditis, Conductive Hearing Loss Disorder",0.40824324324324324,0.9238687105699758
+ENSG00000141994.15,2,"Alopecia Areata, Strabismus",0.18639705882352942,0.9213632735974981
+ENSG00000057608.16,2,"Hidradenitis Suppurativa, Patent Ductus Arteriosus",0.34612119718502693,0.9158872200601191
+ENSG00000274134.1,2,"Psoriasis, Scoliosis",0.24403958614484927,0.9703686524473611
+ENSG00000166881.9,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.5615773115773115,0.9695944433934394
+ENSG00000134107.4,2,"Atrioventricular Septal Defect, Hidradenitis Suppurativa",0.3092635212888377,0.9797931422404433
+ENSG00000134193.14,2,"Hidradenitis Suppurativa, Psoriasis",0.3081325301204819,0.8462919302231845
+ENSG00000166971.16,2,"Otitis Media, Susceptibility To, Patent Ductus Arteriosus",0.40935550935550935,0.9669878298902989
+ENSG00000173905.8,2,"Hearing Loss Disorder, Patent Foramen Ovale",0.563768382917319,0.9907311229827062
+ENSG00000138796.16,2,"Folliculitis, Hypothyroidism",0.4970560043817609,0.9207033081675311
+ENSG00000214273.4,2,"Celiac Disease, Hearing Loss Disorder",0.48167293233082703,0.9842383953917481
+ENSG00000204789.4,2,"Celiac Disease, Ventricular Septal Defect",0.5058371735791091,0.9393405946691316
+ENSG00000138744.14,2,"Patent Foramen Ovale, Pulmonary Hypertension",0.38123885918003564,0.9145177781800916
+ENSG00000213719.8,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.39988492520138086,0.8718376965411084
+ENSG00000173567.14,2,"Celiac Disease, Folliculitis",0.31861471861471863,0.9897455774937569
+ENSG00000138668.18,2,"Hearing Loss Disorder, Patent Foramen Ovale",0.401503164556962,0.9239841100379788
+ENSG00000276216.1,2,"Otitis Media, Susceptibility To, Pulmonary Hypertension",0.4181096681096681,0.9271609424606342
+ENSG00000173406.15,2,"Patent Ductus Arteriosus, Patent Foramen Ovale",0.369533527696793,0.7939111333876419
+ENSG00000134780.9,2,"Hidradenitis Suppurativa, Sleep Apnea Syndrome",0.5048148148148148,0.938276249507637
+ENSG00000167748.10,2,"Obstructive Sleep Apnea Syndrome, Sleep Apnea Syndrome",0.6407235182849936,0.9205017966325312
+ENSG00000277632.1,2,"Hidradenitis Suppurativa, Otitis Media, Susceptibility To",0.45865198251123096,0.9536637217596504
+ENSG00000213246.6,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.4489457831325301,0.8682376799656426
+ENSG00000058600.15,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.5404695313162132,0.9970637730048617
+ENSG00000278100.1,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.4876518654799198,0.9669571693649349
+ENSG00000174353.17,2,"Patent Ductus Arteriosus, Patent Foramen Ovale",0.4394151303242212,0.8781470339583974
+ENSG00000273989.1,2,"Astigmatism, Patent Ductus Arteriosus",0.4675451062778052,0.9129479060605276
+ENSG00000273972.1,2,"Astigmatism, Reactive Airway Disease",0.14108171817705606,0.7545029542734597
+ENSG00000273247.5,2,"Celiac Disease, Scoliosis",0.26794258373205737,0.9544909767808537
+ENSG00000204161.13,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.5256512493354598,0.9962971585317696
+ENSG00000204219.9,2,"Otitis Media, Susceptibility To, Patent Foramen Ovale",0.5103995621237001,0.9607575641394254
+ENSG00000215246.5,2,"Alopecia Areata, Atrioventricular Septal Defect",0.38433014354066986,0.9584285953470256
+ENSG00000175311.6,2,"Hashimoto Thyroiditis, Celiac Disease",0.3760543580131209,0.9352950510563651
+ENSG00000078487.17,2,"Atrial Septal Defect, Atrioventricular Septal Defect",0.42846153846153845,0.840321221459162
+ENSG00000273046.1,2,"Astigmatism, Ventricular Septal Defect",0.5419354838709678,0.9888107181506165
+ENSG00000076201.14,2,"Conductive Hearing Loss Disorder, Hearing Loss Disorder",0.533980728019302,0.9545590002316532
+ENSG00000133477.16,2,"Conductive Hearing Loss Disorder, Psoriasis",0.3895398454618844,0.9550968288140572
+ENSG00000075651.15,2,"Hashimoto Thyroiditis, Atrioventricular Septal Defect",0.32414529914529916,0.9835110031522158
+ENSG00000273284.1,2,"Conductive Hearing Loss Disorder, Strabismus",0.31823076923076926,0.9853532114226082
+ENSG00000174358.15,2,"Sleep Apnea Syndrome, Ventricular Septal Defect",0.5935774012895934,0.9821775432039034
+ENSG00000175073.7,2,"Hashimoto Thyroiditis, Conductive Hearing Loss Disorder",0.43739155581260836,0.9526821652376005
+ENSG00000180340.6,2,"Hashimoto Thyroiditis, Celiac Disease",0.16596638655462187,0.7673498285763132
+ENSG00000073849.14,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.26327764976958523,0.8512314174827333
+ENSG00000072858.10,2,"Celiac Disease, Psoriasis",0.2877846790890269,0.981411293010114
+ENSG00000174669.11,2,"Eustachian Tube Disorder, Patent Foramen Ovale",0.35663266973946584,0.8514079164237228
+ENSG00000133872.13,2,"Celiac Disease, Psoriasis",0.33154751131221716,0.9893934278048665
+ENSG00000273783.1,2,"Hidradenitis Suppurativa, Obstructive Sleep Apnea Syndrome",0.4760464254846278,0.9968176972851622
+ENSG00000134077.15,2,"Conductive Hearing Loss Disorder, Patent Foramen Ovale",0.3996750745318728,0.8642170954017944
+ENSG00000166813.14,2,"Folliculitis, Ventricular Septal Defect",0.5543053960964408,0.9769199254862084
+ENSG00000057657.15,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.3664119098797866,0.989801379881385
+ENSG00000138303.17,2,"Conductive Hearing Loss Disorder, Patent Foramen Ovale",0.43343750000000003,0.9999808977458552
+ENSG00000082898.16,2,"Hashimoto Thyroiditis, Psoriasis",0.35305105853051055,0.9543535771379359
+ENSG00000278344.1,2,"Atrial Septal Defect, Otitis Media, Susceptibility To",0.5564263828414772,0.9358231757503975
+ENSG00000018869.16,2,"Atrioventricular Septal Defect, Celiac Disease",0.439219962794278,0.9773601977374469
+ENSG00000014164.6,2,"Alopecia Areata, Celiac Disease",0.418560606060606,0.9829013682853708
+ENSG00000172071.11,2,"Hidradenitis Suppurativa, Psoriasis",0.2742587601078167,0.9005170984480577
+ENSG00000013441.15,2,"Celiac Disease, Conductive Hearing Loss Disorder",0.40909090909090906,0.9837406395890178
+ENSG00000012660.13,2,"Atrioventricular Septal Defect, Hearing Loss Disorder",0.4424868541380887,0.9895419252137804
+ENSG00000011478.11,2,"Atrioventricular Septal Defect, Folliculitis",0.43208996594598875,0.8787724979883608
+ENSG00000136237.18,2,"Hashimoto Thyroiditis, Scoliosis",0.3501262626262626,0.9450509543243517
+ENSG00000281468.1,2,"Alopecia Areata, Celiac Disease",0.3113759296822177,0.8627891944444337
+ENSG00000281501.1,2,"Astigmatism, Eustachian Tube Disorder",0.3752744693592388,0.9536637217596504
+ENSG00000136261.14,2,"Celiac Disease, Sleep Apnea Syndrome",0.4205578512396694,0.9323966615475289
+ENSG00000171812.12,2,"Hashimoto Thyroiditis, Sleep Apnea Syndrome",0.5106432748538012,0.9312977743490809
+ENSG00000171766.15,2,"Alopecia Areata, Hidradenitis Suppurativa",0.35943589743589743,0.94760730449723
+ENSG00000211633.3,2,"Patent Ductus Arteriosus, Patent Foramen Ovale",0.39156334753971334,0.91802425739394
+ENSG00000007202.14,2,"Obstructive Sleep Apnea Syndrome, Pulmonary Hypertension",0.37735547748323217,0.873575411001377
+ENSG00000006659.12,2,"Hashimoto Thyroiditis, Alopecia Areata",0.3210232390560259,0.9934525538392769
+ENSG00000136573.12,2,"Hidradenitis Suppurativa, Sleep Apnea Syndrome",0.4239717978848414,0.9791371083928015
+ENSG00000005302.17,2,"Hashimoto Thyroiditis, Conductive Hearing Loss Disorder",0.4541666666666666,0.9699069856749826
+ENSG00000211584.13,2,"Atrioventricular Septal Defect, Celiac Disease",0.4611409781303826,0.972117437247111
+ENSG00000137101.12,2,"Celiac Disease, Hidradenitis Suppurativa",0.2727272727272727,0.9095561446548293
+ENSG00000136925.14,2,"Psoriasis, Scoliosis",0.24781468531468534,0.9395756485374428
+ENSG00000002745.12,2,"Patent Ductus Arteriosus, Patent Foramen Ovale",0.4860016686752573,0.9423823066831707
+ENSG00000211883.1,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.5724344645397278,0.986116065388903
+ENSG00000169762.16,2,"Alopecia Areata, Folliculitis",0.4351190476190476,0.9146303068585394
+ENSG00000022840.15,2,"Atrioventricular Septal Defect, Folliculitis",0.5098136645962733,0.9692543690330049
+ENSG00000137970.7,2,"Folliculitis, Hearing Loss Disorder",0.5535482763880415,0.9298671163692611
+ENSG00000054277.13,2,"Hidradenitis Suppurativa, Psoriasis",0.3051619433198381,0.8825058957007534
+ENSG00000172915.18,2,"Sleep Apnea Syndrome, Ventricular Septal Defect",0.6231533549370949,0.9325455010197886
+ENSG00000168016.13,2,"Obstructive Sleep Apnea Syndrome, Otitis Media, Susceptibility To",0.6282975958414554,0.9918820291534796
+ENSG00000135116.9,2,"Hidradenitis Suppurativa, Psoriasis",0.29520917678812414,0.9703686524473611
+ENSG00000213096.10,2,"Hashimoto Thyroiditis, Celiac Disease",0.3758620689655172,0.9699069856749826
+ENSG00000168079.16,2,"Hypothyroidism, Obstructive Sleep Apnea Syndrome",0.5985314207650272,0.9349114255569592
+ENSG00000049192.14,2,"Alopecia Areata, Atrioventricular Septal Defect",0.39331468531468533,0.950203194573258
+ENSG00000135315.11,2,"Hashimoto Thyroiditis, Scoliosis",0.26069410815173527,0.9730874912005882
+ENSG00000168476.11,2,"Hashimoto Thyroiditis, Celiac Disease",0.26663182488932613,0.9377624272298771
+ENSG00000135549.14,2,"Hashimoto Thyroiditis, Folliculitis",0.4594771241830065,0.9945444554252927
+ENSG00000169499.14,2,"Psoriasis, Scoliosis",0.25275504637206764,0.9951851548090335
+ENSG00000135828.11,2,"Hypothyroidism, Sleep Apnea Syndrome",0.6584404076207354,0.9765810115675936
+ENSG00000168958.19,2,"Hashimoto Thyroiditis, Hearing Loss Disorder",0.4788927005908138,0.9473520774352727
+ENSG00000030419.16,2,"Celiac Disease, Hidradenitis Suppurativa",0.2825448361162647,0.941981267426186
+ENSG00000172340.14,2,"Astigmatism, Obstructive Sleep Apnea Syndrome",0.49251333461859775,0.9477561674869366
+ENSG00000135925.8,2,"Hearing Loss Disorder, Patent Foramen Ovale",0.4857032524558298,0.9360600369419868
+ENSG00000172292.14,2,"Atrioventricular Septal Defect, Hidradenitis Suppurativa",0.20251115114084745,0.91686696599043
+ENSG00000205707.10,2,"Hashimoto Thyroiditis, Celiac Disease",0.3355263157894737,0.8652737493365211
+ENSG00000136040.8,2,"Hypothyroidism, Sleep Apnea Syndrome",0.6760097919216647,0.959439530785466
+ENSG00000169410.9,2,"Atrioventricular Septal Defect, Celiac Disease",0.3967487526154837,0.9487446426237958
+ENSG00000081320.10,2,"Hashimoto Thyroiditis, Celiac Disease",0.2630154639175258,0.918847068880063
+ENSG00000133789.14,2,"Psoriasis, Seborrheic Dermatitis",0.20259740259740258,0.9548791533851283
+ENSG00000236140.1,2,"Celiac Disease, Psoriasis",0.33554376657824936,0.9659987826353629
+ENSG00000198833.6,2,"Hearing Loss Disorder, Ventricular Septal Defect",0.5295797868261637,0.998685974009202
+ENSG00000199691.1,2,"Atrioventricular Septal Defect, Psoriasis",0.3528568618082685,0.9213092275357914
+ENSG00000131653.12,2,"Hashimoto Thyroiditis, Celiac Disease",0.29834044570886675,0.8796310015322153
+ENSG00000095397.13,2,"Obstructive Sleep Apnea Syndrome, Patent Ductus Arteriosus",0.6288247099606126,0.9922655824362131
+ENSG00000163466.15,2,"Celiac Disease, Seborrheic Dermatitis",0.3433497536945813,0.9224938561249939
+ENSG00000265929.1,2,"Celiac Disease, Hidradenitis Suppurativa",0.12638700181159418,0.9367502632500695
+ENSG00000178035.11,2,"Atrioventricular Septal Defect, Obstructive Sleep Apnea Syndrome",0.5646544569246943,0.9652786086946091
+ENSG00000100628.11,2,"Patent Foramen Ovale, Pneumonia",0.48082191780821915,0.9781710715433543
+ENSG00000100744.14,2,"Hashimoto Thyroiditis, Conductive Hearing Loss Disorder",0.47351190476190474,0.9998895158797108
+ENSG00000179477.9,2,"Atrial Septal Defect, Atrioventricular Septal Defect",0.5282738524566516,0.9576450289656183
+ENSG00000200403.1,2,"Astigmatism, Reactive Airway Disease",0.4023172905525847,0.9713487688767024
+ENSG00000092445.11,2,"Alopecia Areata, Psoriasis",0.22351497299950907,0.9954729900608462
+ENSG00000164327.12,2,"Conductive Hearing Loss Disorder, Psoriasis",0.41509777407946735,0.9226103952918566
+ENSG00000140545.14,2,"Eustachian Tube Disorder, Otitis Media, Susceptibility To",0.3942148760330578,0.9082767015181145
+ENSG00000140470.13,2,"Patent Ductus Arteriosus, Patent Foramen Ovale",0.3585349462365591,0.9874041258693148
+ENSG00000132128.16,2,"Hashimoto Thyroiditis, Celiac Disease",0.2513176144244106,0.9872386575291378
+ENSG00000267060.5,2,"Alopecia Areata, Scoliosis",0.24865591397849462,0.9626460692541702
+ENSG00000265817.2,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.4029919315473627,0.8287794645331347
+ENSG00000097033.14,2,"Atrioventricular Septal Defect, Hidradenitis Suppurativa",0.41398228011500326,0.950851612415127
+ENSG00000198843.12,2,"Hashimoto Thyroiditis, Conductive Hearing Loss Disorder",0.4306354515050167,0.95785916132449
+ENSG00000090659.17,2,"Obstructive Sleep Apnea Syndrome, Patent Foramen Ovale",0.4969225785552316,0.9111540103771428
+ENSG00000131475.6,2,"Psoriasis, Ventricular Septal Defect",0.41663469767167355,0.9876447645369941
+ENSG00000100372.14,2,"Celiac Disease, Scoliosis",0.3606382978723405,0.9951851548090335
+ENSG00000267296.2,2,"Otitis Media, Susceptibility To, Patent Ductus Arteriosus",0.3718220338983051,0.9989410753505911
+ENSG00000100280.16,2,"Hashimoto Thyroiditis, Hearing Loss Disorder",0.4361263736263736,0.9713464500307424
+ENSG00000163607.15,2,"Hashimoto Thyroiditis, Ventricular Septal Defect",0.45856979155298483,0.9578437956670006
+ENSG00000131165.14,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.5753161592505855,0.984458046882898
+ENSG00000163681.14,2,"Conductive Hearing Loss Disorder, Psoriasis",0.44499999999999995,0.9870535471366878
+ENSG00000163703.17,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.4406477896471832,0.8746327989470457
+ENSG00000267744.1,2,"Scoliosis, Seborrheic Dermatitis",0.19778699861687413,0.6235148749502696
+ENSG00000198915.11,2,"Celiac Disease, Sleep Apnea Syndrome",0.38517462580185313,0.9976739481654604
+ENSG00000266947.1,2,"Hidradenitis Suppurativa, Scoliosis",0.3808543993729179,0.9418920945596402
+ENSG00000163811.11,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.5707378059919619,0.972117437247111
+ENSG00000163812.13,2,"Atrioventricular Septal Defect, Ventricular Septal Defect",0.5552285318559558,0.9794532610082903
+ENSG00000100412.15,2,"Celiac Disease, Conductive Hearing Loss Disorder",0.47913043478260875,0.95785916132449
+ENSG00000198848.12,2,"Patent Ductus Arteriosus, Patent Foramen Ovale",0.49373628169803385,0.957422783584455
+ENSG00000224721.1,2,"Astigmatism, Patent Ductus Arteriosus",0.4659498207885304,0.9421989228499433
+ENSG00000163950.12,2,"Celiac Disease, Folliculitis",0.40691383631492517,0.9684570167056299
+ENSG00000179163.11,2,"Hashimoto Thyroiditis, Celiac Disease",0.254066985645933,0.8937748013138265
+ENSG00000140416.19,2,"Alopecia Areata, Astigmatism",0.332215647600263,0.8758370391036757
+ENSG00000271133.5,2,"Hearing Loss Disorder, Hidradenitis Suppurativa",0.5174471992653812,0.9877814809790764
+ENSG00000101307.15,2,"Patent Ductus Arteriosus, Patent Foramen Ovale",0.5094461697722568,0.9575211249229005
+ENSG00000101224.17,2,"Conductive Hearing Loss Disorder, Strabismus",0.45985401459854014,0.9141355647882801
+ENSG00000163141.18,2,"Alopecia Areata, Psoriasis",0.3222291407222914,0.9394384805502158
+ENSG00000272638.1,2,"Atrial Septal Defect, Ventricular Septal Defect",0.6393614507649594,0.9962971585317696
+ENSG00000218682.1,2,"Folliculitis, Pneumonia",0.3834635416666667,0.7905205399853074
+ENSG00000272498.1,2,"Celiac Disease, Scoliosis",0.38461538461538464,0.9935905482947655
+ENSG00000084636.17,2,"Patent Ductus Arteriosus, Scoliosis",0.375,0.9641471374612415
+ENSG00000085644.13,2,"Atrioventricular Septal Defect, Celiac Disease",0.48268602540834843,0.995407265382206
+ENSG00000086065.13,2,"Hashimoto Thyroiditis, Conductive Hearing Loss Disorder",0.3953712333022678,0.9963350146556805
+ENSG00000272323.1,2,"Atrioventricular Septal Defect, Psoriasis",0.36494399909034053,0.9805937237334847
+ENSG00000272234.1,2,"Atrioventricular Septal Defect, Scoliosis",0.4096820809248555,0.9788051363214199
+ENSG00000272153.1,2,"Hashimoto Thyroiditis, Celiac Disease",0.34824346405228757,0.9856733881456572
+ENSG00000272129.1,2,"Otitis Media, Susceptibility To, Patent Foramen Ovale",0.5254721637700361,0.9594123206723295
+ENSG00000236088.9,2,"Alopecia Areata, Celiac Disease",0.39142335766423353,0.9806100754446695
+ENSG00000130529.15,2,"Astigmatism, Otitis Media, Susceptibility To",0.3922959572845156,0.9238904853902077
+ENSG00000176728.7,2,"Hashimoto Thyroiditis, Patent Foramen Ovale",0.38198757763975155,0.9394173972384571
+ENSG00000163600.12,2,"Atrioventricular Septal Defect, Celiac Disease",0.4725274725274725,0.9731396022693855
+ENSG00000140090.17,2,"Celiac Disease, Folliculitis",0.39322636949516654,0.8922102603566863
+ENSG00000164548.10,2,"Obstructive Sleep Apnea Syndrome, Otitis Media, Susceptibility To",0.589939024390244,0.9342983448289073
+ENSG00000271725.1,2,"Sleep Apnea Syndrome, Ventricular Septal Defect",0.6209032258064516,0.9098054018550259
+ENSG00000198816.6,2,"Obstructive Sleep Apnea Syndrome, Pulmonary Hypertension",0.4345783415550858,0.8621554186565333
+ENSG00000141562.17,2,"Hidradenitis Suppurativa, Scoliosis",0.23195970695970694,0.9151534305420999
+ENSG00000271699.5,2,"Celiac Disease, Folliculitis",0.37489481065918656,0.9989680469126953
+ENSG00000200719.1,2,"Astigmatism, Obstructive Sleep Apnea Syndrome",0.5439273270283722,0.9582373414893348
+ENSG00000089472.16,2,"Hashimoto Thyroiditis, Conductive Hearing Loss Disorder",0.34140804597701147,0.9410601260403425
+ENSG00000089009.15,2,"Hashimoto Thyroiditis, Hypothyroidism",0.4801259346713892,0.8811855120270793
+ENSG00000221887.5,2,"Scoliosis, Strabismus",0.28223767383059417,0.9102740488319246
+ENSG00000196843.15,1,Alopecia Areata,0.3225806451612903,0.9626460692541702
+ENSG00000198865.9,1,Hypothyroidism,0.6949806949806949,0.9402843895814996
+ENSG00000196683.10,1,Hashimoto Thyroiditis,0.2995391705069124,0.8852604858120813
+ENSG00000205930.8,1,Atrioventricular Septal Defect,0.266634288489558,0.8477243659483361
+ENSG00000198429.9,1,Psoriasis,0.34,0.9182575039928107
+ENSG00000198825.12,1,Folliculitis,0.28329297820823246,0.8880766670870965
+ENSG00000198198.15,1,Sleep Apnea Syndrome,0.618006993006993,0.9932772571299917
+ENSG00000205581.10,1,Celiac Disease,0.4510344827586207,0.9919916007667154
+ENSG00000196872.11,1,Ventricular Septal Defect,0.6003898635477583,0.9377692365183267
+ENSG00000196781.14,1,Hidradenitis Suppurativa,0.13183060109289618,0.9544257889428804
+ENSG00000198106.8,1,Hidradenitis Suppurativa,0.23314429741650913,0.9628433523285183
+ENSG00000196757.7,1,Conductive Hearing Loss Disorder,0.4945868945868946,0.8983016783593372
+ENSG00000198408.13,1,Hashimoto Thyroiditis,0.29320388349514565,0.9872386575291378
+ENSG00000198792.12,1,Alopecia Areata,0.3277048155096936,0.9779258721875014
+ENSG00000198598.6,1,Psoriasis,0.23268398268398266,0.6483210600115237
+ENSG00000198205.6,1,Celiac Disease,0.20512820512820512,0.851013567352682
+ENSG00000198742.9,1,Hidradenitis Suppurativa,0.40037593984962405,0.9689413238393331
+ENSG00000198298.12,1,Hearing Loss Disorder,0.49843750000000003,0.907585177406839
+ENSG00000206418.3,1,Scoliosis,0.32091097308488614,0.92906291943709
+ENSG00000196743.8,1,"Otitis Media, Susceptibility To",0.5023255813953489,0.996385147780905
+ENSG00000198130.15,1,Celiac Disease,0.45977011494252873,0.9783051594856461
+ENSG00000196814.14,1,Pulmonary Hypertension,0.1923536439665472,0.8105849719556792
+ENSG00000206190.11,1,Celiac Disease,0.2980392156862745,0.846438132037606
+ENSG00000205794.4,1,Hearing Loss Disorder,0.5583673469387755,0.8816907330493675
+ENSG00000205937.11,1,Ventricular Septal Defect,0.5128579777907657,0.9716118110636088
+ENSG00000198830.10,1,Ventricular Septal Defect,0.6313896251419917,0.9564989661761071
+ENSG00000197837.3,1,Ventricular Septal Defect,0.6331835059605238,0.9776180598420845
+ENSG00000205488.8,1,Atrioventricular Septal Defect,0.4918032786885246,0.9961542992872451
+ENSG00000205413.7,1,Conductive Hearing Loss Disorder,0.4038461538461539,0.9853532114226082
+ENSG00000197372.9,1,Hashimoto Thyroiditis,0.2239010989010989,0.9520867588198577
+ENSG00000197385.5,1,Psoriasis,0.29122807017543856,0.774094498296421
+ENSG00000201544.1,1,Pulmonary Hypertension,0.24244090159428255,0.8064327896506321
+ENSG00000197930.12,1,Atrioventricular Septal Defect,0.3735130848532911,0.8746327989470457
+ENSG00000203644.3,1,Ventricular Septal Defect,0.5635062611806798,0.9405590283793093
+ENSG00000204599.14,1,Atrioventricular Septal Defect,0.4853801169590643,0.9218441214030598
+ENSG00000197457.9,1,Hidradenitis Suppurativa,0.3768303186907838,0.8708555109582529
+ENSG00000204574.12,1,Hearing Loss Disorder,0.4870748299319728,0.9094311106740298
+ENSG00000203666.12,1,Hashimoto Thyroiditis,0.12338593974175037,0.9113393454971849
+ENSG00000197863.8,1,Atrioventricular Septal Defect,0.3616600790513834,0.7506686099666415
+ENSG00000204531.17,1,Atrioventricular Septal Defect,0.4918032786885246,0.9961542992872451
+ENSG00000197497.10,1,Patent Foramen Ovale,0.4282758620689655,0.8805688659985645
+ENSG00000197530.12,1,Scoliosis,0.12244897959183673,0.9214346084991514
+ENSG00000204482.10,1,Scoliosis,0.11277072442120985,0.8488339052160438
+ENSG00000197557.6,1,Pulmonary Hypertension,0.3545734840698869,0.8932204190836567
+ENSG00000197859.9,1,Patent Foramen Ovale,0.4788990825688073,0.9841193860097899
+ENSG00000203684.5,1,Pulmonary Hypertension,0.35593220338983056,0.8239228380517898
+ENSG00000203797.9,1,Celiac Disease,0.35234899328859054,0.7929431016677324
+ENSG00000204472.12,1,Atrioventricular Septal Defect,0.1140552995391705,0.8171523087264712
+ENSG00000204086.4,1,Conductive Hearing Loss Disorder,0.4397240377632534,0.9492418527757883
+ENSG00000197647.11,1,Pulmonary Hypertension,0.24639289678135404,0.8195230581122294
+ENSG00000197362.14,1,Folliculitis,0.4722550177095632,0.854291648714903
+ENSG00000204604.9,1,Psoriasis,0.33496932515337424,0.8917111131077504
+ENSG00000204650.14,1,Atrioventricular Septal Defect,0.2887287699433865,0.91686696599043
+ENSG00000197006.13,1,Ventricular Septal Defect,0.6298298298298298,0.9833827990276468
+ENSG00000198898.13,1,Hashimoto Thyroiditis,0.3444316877152698,0.9377349998373654
+ENSG00000196873.15,1,Conductive Hearing Loss Disorder,0.5436081242532855,0.9873373025671696
+ENSG00000205323.8,1,Hashimoto Thyroiditis,0.34105960264900664,0.8796353396394215
+ENSG00000205268.10,1,Ventricular Septal Defect,0.580299352750809,0.9270764156747099
+ENSG00000196954.13,1,Hidradenitis Suppurativa,0.24425574425574426,0.7938784599311737
+ENSG00000196967.10,1,Hashimoto Thyroiditis,0.3879781420765027,0.9376025967142833
+ENSG00000198932.12,1,Hearing Loss Disorder,0.5225044563279858,0.8097697747788415
+ENSG00000196981.3,1,Conductive Hearing Loss Disorder,0.5316973415132924,0.9271902830661604
+ENSG00000197747.8,1,Folliculitis,0.49600000000000005,0.9251779774765521
+ENSG00000197081.12,1,Sleep Apnea Syndrome,0.6790909090909091,0.9694345946460557
+ENSG00000197128.11,1,Psoriasis,0.2496847414880202,0.8551141955123845
+ENSG00000198087.7,1,Celiac Disease,0.34400000000000003,0.8381910715917102
+ENSG00000205056.8,1,Psoriasis,0.10612244897959182,0.790800720280405
+ENSG00000204954.9,1,Conductive Hearing Loss Disorder,0.4397240377632534,0.9492418527757883
+ENSG00000204946.9,1,Hashimoto Thyroiditis,0.28380952380952384,0.9557523692166743
+ENSG00000198046.11,1,Celiac Disease,0.30800000000000005,0.8745488980389805
+ENSG00000204934.10,1,Hidradenitis Suppurativa,0.4386503067484662,0.9257442634747767
+ENSG00000204899.5,1,Celiac Disease,0.4249411764705882,0.9893934278048665
+ENSG00000199733.1,1,Reactive Airway Disease,0.3328252032520325,0.8811251155125663
+ENSG00000200269.1,1,Atrioventricular Septal Defect,0.4383838383838384,0.9749553870725092
+ENSG00000205189.11,1,Celiac Disease,0.243161094224924,0.7934127166221668
+ENSG00000184402.14,1,Celiac Disease,0.28403361344537814,0.9255816516454597
+ENSG00000196670.13,1,Alopecia Areata,0.39079754601226996,0.9916921935939393
+ENSG00000177398.18,1,Folliculitis,0.46567164179104475,0.8685022491289008
+ENSG00000177302.14,1,Hypothyroidism,0.6294985250737463,0.8962093249143233
+ENSG00000177189.12,1,Conductive Hearing Loss Disorder,0.5166475315729047,0.9281332350467721
+ENSG00000177150.12,1,Hidradenitis Suppurativa,0.34118262689691264,0.963400182048978
+ENSG00000176946.11,1,Conductive Hearing Loss Disorder,0.4867511520737327,0.8958881125549332
+ENSG00000176928.5,1,Ventricular Septal Defect,0.5442145942259604,0.9221675956238019
+ENSG00000176920.11,1,Psoriasis,0.17825537294563842,0.7681803711902448
+ENSG00000176845.12,1,Atrioventricular Septal Defect,0.4457142857142857,0.9911111158033156
+ENSG00000176658.16,1,Hidradenitis Suppurativa,0.33540372670807456,0.9472252135439224
+ENSG00000176595.3,1,Reactive Airway Disease,0.3449457452884066,0.995659390462858
+ENSG00000176222.8,1,Celiac Disease,0.37955465587044535,0.9842383953917481
+ENSG00000176108.9,1,Psoriasis,0.33623910336239105,0.9394384805502158
+ENSG00000176102.11,1,Scoliosis,0.25548387096774194,0.7923152616185952
+ENSG00000176055.9,1,Psoriasis,0.32555282555282555,0.9094417707043354
+ENSG00000176046.8,1,Atrioventricular Septal Defect,0.443916697113628,0.9213092275357914
+ENSG00000175895.3,1,Psoriasis,0.2892156862745098,0.8726955505895018
+ENSG00000175820.3,1,Sleep Apnea Syndrome,0.6804407713498623,0.9318210584459925
+ENSG00000175711.8,1,Scoliosis,0.2601398601398601,0.9104252730769692
+ENSG00000175548.8,1,Conductive Hearing Loss Disorder,0.5501330967169477,0.9598695703953003
+ENSG00000175467.14,1,Psoriasis,0.33496932515337424,0.8917111131077504
+ENSG00000175414.6,1,Atrioventricular Septal Defect,0.2887287699433865,0.91686696599043
+ENSG00000175213.2,1,Conductive Hearing Loss Disorder,0.4091428571428572,0.9317582751052808
+ENSG00000175203.15,1,Atrioventricular Septal Defect,0.40635451505016723,0.9507542541199444
+ENSG00000175003.12,1,Hidradenitis Suppurativa,0.3020713463751438,0.9797931422404433
+ENSG00000174885.12,1,Hidradenitis Suppurativa,0.3082965144820815,0.8712566738598205
+ENSG00000174837.14,1,Celiac Disease,0.3404255319148936,0.9659170331822817
+ENSG00000177340.5,1,Conductive Hearing Loss Disorder,0.40564903846153844,0.8135745536935118
+ENSG00000177464.4,1,Celiac Disease,0.2747663551401869,0.7806792077247227
+ENSG00000174579.3,1,Celiac Disease,0.34400000000000003,0.8381910715917102
+ENSG00000177576.11,1,Hashimoto Thyroiditis,0.3819444444444444,0.9856733881456572
+ENSG00000179909.15,1,Hypothyroidism,0.6852568613652358,0.9937664704405891
+ENSG00000179862.6,1,Scoliosis,0.2512820512820513,0.7792028156014114
+ENSG00000179840.5,1,Atrioventricular Septal Defect,0.4201101928374656,0.8509389686978509
+ENSG00000179832.17,1,Hearing Loss Disorder,0.5636656688924706,0.9443524568010475
+ENSG00000179583.18,1,Hidradenitis Suppurativa,0.40682788051209107,0.9844887864887224
+ENSG00000179532.12,1,Eustachian Tube Disorder,0.37405303030303033,0.9550257288643342
+ENSG00000179476.7,1,Celiac Disease,0.38661876964526265,0.9001431074142996
+ENSG00000179456.10,1,Celiac Disease,0.1573802541544477,0.6542785758215612
+ENSG00000179387.9,1,Conductive Hearing Loss Disorder,0.5608028335301063,0.9816472725924547
+ENSG00000178951.8,1,Hashimoto Thyroiditis,0.2618181818181818,0.8819734609457568
+ENSG00000178950.16,1,Hashimoto Thyroiditis,0.28846153846153844,0.9713464500307424
+ENSG00000178927.17,1,Hidradenitis Suppurativa,0.3639607493309545,0.8810880225911979
+ENSG00000178913.7,1,Hashimoto Thyroiditis,0.2239010989010989,0.9520867588198577
+ENSG00000178719.16,1,Hypothyroidism,0.6597615790502247,0.9901720849901438
+ENSG00000178623.11,1,Hidradenitis Suppurativa,0.3768303186907838,0.8708555109582529
+ENSG00000178343.4,1,Hidradenitis Suppurativa,0.3888888888888889,0.8987309376709718
+ENSG00000178297.12,1,Psoriasis,0.20943134535367544,0.9020690812007713
+ENSG00000178233.17,1,Atrioventricular Septal Defect,0.4506172839506173,0.9640411477784734
+ENSG00000178229.7,1,Hearing Loss Disorder,0.6083368599238256,0.9573516084022463
+ENSG00000178177.15,1,Psoriasis,0.21645021645021648,0.6523724900099466
+ENSG00000178163.7,1,Folliculitis,0.3909122441900798,0.852301823638937
+ENSG00000178028.13,1,Hashimoto Thyroiditis,0.20572916666666666,0.875253976782341
+ENSG00000177990.11,1,Conductive Hearing Loss Disorder,0.4191176470588236,0.8403534449724583
+ENSG00000177963.14,1,Alopecia Areata,0.2712250712250712,0.8093139136312616
+ENSG00000177888.7,1,Conductive Hearing Loss Disorder,0.5520195838433293,0.9612380959942112
+ENSG00000174807.3,1,Seborrheic Dermatitis,0.36000000000000004,0.99331842688813
+ENSG00000174485.15,1,Atrioventricular Septal Defect,0.4690831556503199,0.9320902842033114
+ENSG00000180008.8,1,Folliculitis,0.5468354430379746,0.9806806907496816
+ENSG00000172613.7,1,Scoliosis,0.22171253822629972,0.9702866215159676
+ENSG00000172548.14,1,Psoriasis,0.12359550561797752,0.9204052130510922
+ENSG00000172534.13,1,Hashimoto Thyroiditis,0.2792452830188679,0.9404481058674256
+ENSG00000172531.14,1,Hashimoto Thyroiditis,0.13273001508295626,0.9798910485239776
+ENSG00000172466.15,1,Celiac Disease,0.40935672514619886,0.9970890649389422
+ENSG00000172331.11,1,Psoriasis,0.28795098706603134,0.9859070321135558
+ENSG00000172324.5,1,Hidradenitis Suppurativa,0.44366197183098594,0.9660930689718507
+ENSG00000172216.5,1,Hypothyroidism,0.6123680241327301,0.904347708730095
+ENSG00000172201.11,1,Hidradenitis Suppurativa,0.42142230026338895,0.9411119773989388
+ENSG00000172164.13,1,Hidradenitis Suppurativa,0.34118262689691264,0.963400182048978
+ENSG00000172086.7,1,Hashimoto Thyroiditis,0.2618181818181818,0.8819734609457568
+ENSG00000171863.12,1,Hashimoto Thyroiditis,0.3140495867768595,0.9281011954122909
+ENSG00000171860.4,1,Ventricular Septal Defect,0.6052875695732839,0.9187550983401025
+ENSG00000171840.11,1,Ventricular Septal Defect,0.5546218487394958,0.8666706592326632
+ENSG00000171824.13,1,Hashimoto Thyroiditis,0.2417391304347826,0.8145215298882402
+ENSG00000171793.13,1,Hearing Loss Disorder,0.5120173364854217,0.8118622327193721
+ENSG00000171659.13,1,Psoriasis,0.16464891041162227,0.709650756642979
+ENSG00000171643.13,1,Celiac Disease,0.2089728453364817,0.8668064926177621
+ENSG00000171608.15,1,Alopecia Areata,0.3841463414634147,0.9746437310746195
+ENSG00000171492.14,1,Hidradenitis Suppurativa,0.2244318181818182,0.7298964437670632
+ENSG00000171488.14,1,Atrioventricular Septal Defect,0.20935960591133004,0.6675758474863295
+ENSG00000171469.10,1,Hashimoto Thyroiditis,0.2239010989010989,0.9520867588198577
+ENSG00000171130.17,1,Patent Foramen Ovale,0.37732919254658387,0.8773595495030644
+ENSG00000171084.15,1,Psoriasis,0.341692789968652,0.9547431643101224
+ENSG00000171067.10,1,Folliculitis,0.4701263229771253,0.9508860826722765
+ENSG00000171051.8,1,Alopecia Areata,0.2896825396825397,0.9830796493775196
+ENSG00000172602.9,1,Obstructive Sleep Apnea Syndrome,0.6933333333333334,0.9748555622440251
+ENSG00000172748.13,1,Hypothyroidism,0.6914893617021277,0.9070674267863474
+ENSG00000174370.9,1,Folliculitis,0.4114695340501792,0.8965814163592718
+ENSG00000172757.12,1,Conductive Hearing Loss Disorder,0.5470059880239521,0.9527048505685596
+ENSG00000174326.11,1,Atrial Septal Defect,0.6918238993710691,0.9835718448388575
+ENSG00000174282.11,1,Conductive Hearing Loss Disorder,0.4967741935483871,0.9677847816386944
+ENSG00000174238.14,1,Atrioventricular Septal Defect,0.5043478260869565,0.9873492862521491
+ENSG00000174177.12,1,Conductive Hearing Loss Disorder,0.4358561460010736,0.791350053990249
+ENSG00000174123.10,1,Hidradenitis Suppurativa,0.3142857142857143,0.6529560857609693
+ENSG00000173867.9,1,Conductive Hearing Loss Disorder,0.4988706945228684,0.8718291940771993
+ENSG00000173762.7,1,Ventricular Septal Defect,0.5846092662557167,0.9262455291163323
+ENSG00000173757.9,1,Hidradenitis Suppurativa,0.19988706945228688,0.8269077363989022
+ENSG00000173581.7,1,Celiac Disease,0.39276018099547516,0.9144560429032391
+ENSG00000173575.20,1,Psoriasis,0.32555282555282555,0.9094417707043354
+ENSG00000173546.7,1,Hidradenitis Suppurativa,0.3297491039426524,0.9313911123374361
+ENSG00000173545.4,1,Psoriasis,0.32299741602067183,0.974758541047413
+ENSG00000173442.12,1,Scoliosis,0.14925373134328357,0.653416774668825
+ENSG00000173404.4,1,Eustachian Tube Disorder,0.38471074380165293,0.8776629464404611
+ENSG00000173391.8,1,Reactive Airway Disease,0.3338935574229692,0.9639258139617982
+ENSG00000173338.12,1,Atrioventricular Septal Defect,0.45454545454545453,0.9207493171774666
+ENSG00000173209.22,1,Conductive Hearing Loss Disorder,0.4729094895082994,0.92172354263205
+ENSG00000173171.14,1,Scoliosis,0.1074020319303338,0.8085314607392567
+ENSG00000173114.12,1,Hashimoto Thyroiditis,0.2792452830188679,0.9404481058674256
+ENSG00000172995.16,1,Hidradenitis Suppurativa,0.3076923076923077,0.9978136993710842
+ENSG00000172888.11,1,Scoliosis,0.10915750915750917,0.8217120449271744
+ENSG00000172831.11,1,Celiac Disease,0.30297029702970296,0.8603569041732353
+ENSG00000172824.14,1,Reactive Airway Disease,0.41976566479877736,0.9765948266051803
+ENSG00000172819.16,1,Hearing Loss Disorder,0.3620218579234973,0.6333546007096671
+ENSG00000172818.9,1,Reactive Airway Disease,0.13405797101449274,0.9800008217548261
+ENSG00000179943.7,1,Hashimoto Thyroiditis,0.23418803418803416,0.7891331117814664
+ENSG00000180061.9,1,Hearing Loss Disorder,0.5267857142857143,0.9580050732650937
+ENSG00000196663.15,1,Hidradenitis Suppurativa,0.10135135135135136,0.735547512084561
+ENSG00000187621.14,1,Hidradenitis Suppurativa,0.21980676328502416,0.9083947091169996
+ENSG00000186814.13,1,Atrioventricular Septal Defect,0.4765395894428152,0.9652786086946091
+ENSG00000186603.5,1,Alopecia Areata,0.3483870967741936,0.9119258724324547
+ENSG00000186522.14,1,Patent Foramen Ovale,0.46535303776683085,0.8874230893018782
+ENSG00000186510.11,1,Atrioventricular Septal Defect,0.3020979020979021,0.7084315049588068
+ENSG00000186431.18,1,Hidradenitis Suppurativa,0.4418500224517288,0.986807080097834
+ENSG00000186298.11,1,Psoriasis,0.2715837621497999,0.7577911074668797
+ENSG00000186265.9,1,Psoriasis,0.328125,0.9902378784620435
+ENSG00000186222.4,1,Hashimoto Thyroiditis,0.22010869565217392,0.9360617778590622
+ENSG00000186073.11,1,Psoriasis,0.32555282555282555,0.9094417707043354
+ENSG00000186056.9,1,Astigmatism,0.29333333333333333,0.8292540596909996
+ENSG00000185989.10,1,Hashimoto Thyroiditis,0.23793103448275862,0.8017193828428696
+ENSG00000185986.11,1,Atrioventricular Septal Defect,0.44378698224852065,0.8446265560116062
+ENSG00000185973.10,1,Sleep Apnea Syndrome,0.6506489919911626,0.9134459369719117
+ENSG00000185917.13,1,Atrioventricular Septal Defect,0.4841093865484109,0.9805937237334847
+ENSG00000185842.15,1,Hidradenitis Suppurativa,0.40770609318996415,0.9421989228499433
+ENSG00000185730.7,1,Scoliosis,0.24812030075187969,0.8683245841992245
+ENSG00000185697.16,1,Conductive Hearing Loss Disorder,0.5001499250374812,0.9351016069382507
+ENSG00000185624.14,1,Celiac Disease,0.23431498079385404,0.9707271868436156
+ENSG00000185442.12,1,Folliculitis,0.4489563567362429,0.9771224200809171
+ENSG00000185414.19,1,Hearing Loss Disorder,0.6365014072310023,0.9940666570812317
+ENSG00000185404.16,1,Psoriasis,0.2002262443438914,0.6856710560423569
+ENSG00000185304.14,1,Reactive Airway Disease,0.41295546558704455,0.9606379293257773
+ENSG00000185201.16,1,Hearing Loss Disorder,0.5730232558139535,0.9598277779219693
+ENSG00000185065.6,1,Strabismus,0.42700729927007297,0.9141355647882801
+ENSG00000185024.16,1,Hashimoto Thyroiditis,0.2576576576576577,0.8680038799327731
+ENSG00000187109.13,1,Hypothyroidism,0.6993202718912435,0.8911142901529034
+ENSG00000187735.13,1,Scoliosis,0.2147147147147147,0.9397460343006574
+ENSG00000185010.13,1,Folliculitis,0.39826839826839827,0.9790237358762583
+ENSG00000187736.12,1,Hashimoto Thyroiditis,0.29320388349514565,0.9872386575291378
+ENSG00000196642.18,1,Celiac Disease,0.3521739130434783,0.9989680469126953
+ENSG00000196600.12,1,Hashimoto Thyroiditis,0.30335861321776814,0.8256343244278973
+ENSG00000196562.14,1,Atrioventricular Septal Defect,0.3884372177055104,0.9720622548182503
+ENSG00000196550.10,1,Conductive Hearing Loss Disorder,0.42687747035573126,0.8847383276097954
+ENSG00000196466.10,1,Scoliosis,0.28145454545454546,0.9850287877821733
+ENSG00000196405.12,1,Atrioventricular Septal Defect,0.3164556962025316,0.8718376965411084
+ENSG00000196372.12,1,Pneumonia,0.33902323376007587,0.8796310015322153
+ENSG00000196371.3,1,Patent Foramen Ovale,0.4492035398230088,0.9234139834059519
+ENSG00000196368.4,1,Pneumonia,0.4270072992700729,0.9618427188053772
+ENSG00000196227.10,1,Conductive Hearing Loss Disorder,0.47342465753424656,0.8422561477988884
+ENSG00000196177.12,1,Atrioventricular Septal Defect,0.47438596491228074,0.9175240369039152
+ENSG00000196154.11,1,Celiac Disease,0.18729463307776562,0.7776635524636842
+ENSG00000196092.12,1,Celiac Disease,0.1318150448585231,0.9564234639408096
+ENSG00000196083.9,1,Sleep Apnea Syndrome,0.6701803051317614,0.9368257616743074
+ENSG00000196074.12,1,Hearing Loss Disorder,0.5076476793248944,0.9239841100379788
+ENSG00000189403.14,1,Hashimoto Thyroiditis,0.2948571428571429,0.8714307303152683
+ENSG00000189319.13,1,Hashimoto Thyroiditis,0.22777777777777777,0.968462570153005
+ENSG00000189283.9,1,"Otitis Media, Susceptibility To",0.4746227709190672,0.9743210326848988
+ENSG00000189091.12,1,Celiac Disease,0.384180790960452,0.9359430754271664
+ENSG00000189068.9,1,Hidradenitis Suppurativa,0.3950617283950617,0.9129944639554373
+ENSG00000188626.6,1,Psoriasis,0.22361359570661896,0.7658509180979896
+ENSG00000188611.14,1,Hashimoto Thyroiditis,0.10718954248366014,0.7923201720359285
+ENSG00000188315.7,1,Atrioventricular Septal Defect,0.48054919908466814,0.9970637730048617
+ENSG00000187893.10,1,Atrioventricular Septal Defect,0.343859649122807,0.7659077603648364
+ENSG00000187857.4,1,Ventricular Septal Defect,0.6442953020134229,0.9700546902608839
+ENSG00000185022.11,1,Ventricular Septal Defect,0.6293706293706294,0.9510096080103878
+ENSG00000184924.5,1,Hearing Loss Disorder,0.605098389982111,0.9410149981780728
+ENSG00000180228.12,1,Atrioventricular Septal Defect,0.4509948415622697,0.9359580399152938
+ENSG00000182827.8,1,Hidradenitis Suppurativa,0.21980676328502416,0.9083947091169996
+ENSG00000182749.5,1,Celiac Disease,0.4249411764705882,0.9893934278048665
+ENSG00000182568.16,1,Scoliosis,0.11846153846153847,0.8915314329095009
+ENSG00000182541.17,1,Hidradenitis Suppurativa,0.1891304347826087,0.782821273086376
+ENSG00000182489.8,1,Psoriasis,0.3383553044569994,0.8756020955441377
+ENSG00000182473.21,1,Hashimoto Thyroiditis,0.26605504587155965,0.8961956337037327
+ENSG00000182247.9,1,Hearing Loss Disorder,0.44630136986301366,0.8597199812943147
+ENSG00000182230.11,1,"Otitis Media, Susceptibility To",0.48958333333333337,0.8367531559089306
+ENSG00000182162.10_PAR_Y,1,Hashimoto Thyroiditis,0.10905485789821547,0.8060401212520351
+ENSG00000182162.10,1,Hashimoto Thyroiditis,0.10905485789821547,0.8060401212520351
+ENSG00000182054.9,1,Celiac Disease,0.14471243042671614,0.6018979919305376
+ENSG00000182022.17,1,Hypothyroidism,0.698609731876862,0.9949542282316641
+ENSG00000182010.10,1,Celiac Disease,0.3095334685598377,0.7201664584517523
+ENSG00000181751.9,1,Seborrheic Dermatitis,0.2818791946308725,0.8746442442995246
+ENSG00000181744.8,1,Hidradenitis Suppurativa,0.4274563820018366,0.9877814809790764
+ENSG00000181061.13,1,Hashimoto Thyroiditis,0.23050847457627122,0.7767573030094304
+ENSG00000180891.12,1,Folliculitis,0.36432637571157495,0.9860924999609991
+ENSG00000180855.15,1,Celiac Disease,0.3758620689655172,0.8461872519704277
+ENSG00000180667.10,1,Hashimoto Thyroiditis,0.2768549280177187,0.8182263782931354
+ENSG00000180626.9,1,Alopecia Areata,0.30328798185941047,0.8353119830504266
+ENSG00000180611.6,1,Hidradenitis Suppurativa,0.40287162162162166,0.8767941409113085
+ENSG00000180543.4,1,Psoriasis,0.26179702650290887,0.8965424869205281
+ENSG00000180488.14,1,Psoriasis,0.30005941770647654,0.8378392683528192
+ENSG00000180458.2,1,Scoliosis,0.24713375796178347,0.7662556137838485
+ENSG00000180385.8,1,Celiac Disease,0.22113022113022116,0.916699158144605
+ENSG00000180376.16,1,Hypothyroidism,0.6775777414075287,0.9928441950560722
+ENSG00000182771.18,1,Reactive Airway Disease,0.25044326241134757,0.662793299951369
+ENSG00000182841.12,1,Astigmatism,0.4258064516129032,0.9099395378662151
+ENSG00000184905.8,1,Celiac Disease,0.22633744855967078,0.5497161912821733
+ENSG00000182919.14,1,Folliculitis,0.3905249679897567,0.9603404368335209
+ENSG00000184857.7,1,Conductive Hearing Loss Disorder,0.45706447187928667,0.8300068089086912
+ENSG00000184677.16,1,Hypothyroidism,0.689075630252101,0.9380224851311831
+ENSG00000184613.10,1,Patent Foramen Ovale,0.4878917378917379,0.9778227916048146
+ENSG00000184584.12,1,Celiac Disease,0.17450365726227793,0.7249589447061452
+ENSG00000184574.9,1,Folliculitis,0.4701263229771253,0.9508860826722765
+ENSG00000184557.4,1,Ventricular Septal Defect,0.5788182831661093,0.8736851312112225
+ENSG00000184441.4,1,Patent Foramen Ovale,0.4661081492764661,0.9882699742095306
+ENSG00000184307.14,1,Alopecia Areata,0.3076923076923077,0.9182304340238023
+ENSG00000184226.14,1,Hidradenitis Suppurativa,0.29659090909090907,0.9622138047669802
+ENSG00000184209.14,1,Alopecia Areata,0.36602870813397126,0.9584285953470256
+ENSG00000184178.15,1,Celiac Disease,0.28380952380952384,0.8062444846259915
+ENSG00000184166.2,1,Pulmonary Hypertension,0.11447368421052631,0.8402982951202712
+ENSG00000184110.14,1,Pulmonary Hypertension,0.23101604278074866,0.7685691811659637
+ENSG00000184083.11,1,Celiac Disease,0.33902323376007587,0.8796310015322153
+ENSG00000184068.2,1,Folliculitis,0.45390070921985815,0.9486295677633009
+ENSG00000183718.5,1,Alopecia Areata,0.39079754601226996,0.9916921935939393
+ENSG00000183624.13,1,Conductive Hearing Loss Disorder,0.5085470085470085,0.9135368416721835
+ENSG00000183604.14,1,Hearing Loss Disorder,0.5304166666666666,0.8635495625259257
+ENSG00000183513.8,1,Conductive Hearing Loss Disorder,0.5566265060240964,0.9697778962561762
+ENSG00000183496.5,1,Psoriasis,0.20665901262916186,0.7077347348012278
+ENSG00000183484.11,1,"Otitis Media, Susceptibility To",0.5383532723434201,0.9379305981113927
+ENSG00000183401.11,1,Celiac Disease,0.3237113402061856,0.918847068880063
+ENSG00000183208.12,1,"Otitis Media, Susceptibility To",0.5638474295190713,0.9817915486813956
+ENSG00000183019.7,1,Hidradenitis Suppurativa,0.4141824751580849,0.9571506609152295
+ENSG00000183018.8,1,Psoriasis,0.26179702650290887,0.8965424869205281
+ENSG00000206579.8,1,Celiac Disease,0.45,0.9717069745623413
+ENSG00000000938.12,1,Celiac Disease,0.23896103896103896,0.9897455774937569
+ENSG00000207031.1,1,Astigmatism,0.40506329113924056,0.8651888899012175
+ENSG00000256552.2,1,Patent Foramen Ovale,0.5013513513513513,0.9468481054555462
+ENSG00000266569.2,1,Conductive Hearing Loss Disorder,0.5470059880239521,0.9527048505685596
+ENSG00000266554.1,1,Eustachian Tube Disorder,0.3727642276422764,0.8504474651836985
+ENSG00000266236.1,1,Hidradenitis Suppurativa,0.366504854368932,0.9452618238815369
+ENSG00000265882.2,1,Atrioventricular Septal Defect,0.47257383966244726,0.9059248499720847
+ENSG00000265820.1,1,Psoriasis,0.22,0.9473884865319572
+ENSG00000265681.7,1,Hashimoto Thyroiditis,0.21639344262295082,0.7292565466132059
+ENSG00000265612.1,1,Celiac Disease,0.23896103896103896,0.9897455774937569
+ENSG00000265148.5,1,Atrioventricular Septal Defect,0.2829614604462475,0.8988376158408894
+ENSG00000264981.1,1,Strabismus,0.24253968253968253,0.9952898521766452
+ENSG00000264764.1,1,Astigmatism,0.4418500224517288,0.986807080097834
+ENSG00000264575.1,1,Atrioventricular Septal Defect,0.4657342657342658,0.9114046199987168
+ENSG00000264370.1,1,Strabismus,0.40236686390532544,0.8208375647334017
+ENSG00000264024.2,1,Celiac Disease,0.22979797979797978,0.9522270645158586
+ENSG00000264006.6,1,Psoriasis,0.33085961657390234,0.924339387441039
+ENSG00000263884.1,1,Psoriasis,0.2789297658862876,0.9550968288140572
+ENSG00000263809.1,1,Hearing Loss Disorder,0.6136216216216216,0.9786861082246697
+ENSG00000263753.6,1,Atrioventricular Septal Defect,0.4654088050314465,0.9954792362968963
+ENSG00000263669.2,1,Hearing Loss Disorder,0.48260869565217385,0.9278210207219971
+ENSG00000263597.1,1,Hypothyroidism,0.5240885416666667,0.9880461706746921
+ENSG00000263413.2,1,Celiac Disease,0.23431498079385404,0.9707271868436156
+ENSG00000263400.6,1,Patent Foramen Ovale,0.4510828976848394,0.9566708734479161
+ENSG00000263326.1,1,Patent Foramen Ovale,0.510865561694291,0.9496984459094422
+ENSG00000262967.1,1,Strabismus,0.3758620689655172,0.8041879975514851
+ENSG00000262966.2,1,"Otitis Media, Susceptibility To",0.5292538915727322,0.9213292438600129
+ENSG00000262454.3,1,Alopecia Areata,0.2891566265060241,0.7556244814032764
+ENSG00000262251.1,1,Celiac Disease,0.44081068631966835,0.9425651740562778
+ENSG00000262049.1,1,Hearing Loss Disorder,0.43781094527363185,0.8738473847632565
+ENSG00000266916.5,1,Atrioventricular Septal Defect,0.10206240084611318,0.7321798601917373
+ENSG00000266934.1,1,Pneumonia,0.40935672514619886,0.9970890649389422
+ENSG00000266970.1,1,Patent Ductus Arteriosus,0.37422037422037424,0.8460978074207792
+ENSG00000268870.1,1,Ventricular Septal Defect,0.5066666666666666,0.8268478162081729
+ENSG00000271122.1,1,Hearing Loss Disorder,0.5933888118354138,0.9829250908061384
+ENSG00000270659.1,1,Celiac Disease,0.2758913412563667,0.7161823393187374
+ENSG00000270638.1,1,Atrioventricular Septal Defect,0.45454545454545453,0.9207493171774666
+ENSG00000270231.3,1,Hashimoto Thyroiditis,0.28380952380952384,0.9557523692166743
+ENSG00000270127.2,1,Atrial Septal Defect,0.6524531668153435,0.9824551609760037
+ENSG00000269951.1,1,Ventricular Septal Defect,0.631818181818182,0.9806858289890645
+ENSG00000269911.1,1,Psoriasis,0.25462962962962965,0.768055929154665
+ENSG00000269743.2,1,Celiac Disease,0.4228187919463088,0.9295623679534354
+ENSG00000269404.6,1,Hidradenitis Suppurativa,0.23314429741650913,0.9628433523285183
+ENSG00000269399.2,1,Folliculitis,0.42595307917888564,0.927730794662045
+ENSG00000269220.1,1,Hidradenitis Suppurativa,0.3020713463751438,0.9797931422404433
+ENSG00000269050.1,1,Atrioventricular Septal Defect,0.4765395894428152,0.9652786086946091
+ENSG00000268804.1,1,Folliculitis,0.4583703703703704,0.854846135091366
+ENSG00000267002.2,1,Celiac Disease,0.4183006535947712,0.9739387389717338
+ENSG00000268734.1,1,Atrioventricular Septal Defect,0.5043478260869565,0.9873492862521491
+ENSG00000268581.1,1,Folliculitis,0.4489563567362429,0.9771224200809171
+ENSG00000268439.5,1,Atrioventricular Septal Defect,0.45794392523364486,0.9796167772706869
+ENSG00000268001.1,1,Conductive Hearing Loss Disorder,0.5001499250374812,0.9351016069382507
+ENSG00000267793.1,1,Conductive Hearing Loss Disorder,0.5662878787878788,0.9876345490883862
+ENSG00000267776.1,1,Hashimoto Thyroiditis,0.3241296518607443,0.9578437956670006
+ENSG00000267731.1,1,Conductive Hearing Loss Disorder,0.45703125,0.8412079520688343
+ENSG00000267727.1,1,Celiac Disease,0.22979797979797978,0.9522270645158586
+ENSG00000267520.2,1,Conductive Hearing Loss Disorder,0.5024404249210451,0.9125801340108428
+ENSG00000267472.1,1,Atrioventricular Septal Defect,0.19384615384615386,0.7887324531318489
+ENSG00000267414.1,1,Psoriasis,0.21288515406162467,0.9168831796115661
+ENSG00000267075.1,1,Strabismus,0.37405303030303033,0.9550257288643342
+ENSG00000261812.6,1,Patent Ductus Arteriosus,0.5288116901020127,0.9453306163544651
+ENSG00000261777.5,1,Astigmatism,0.4329004329004329,0.9252375539460205
+ENSG00000261754.2,1,Astigmatism,0.4258064516129032,0.9099395378662151
+ENSG00000258742.5,1,Conductive Hearing Loss Disorder,0.5161290322580645,0.8997709746394212
+ENSG00000259611.1,1,Astigmatism,0.33106960950764003,0.801587174753667
+ENSG00000259536.5,1,Ventricular Septal Defect,0.6442953020134229,0.9700546902608839
+ENSG00000259407.1,1,Strabismus,0.23750000000000002,0.9749012533868188
+ENSG00000259345.5,1,Conductive Hearing Loss Disorder,0.5226480836236933,0.9111432536195735
+ENSG00000259327.1,1,"Otitis Media, Susceptibility To",0.4150375939849624,0.9384355236953144
+ENSG00000259318.1,1,Conductive Hearing Loss Disorder,0.532471264367816,0.9410601260403425
+ENSG00000259268.1,1,Atrial Septal Defect,0.6461201501877346,0.9275072337241551
+ENSG00000259172.1,1,Hearing Loss Disorder,0.5802707930367504,0.9836415604676474
+ENSG00000259153.1,1,Celiac Disease,0.3444976076555024,0.8937748013138265
+ENSG00000259056.1,1,Patent Foramen Ovale,0.4878917378917379,0.9778227916048146
+ENSG00000258947.6,1,Reactive Airway Disease,0.35547061634018157,0.8258205690411352
+ENSG00000258760.1,1,Scoliosis,0.3104895104895105,0.9638004474783962
+ENSG00000258633.1,1,Patent Foramen Ovale,0.32128514056224894,0.9858799258913679
+ENSG00000259818.1,1,Scoliosis,0.1266025641025641,0.9525713620383793
+ENSG00000258458.5,1,Atrioventricular Septal Defect,0.4885714285714286,0.9563337081930521
+ENSG00000258441.1,1,Conductive Hearing Loss Disorder,0.4849498327759197,0.8709868334815916
+ENSG00000258301.3,1,Ventricular Septal Defect,0.5101214574898786,0.9388658848146156
+ENSG00000258181.1,1,Astigmatism,0.3470899470899471,0.9799271397010905
+ENSG00000258082.1,1,Hypothyroidism,0.6922421142369992,0.99446042127895
+ENSG00000257966.1,1,Seborrheic Dermatitis,0.2818791946308725,0.8746442442995246
+ENSG00000257704.3,1,Scoliosis,0.09752747252747251,0.7343485815930166
+ENSG00000257621.7,1,Conductive Hearing Loss Disorder,0.4875283446712018,0.8488261774167978
+ENSG00000257594.3,1,Conductive Hearing Loss Disorder,0.5552941176470588,0.9888331897525314
+ENSG00000257267.3,1,Hashimoto Thyroiditis,0.2710376871450697,0.737294090655484
+ENSG00000257027.1,1,Celiac Disease,0.3746130030959752,0.8721519092843835
+ENSG00000256642.1,1,Patent Ductus Arteriosus,0.40463917525773196,0.8028627507910274
+ENSG00000259641.5,1,Celiac Disease,0.4249411764705882,0.9893934278048665
+ENSG00000259826.1,1,Celiac Disease,0.2694805194805195,0.8785774107828487
+ENSG00000261740.6,1,Hashimoto Thyroiditis,0.22010869565217392,0.9360617778590622
+ENSG00000261188.1,1,Obstructive Sleep Apnea Syndrome,0.5262975778546712,0.8249307270271248
+ENSG00000261716.1,1,Hidradenitis Suppurativa,0.30625,0.7711956105310431
+ENSG00000261634.3,1,Strabismus,0.39473684210526316,0.8271193724954448
+ENSG00000261611.5,1,Psoriasis,0.3843137254901961,0.9962410492715557
+ENSG00000261560.1,1,Hidradenitis Suppurativa,0.3878116343490305,0.9386490174217208
+ENSG00000261546.1,1,Alopecia Areata,0.23185011709601872,0.7872326692949166
+ENSG00000261541.1,1,Eustachian Tube Disorder,0.43911290322580643,0.9067268547768113
+ENSG00000261366.1,1,Celiac Disease,0.39595959595959596,0.8427455383374016
+ENSG00000261360.1,1,Folliculitis,0.5379825653798257,0.9744037230625751
+ENSG00000261351.2,1,Ventricular Septal Defect,0.49973418394471025,0.9203418055864837
+ENSG00000261326.2,1,Atrioventricular Septal Defect,0.47654851414249905,0.9469581021994158
+ENSG00000261215.1,1,Ventricular Septal Defect,0.5745679012345679,0.9881201223423045
+ENSG00000261200.1,1,Seborrheic Dermatitis,0.28145454545454546,0.9850287877821733
+ENSG00000261126.7,1,Celiac Disease,0.25765765765765763,0.7322664391141378
+ENSG00000259877.2,1,Hashimoto Thyroiditis,0.37386363636363634,0.9313788895010586
+ENSG00000260671.2,1,Pulmonary Hypertension,0.39831401475237094,0.96467241680453
+ENSG00000260589.1,1,Celiac Disease,0.32299741602067183,0.7870161344643034
+ENSG00000260565.6,1,Hashimoto Thyroiditis,0.38830409356725143,0.9474352550341062
+ENSG00000260456.6,1,Patent Foramen Ovale,0.49356521739130427,0.9694679784421528
+ENSG00000260317.1,1,Folliculitis,0.5198757763975156,0.9316630956585177
+ENSG00000260293.2,1,Seborrheic Dermatitis,0.27705627705627706,0.9696401754621732
+ENSG00000260285.1,1,Alopecia Areata,0.26277372262773724,0.7840468457731791
+ENSG00000260070.1,1,Scoliosis,0.21818181818181817,0.9548791533851283
+ENSG00000260005.6,1,Scoliosis,0.21818181818181817,0.9548791533851283
+ENSG00000259974.2,1,Reactive Airway Disease,0.3786407766990291,0.862127974050832
+ENSG00000259933.6,1,Ventricular Septal Defect,0.5564760557688422,0.8976920805519715
+ENSG00000259891.1,1,Atrioventricular Septal Defect,0.4335664335664336,0.8782321826797819
+ENSG00000271365.1,1,Hearing Loss Disorder,0.5553191489361702,0.9878579861754416
+ENSG00000271551.2,1,Scoliosis,0.291156462585034,0.9035635957548289
+ENSG00000271614.1,1,Celiac Disease,0.34400000000000003,0.8381910715917102
+ENSG00000279161.1,1,Alopecia Areata,0.27368421052631575,0.7156178357870286
+ENSG00000279741.1,1,Atrioventricular Septal Defect,0.4369565217391304,0.9068991941491386
+ENSG00000279722.1,1,Obstructive Sleep Apnea Syndrome,0.6348393106660457,0.9212153448442818
+ENSG00000279670.1,1,Pulmonary Hypertension,0.2974137931034483,0.8649045714830448
+ENSG00000279561.2,1,Conductive Hearing Loss Disorder,0.4550379198266522,0.8169858086774435
+ENSG00000279549.1,1,Celiac Disease,0.4053308823529412,0.9437409313913114
+ENSG00000279485.1,1,Hashimoto Thyroiditis,0.39507772020725385,0.9563224161566607
+ENSG00000279413.1,1,Strabismus,0.20619718309859153,0.847950117206748
+ENSG00000279365.1,1,Astigmatism,0.35263157894736846,0.8537204149002154
+ENSG00000279364.1,1,Ventricular Septal Defect,0.6359966000849979,0.9577492376868217
+ENSG00000279303.1,1,Psoriasis,0.11941391941391943,0.8894121226180695
+ENSG00000279277.1,1,Alopecia Areata,0.3392857142857143,0.9348705770529081
+ENSG00000279177.1,1,Celiac Disease,0.32926829268292684,0.7221739002820875
+ENSG00000279021.1,1,Hashimoto Thyroiditis,0.3523489932885906,0.9089290186682267
+ENSG00000279884.1,1,Psoriasis,0.26179702650290887,0.8965424869205281
+ENSG00000278969.1,1,Hearing Loss Disorder,0.610079575596817,0.9851404157097418
+ENSG00000278897.1,1,Scoliosis,0.11652703731911652,0.8770197544153475
+ENSG00000278875.1,1,Conductive Hearing Loss Disorder,0.3876451077943615,0.9466439933719998
+ENSG00000278862.1,1,Atrioventricular Septal Defect,0.4926019487549621,0.9390928133287184
+ENSG00000278745.1,1,Conductive Hearing Loss Disorder,0.5129078014184397,0.9130069021029179
+ENSG00000278661.1,1,Astigmatism,0.3416738567730802,0.8272340923565213
+ENSG00000278467.1,1,Hypothyroidism,0.5505319148936171,0.8491816995461139
+ENSG00000278356.1,1,Hidradenitis Suppurativa,0.2885431400282885,0.8157974597201542
+ENSG00000278318.4,1,Hidradenitis Suppurativa,0.1186868686868687,0.8601887414701497
+ENSG00000278311.4,1,Conductive Hearing Loss Disorder,0.45206589251957874,0.7926056965048235
+ENSG00000278090.1,1,Psoriasis,0.28795098706603134,0.9859070321135558
+ENSG00000278017.1,1,"Otitis Media, Susceptibility To",0.5321428571428571,0.9839527122309675
+ENSG00000279825.1,1,Psoriasis,0.2536554354736173,0.8686983180437606
+ENSG00000279886.1,1,Hearing Loss Disorder,0.4888888888888889,0.9735151438033328
+ENSG00000277299.1,1,Hidradenitis Suppurativa,0.30625,0.7711956105310431
+ENSG00000282339.1,1,Hidradenitis Suppurativa,0.3888888888888889,0.8987309376709718
+ENSG00000284526.1,1,Hypothyroidism,0.6935464630800429,0.9239451976147464
+ENSG00000284154.1,1,Hearing Loss Disorder,0.6136216216216216,0.9786861082246697
+ENSG00000283929.1,1,Strabismus,0.33209785025945143,0.7303238008172254
+ENSG00000283638.2,1,Atrioventricular Septal Defect,0.4383838383838384,0.9749553870725092
+ENSG00000283597.2,1,Folliculitis,0.4828042328042328,0.9509474527181446
+ENSG00000283312.1,1,Psoriasis,0.23122238586156113,0.9954729900608462
+ENSG00000283234.1,1,Atrioventricular Septal Defect,0.28795098706603134,0.6753988646573337
+ENSG00000283172.1,1,Conductive Hearing Loss Disorder,0.532471264367816,0.9410601260403425
+ENSG00000283031.1,1,Psoriasis,0.26713947990543735,0.8059214194299791
+ENSG00000282870.1,1,Hashimoto Thyroiditis,0.2096774193548387,0.7066407072480346
+ENSG00000282608.1,1,Astigmatism,0.25749559082892415,0.7284585920459921
+ENSG00000282572.2,1,Hidradenitis Suppurativa,0.3082965144820815,0.8712566738598205
+ENSG00000282173.1,1,"Otitis Media, Susceptibility To",0.30317460317460315,0.8139561910478373
+ENSG00000279912.1,1,Hearing Loss Disorder,0.6271493212669683,0.9762484702485337
+ENSG00000281912.1,1,Astigmatism,0.37254901960784315,0.9607499377485097
+ENSG00000281691.1,1,Hidradenitis Suppurativa,0.40770609318996415,0.9421989228499433
+ENSG00000281207.1,1,Atrioventricular Septal Defect,0.3474903474903475,0.9560744891825377
+ENSG00000281026.1,1,Sleep Apnea Syndrome,0.6400929850950362,0.8988888954300428
+ENSG00000280832.1,1,Hidradenitis Suppurativa,0.2791666666666667,0.7207869776678505
+ENSG00000280401.1,1,Psoriasis,0.33085961657390234,0.924339387441039
+ENSG00000280330.1,1,Celiac Disease,0.32926829268292684,0.7221739002820875
+ENSG00000280153.1,1,Ventricular Septal Defect,0.6167417417417418,0.9296974559833143
+ENSG00000280128.1,1,Sleep Apnea Syndrome,0.6990783410138248,0.9847595475592174
+ENSG00000280077.1,1,Conductive Hearing Loss Disorder,0.41231796116504854,0.8268375221679061
+ENSG00000280027.1,1,Scoliosis,0.3154929577464789,0.9793836068641754
+ENSG00000279967.1,1,Patent Foramen Ovale,0.35864661654135344,0.8343496148050965
+ENSG00000277452.1,1,Patent Foramen Ovale,0.5297783933518005,0.9935010843872543
+ENSG00000276724.1,1,Psoriasis,0.33085961657390234,0.924339387441039
+ENSG00000271723.5,1,Eustachian Tube Disorder,0.28733766233766234,0.9258414291093479
+ENSG00000272686.1,1,Hashimoto Thyroiditis,0.2096774193548387,0.7066407072480346
+ENSG00000273365.1,1,Sleep Apnea Syndrome,0.6496598639455782,0.990714161651991
+ENSG00000273329.1,1,Conductive Hearing Loss Disorder,0.5338324215375756,0.9379904932122648
+ENSG00000273203.1,1,Hidradenitis Suppurativa,0.42463958060288337,0.9438057359648818
+ENSG00000273117.1,1,Celiac Disease,0.4183006535947712,0.9739387389717338
+ENSG00000272933.1,1,Alopecia Areata,0.35583941605839414,0.9806100754446695
+ENSG00000272917.1,1,Folliculitis,0.47765567765567774,0.9976631151582807
+ENSG00000272916.5,1,"Otitis Media, Susceptibility To",0.38868538868538866,0.9431122672034024
+ENSG00000272906.1,1,Hearing Loss Disorder,0.5170940170940171,0.9407857491501037
+ENSG00000272888.5,1,Atrioventricular Septal Defect,0.33170533170533173,0.8316293379321785
+ENSG00000272760.1,1,Celiac Disease,0.384180790960452,0.9359430754271664
+ENSG00000272746.1,1,Atrioventricular Septal Defect,0.4241584158415842,0.9435806181874122
+ENSG00000272689.1,1,Astigmatism,0.4349376114081997,0.9713487688767024
+ENSG00000272668.1,1,Astigmatism,0.1612115290669272,0.6681212393707069
+ENSG00000273402.1,1,Celiac Disease,0.21291866028708134,0.8830075744106564
+ENSG00000272610.1,1,Conductive Hearing Loss Disorder,0.5024404249210451,0.9125801340108428
+ENSG00000272556.2,1,Pneumonia,0.3521739130434783,0.9989680469126953
+ENSG00000272477.1,1,Celiac Disease,0.3663911845730028,0.8926891675341323
+ENSG00000272372.1,1,Pulmonary Hypertension,0.3003754693366708,0.9979597520652163
+ENSG00000272367.1,1,Pulmonary Hypertension,0.35501355013550134,0.9475921973050503
+ENSG00000272168.6,1,Atrioventricular Septal Defect,0.44342507645259943,0.9487446426237958
+ENSG00000272143.1,1,Atrioventricular Septal Defect,0.3884372177055104,0.9720622548182503
+ENSG00000272054.1,1,Hashimoto Thyroiditis,0.23174157303370785,0.9852008579889583
+ENSG00000272010.1,1,Folliculitis,0.3654805453940804,0.7974132704914945
+ENSG00000271943.1,1,Psoriasis,0.1994609164420485,0.8592829621331131
+ENSG00000271860.6,1,Astigmatism,0.32421479229989864,0.9158872200601191
+ENSG00000271761.1,1,Conductive Hearing Loss Disorder,0.5416911332941867,0.9732261182715133
+ENSG00000273373.1,1,Atrioventricular Septal Defect,0.3554704129416773,0.890544227681602
+ENSG00000273444.1,1,Psoriasis,0.23278688524590163,0.6167462357193483
+ENSG00000276550.4,1,Conductive Hearing Loss Disorder,0.5693857653558662,0.9955561843146468
+ENSG00000274925.1,1,Ventricular Septal Defect,0.4805339265850946,0.9123976291349543
+ENSG00000276241.1,1,Conductive Hearing Loss Disorder,0.5267106842737095,0.9692708234476992
+ENSG00000276231.4,1,Patent Foramen Ovale,0.5121443442054129,0.9898370626850174
+ENSG00000275993.2,1,Celiac Disease,0.36742800397219466,0.9529677041563023
+ENSG00000275740.1,1,Atrioventricular Septal Defect,0.4918032786885246,0.9961542992872451
+ENSG00000275719.1,1,Celiac Disease,0.3557504873294347,0.9228334470284459
+ENSG00000275560.1,1,Celiac Disease,0.2648475120385233,0.8636005397015794
+ENSG00000275481.1,1,Pulmonary Hypertension,0.21705426356589147,0.9139214365780352
+ENSG00000275342.4,1,Patent Foramen Ovale,0.380079108234448,0.8397132930626352
+ENSG00000275236.1,1,Psoriasis,0.17628205128205127,0.6034788386764561
+ENSG00000275227.1,1,Ventricular Septal Defect,0.563840155945419,0.9701657044617507
+ENSG00000275092.1,1,Atrioventricular Septal Defect,0.4996336996336997,0.992904503976472
+ENSG00000274997.1,1,Folliculitis,0.5307017543859649,0.9781075236247386
+ENSG00000274750.2,1,Patent Foramen Ovale,0.31228070175438594,0.8557954607801859
+ENSG00000273568.1,1,Scoliosis,0.1266025641025641,0.9525713620383793
+ENSG00000274713.1,1,Hidradenitis Suppurativa,0.3157894736842105,0.7646054462710901
+ENSG00000274686.1,1,Patent Foramen Ovale,0.39753086419753086,0.7488404923889265
+ENSG00000274523.4,1,Hashimoto Thyroiditis,0.22777777777777777,0.968462570153005
+ENSG00000274349.4,1,Hearing Loss Disorder,0.6136216216216216,0.9786861082246697
+ENSG00000274184.1,1,Conductive Hearing Loss Disorder,0.48776758409785936,0.9293376762321417
+ENSG00000274021.1,1,Celiac Disease,0.4338235294117647,0.9772397822804517
+ENSG00000273897.1,1,Atrioventricular Septal Defect,0.3542074363992172,0.9742700732423885
+ENSG00000273828.1,1,Patent Ductus Arteriosus,0.4852607709750567,0.8343036714917632
+ENSG00000273816.1,1,Atrioventricular Septal Defect,0.4201101928374656,0.8509389686978509
+ENSG00000273792.1,1,Psoriasis,0.328125,0.9902378784620435
+ENSG00000273611.4,1,Conductive Hearing Loss Disorder,0.5721362229102168,0.9970330116727106
+ENSG00000273598.1,1,Ventricular Septal Defect,0.5588876772082879,0.8588274812892213
+ENSG00000256628.3,1,Scoliosis,0.28439153439153436,0.8224191961184566
+ENSG00000256538.1,1,Pulmonary Hypertension,0.2809123649459784,0.9337050841965205
+ENSG00000207352.1,1,Pulmonary Hypertension,0.2620967741935484,0.762350875833709
+ENSG00000256433.2,1,Hidradenitis Suppurativa,0.3020713463751438,0.9797931422404433
+ENSG00000228933.7,1,Hidradenitis Suppurativa,0.34710743801652894,0.8403697741815063
+ENSG00000228835.1,1,Hashimoto Thyroiditis,0.21276595744680848,0.9050201643332346
+ENSG00000228782.7,1,Atrioventricular Septal Defect,0.5143375680580762,0.995407265382206
+ENSG00000228526.6,1,Alopecia Areata,0.2843822843822844,0.8486310727355258
+ENSG00000228382.1,1,Hypothyroidism,0.6728768824716658,0.953789437497126
+ENSG00000228376.3,1,Patent Ductus Arteriosus,0.45481049562682213,0.876289604980019
+ENSG00000228106.5,1,Sleep Apnea Syndrome,0.6899766899766899,0.9309062878688569
+ENSG00000228021.7,1,Psoriasis,0.11941391941391943,0.8894121226180695
+ENSG00000227896.2,1,Atrioventricular Septal Defect,0.45142857142857146,0.8561391325870905
+ENSG00000227885.1,1,Scoliosis,0.2818791946308725,0.8746442442995246
+ENSG00000227836.1,1,Patent Ductus Arteriosus,0.42237586423632933,0.8665920979309856
+ENSG00000227671.4,1,Conductive Hearing Loss Disorder,0.4365562913907285,0.7760879023739273
+ENSG00000227456.7,1,Obstructive Sleep Apnea Syndrome,0.6652557319223985,0.9947916724945898
+ENSG00000227345.8,1,Atrioventricular Septal Defect,0.2412121212121212,0.9780591215983813
+ENSG00000227335.1,1,Hashimoto Thyroiditis,0.3499132446500867,0.9526821652376005
+ENSG00000227195.10,1,Hashimoto Thyroiditis,0.29854760623991394,0.8124918527505118
+ENSG00000227082.1,1,Patent Foramen Ovale,0.3904761904761904,0.9075850792940028
+ENSG00000226742.3,1,Pneumonia,0.384180790960452,0.9359430754271664
+ENSG00000226571.1,1,Patent Foramen Ovale,0.4661081492764661,0.9882699742095306
+ENSG00000226499.1,1,Conductive Hearing Loss Disorder,0.5586854460093896,0.9877227384286834
+ENSG00000226479.3,1,Sleep Apnea Syndrome,0.6526342975206613,0.8960654115493929
+ENSG00000226240.1,1,Alopecia Areata,0.27606177606177607,0.9370125475222275
+ENSG00000225975.6,1,Atrioventricular Septal Defect,0.4457142857142857,0.9911111158033156
+ENSG00000225938.1,1,Reactive Airway Disease,0.20563035495716034,0.8624397481071249
+ENSG00000225726.1,1,Pulmonary Hypertension,0.3439205955334987,0.8321343674228272
+ENSG00000225643.1,1,"Otitis Media, Susceptibility To",0.5408653846153846,0.9999346353311847
+ENSG00000225342.2,1,Conductive Hearing Loss Disorder,0.4769140853302163,0.8918296163952005
+ENSG00000229124.6,1,Celiac Disease,0.384180790960452,0.9359430754271664
+ENSG00000229151.1,1,"Otitis Media, Susceptibility To",0.43410852713178294,0.8924505505141253
+ENSG00000229152.2,1,Conductive Hearing Loss Disorder,0.5520195838433293,0.9612380959942112
+ENSG00000231123.1,1,Celiac Disease,0.41809954751131223,0.8933141254055605
+ENSG00000232759.1,1,Patent Foramen Ovale,0.4788990825688073,0.9841193860097899
+ENSG00000232682.2,1,Pulmonary Hypertension,0.32941176470588235,0.7750130695809084
+ENSG00000232648.3,1,Hearing Loss Disorder,0.5926991150442478,0.9643946722245641
+ENSG00000232124.1,1,Celiac Disease,0.19068736141906872,0.7916298187590213
+ENSG00000232119.7,1,Hashimoto Thyroiditis,0.2995391705069124,0.8852604858120813
+ENSG00000232021.6,1,Hidradenitis Suppurativa,0.2954545454545454,0.6282640679250595
+ENSG00000231889.7,1,Psoriasis,0.2536554354736173,0.8686983180437606
+ENSG00000231856.2,1,Conductive Hearing Loss Disorder,0.4787234042553191,0.958526267113593
+ENSG00000231682.1,1,Scoliosis,0.09598366235534378,0.7227442064694217
+ENSG00000231584.8,1,Psoriasis,0.341692789968652,0.9547431643101224
+ENSG00000231437.3,1,Pulmonary Hypertension,0.3721881390593047,0.8769573099867598
+ENSG00000231205.11,1,Celiac Disease,0.3141025641025641,0.70623682164998
+ENSG00000230797.2,1,Psoriasis,0.2576923076923077,0.8825058957007534
+ENSG00000229582.3,1,Ventricular Septal Defect,0.60729956122856,0.9547690386177019
+ENSG00000230725.5,1,Patent Foramen Ovale,0.337037037037037,0.9225702950227607
+ENSG00000230489.1,1,Hidradenitis Suppurativa,0.2241273729332517,0.9260428543349378
+ENSG00000230487.7,1,Atrioventricular Septal Defect,0.3474903474903475,0.9560744891825377
+ENSG00000230415.1,1,"Otitis Media, Susceptibility To",0.5185185185185185,0.8839063724501488
+ENSG00000230359.5,1,Obstructive Sleep Apnea Syndrome,0.6963727329580989,0.9935482665697486
+ENSG00000230189.7,1,Hashimoto Thyroiditis,0.3819444444444444,0.9856733881456572
+ENSG00000230138.1,1,Psoriasis,0.28340080971659914,0.9703686524473611
+ENSG00000229980.4,1,Astigmatism,0.40682788051209107,0.9844887864887224
+ENSG00000229852.2,1,Atrioventricular Septal Defect,0.33170533170533173,0.8316293379321785
+ENSG00000229792.1,1,Atrioventricular Septal Defect,0.4404510218463707,0.8921894666911337
+ENSG00000229791.1,1,Atrioventricular Septal Defect,0.4509948415622697,0.9359580399152938
+ENSG00000229720.1,1,Strabismus,0.40982905982905987,0.9348295970677747
+ENSG00000225264.3,1,Hidradenitis Suppurativa,0.2792417938049006,0.7896539845161538
+ENSG00000225243.5,1,Patent Ductus Arteriosus,0.5418894830659536,0.9985435120153491
+ENSG00000225234.1,1,Obstructive Sleep Apnea Syndrome,0.6024955436720143,0.9234492749212853
+ENSG00000212125.2,1,Alopecia Areata,0.19230769230769232,0.8231839695678344
+ENSG00000214595.11,1,Patent Foramen Ovale,0.4437869822485207,0.9413157802195427
+ENSG00000214353.7,1,Pulmonary Hypertension,0.32299741602067183,0.8621554186565333
+ENSG00000214248.2,1,Pneumonia,0.29965156794425085,0.9759564575998786
+ENSG00000213876.4,1,Ventricular Septal Defect,0.5909178743961353,0.9230735648680867
+ENSG00000213694.3,1,Conductive Hearing Loss Disorder,0.47039473684210525,0.9076385613422757
+ENSG00000213689.11,1,Scoliosis,0.28145454545454546,0.9850287877821733
+ENSG00000213658.11,1,Strabismus,0.43452631578947365,0.9560863017956054
+ENSG00000213443.2,1,Atrioventricular Septal Defect,0.5116190476190475,0.9717178861881807
+ENSG00000213413.2,1,Hidradenitis Suppurativa,0.42812914639540023,0.9561187407022315
+ENSG00000213341.10,1,Conductive Hearing Loss Disorder,0.5436081242532855,0.9873373025671696
+ENSG00000213186.7,1,Conductive Hearing Loss Disorder,0.542608695652174,0.9535710279094661
+ENSG00000213139.7,1,Atrioventricular Septal Defect,0.33744855967078186,0.8458786361675064
+ENSG00000211966.2,1,Hidradenitis Suppurativa,0.2711229946524064,0.8804011672634633
+ENSG00000214870.8,1,Patent Foramen Ovale,0.5297783933518005,0.9935010843872543
+ENSG00000211962.2,1,Psoriasis,0.20665901262916186,0.7077347348012278
+ENSG00000211956.2,1,Seborrheic Dermatitis,0.21818181818181817,0.9548791533851283
+ENSG00000211951.2,1,Hidradenitis Suppurativa,0.3697705802968961,0.8951161638073596
+ENSG00000211943.2,1,Hidradenitis Suppurativa,0.32689210950080516,0.7552487888080552
+ENSG00000211942.3,1,Sleep Apnea Syndrome,0.6127819548872181,0.881865033589932
+ENSG00000211904.2,1,Seborrheic Dermatitis,0.13093289689034368,0.9850196267800638
+ENSG00000211898.7,1,Celiac Disease,0.22113022113022116,0.916699158144605
+ENSG00000211891.6,1,Celiac Disease,0.4510344827586207,0.9919916007667154
+ENSG00000211851.1,1,Pulmonary Hypertension,0.3777777777777778,0.9518318491250691
+ENSG00000211801.3,1,Conductive Hearing Loss Disorder,0.4550379198266522,0.8169858086774435
+ENSG00000211695.2,1,Hidradenitis Suppurativa,0.3950617283950617,0.9129944639554373
+ENSG00000211594.2,1,Scoliosis,0.23291307232913075,0.8150264325789022
+ENSG00000214776.11,1,Folliculitis,0.49243156199677934,0.9490501031800163
+ENSG00000214900.9,1,Hashimoto Thyroiditis,0.28297872340425534,0.7754709815892568
+ENSG00000225127.2,1,Hearing Loss Disorder,0.5364431486880465,0.999139551225269
+ENSG00000223547.9,1,Folliculitis,0.44111027756939236,0.9602868254334271
+ENSG00000224981.1,1,Celiac Disease,0.4056437389770723,0.8762036882177703
+ENSG00000224750.6,1,Reactive Airway Disease,0.1648059542796385,0.6921689277180338
+ENSG00000224610.1,1,Hashimoto Thyroiditis,0.29320388349514565,0.9872386575291378
+ENSG00000224557.7,1,Ventricular Septal Defect,0.6313896251419917,0.9564989661761071
+ENSG00000224451.2,1,Scoliosis,0.2727272727272727,0.9544909767808537
+ENSG00000224238.2,1,Strabismus,0.33973710819009095,0.9511592755630882
+ENSG00000224144.1,1,Folliculitis,0.3566760037348273,0.9658118629360818
+ENSG00000224137.1,1,Psoriasis,0.11541218637992832,0.8597383006879822
+ENSG00000224067.2,1,Hidradenitis Suppurativa,0.2616822429906542,0.7402480744663817
+ENSG00000223768.1,1,Ventricular Septal Defect,0.5484330484330484,0.8324053387288555
+ENSG00000223722.3,1,Ventricular Septal Defect,0.5655737704918032,0.8783137855434534
+ENSG00000223586.5,1,Conductive Hearing Loss Disorder,0.4944831591173055,0.9100996152899711
+ENSG00000223522.1,1,Patent Foramen Ovale,0.41962581137838867,0.926303666856408
+ENSG00000214946.14,1,Celiac Disease,0.21696969696969698,0.8996328379279862
+ENSG00000223356.1,1,Psoriasis,0.12359550561797752,0.9204052130510922
+ENSG00000220785.7,1,Hearing Loss Disorder,0.5322677322677323,0.8401697707361256
+ENSG00000219665.8,1,Eustachian Tube Disorder,0.4621212121212121,0.9894915266152194
+ENSG00000219085.1,1,Celiac Disease,0.3336466165413534,0.865735207047953
+ENSG00000219074.1,1,Scoliosis,0.2642706131078224,0.9248888173244671
+ENSG00000218052.5,1,Hashimoto Thyroiditis,0.22010869565217392,0.9360617778590622
+ENSG00000217555.12,1,Atrioventricular Septal Defect,0.41335587489433645,0.9669571693649349
+ENSG00000215769.8,1,Atrioventricular Septal Defect,0.3007957559681698,0.9545467204470155
+ENSG00000215529.12,1,Hidradenitis Suppurativa,0.4274563820018366,0.9877814809790764
+ENSG00000215472.10,1,Reactive Airway Disease,0.3786407766990291,0.862127974050832
+ENSG00000215190.9,1,Atrioventricular Septal Defect,0.38418079096045193,0.8224916795505501
+ENSG00000215021.8,1,Hearing Loss Disorder,0.43525641025641026,0.9068690897356366
+ENSG00000232810.3,1,Patent Foramen Ovale,0.33059360730593607,0.9052087352091025
+ENSG00000233098.8,1,Psoriasis,0.26179702650290887,0.8965424869205281
+ENSG00000233184.6,1,Celiac Disease,0.2089728453364817,0.8668064926177621
+ENSG00000248015.6,1,Patent Foramen Ovale,0.37123745819397996,0.7286710837010735
+ENSG00000251158.1,1,Hearing Loss Disorder,0.5945945945945946,0.9483544950474628
+ENSG00000250397.2,1,Patent Ductus Arteriosus,0.4756944444444444,0.8629252726707329
+ENSG00000250366.2,1,Hashimoto Thyroiditis,0.07825148407987048,0.5790488959960589
+ENSG00000249971.1,1,Ventricular Septal Defect,0.6640365448504982,0.9986500920871015
+ENSG00000249592.5,1,Atrioventricular Septal Defect,0.5043478260869565,0.9873492862521491
+ENSG00000249437.7,1,Hidradenitis Suppurativa,0.22857142857142856,0.9441853815398389
+ENSG00000249348.1,1,Strabismus,0.27689873417721517,0.8925927753859192
+ENSG00000248890.1,1,Hidradenitis Suppurativa,0.27836257309941526,0.6738936934087635
+ENSG00000248794.1,1,Alopecia Areata,0.23082437275985665,0.9871670239816996
+ENSG00000248334.6,1,Celiac Disease,0.3521739130434783,0.9989680469126953
+ENSG00000248309.7,1,Hashimoto Thyroiditis,0.19687500000000002,0.6635030549630198
+ENSG00000248223.1,1,Conductive Hearing Loss Disorder,0.5498251748251748,0.9719560957690128
+ENSG00000247982.6,1,Celiac Disease,0.28380952380952384,0.8062444846259915
+ENSG00000251377.1,1,Scoliosis,0.1775067750677507,0.7771382635034466
+ENSG00000247626.4,1,Ventricular Septal Defect,0.6365566492955028,0.9559237879965375
+ENSG00000247596.8,1,Psoriasis,0.34658385093167704,0.922919573709362
+ENSG00000247345.2,1,Scoliosis,0.22171253822629972,0.9702866215159676
+ENSG00000247317.3,1,Patent Foramen Ovale,0.35617860851505706,0.7872580640004507
+ENSG00000247081.7,1,Conductive Hearing Loss Disorder,0.5379710144927536,0.95785916132449
+ENSG00000246084.2,1,Atrioventricular Septal Defect,0.4690831556503199,0.9320902842033114
+ENSG00000246082.2,1,Celiac Disease,0.30297029702970296,0.8603569041732353
+ENSG00000245869.2,1,Celiac Disease,0.40714285714285714,0.9169490382146196
+ENSG00000244953.1,1,Reactive Airway Disease,0.3777173913043478,0.9997241581746663
+ENSG00000244879.6,1,Atrioventricular Septal Defect,0.4205128205128205,0.9835110031522158
+ENSG00000244038.9,1,Celiac Disease,0.29965156794425085,0.9759564575998786
+ENSG00000243926.1,1,Hashimoto Thyroiditis,0.31820697288323185,0.8661807399136789
+ENSG00000251259.1,1,Hidradenitis Suppurativa,0.3416738567730802,0.8272340923565213
+ENSG00000251414.1,1,Astigmatism,0.42284482758620684,0.9205354750090935
+ENSG00000243446.3,1,Hearing Loss Disorder,0.5337465564738292,0.9058811082159395
+ENSG00000254615.2,1,Atrioventricular Septal Defect,0.45694444444444443,0.8755947519198028
+ENSG00000256417.1,1,Ventricular Septal Defect,0.6288372093023256,0.9983015720620073
+ENSG00000256188.3,1,Hypothyroidism,0.6755852842809366,0.9723435123853945
+ENSG00000256039.1,1,Eustachian Tube Disorder,0.32806324110671936,0.9188060148917412
+ENSG00000256030.1,1,Pulmonary Hypertension,0.28759398496240596,0.7237471077519821
+ENSG00000255867.1,1,Patent Foramen Ovale,0.40374677002583975,0.8093920392230822
+ENSG00000255837.1,1,Alopecia Areata,0.37243947858473003,0.9284425858394985
+ENSG00000255495.1,1,Patent Foramen Ovale,0.49130763416477696,0.9152579533680759
+ENSG00000255443.1,1,Pulmonary Hypertension,0.2953560371517028,0.9813974053065798
+ENSG00000255330.9,1,Patent Foramen Ovale,0.11223344556677889,0.8020882344962376
+ENSG00000255240.5,1,Sleep Apnea Syndrome,0.6877301517160112,0.9723334082495491
+ENSG00000255101.1,1,Patent Foramen Ovale,0.43974358974358974,0.8294329908103552
+ENSG00000254952.1,1,Hidradenitis Suppurativa,0.3713235294117647,0.8076425826395134
+ENSG00000254613.2,1,Psoriasis,0.33623910336239105,0.9394384805502158
+ENSG00000251432.6,1,Folliculitis,0.5393939393939394,0.964650418933601
+ENSG00000254610.3,1,Pulmonary Hypertension,0.19902319902319904,0.8385113984552264
+ENSG00000254486.1,1,Hashimoto Thyroiditis,0.18627450980392157,0.7928676534448851
+ENSG00000254275.6,1,Hidradenitis Suppurativa,0.21151586368977676,0.8745029016852469
+ENSG00000254006.5,1,Celiac Disease,0.39655172413793105,0.9659987826353629
+ENSG00000253818.1,1,Psoriasis,0.317948717948718,0.9595141627064148
+ENSG00000253738.1,1,Conductive Hearing Loss Disorder,0.5721362229102168,0.9970330116727106
+ENSG00000253719.3,1,Celiac Disease,0.11657214870825457,0.8468166835627795
+ENSG00000253537.2,1,Patent Foramen Ovale,0.10714285714285714,0.7661647171594379
+ENSG00000253325.1,1,Hypothyroidism,0.6244631185807656,0.9415630112094889
+ENSG00000253305.2,1,Patent Foramen Ovale,0.1370223978919631,0.9763508837917155
+ENSG00000253251.2,1,Hashimoto Thyroiditis,0.3611428571428571,0.8802597300991455
+ENSG00000252677.1,1,Patent Foramen Ovale,0.4126984126984127,0.9111540103771428
+ENSG00000243896.4,1,Hearing Loss Disorder,0.6141581632653061,0.9608287263099496
+ENSG00000243389.1,1,Reactive Airway Disease,0.4179728317659352,0.943737116302483
+ENSG00000233214.1,1,Hidradenitis Suppurativa,0.2241273729332517,0.9260428543349378
+ENSG00000235488.1,1,Atrioventricular Septal Defect,0.47257383966244726,0.9059248499720847
+ENSG00000237631.2,1,Patent Ductus Arteriosus,0.5267857142857143,0.9129479060605276
+ENSG00000237515.8,1,Ventricular Septal Defect,0.6236518448438978,0.9385503563869312
+ENSG00000237505.6,1,Conductive Hearing Loss Disorder,0.4477040816326531,0.8970970001644057
+ENSG00000237172.3,1,Hidradenitis Suppurativa,0.11629353233830844,0.843004521509407
+ENSG00000236914.3,1,Conductive Hearing Loss Disorder,0.5073198198198199,0.8962463404035986
+ENSG00000236846.1,1,Hidradenitis Suppurativa,0.2792417938049006,0.7896539845161538
+ENSG00000236687.1,1,Psoriasis,0.317948717948718,0.9595141627064148
+ENSG00000236256.9,1,Atrioventricular Septal Defect,0.5010893246187363,0.955505058901808
+ENSG00000235863.3,1,Ventricular Septal Defect,0.6293706293706294,0.9510096080103878
+ENSG00000235852.1,1,Scoliosis,0.22171253822629972,0.9702866215159676
+ENSG00000235821.1,1,Patent Foramen Ovale,0.5126452494873548,0.9610460970941564
+ENSG00000235531.9,1,Patent Ductus Arteriosus,0.5491898148148148,0.9954052414766392
+ENSG00000235078.1,1,Psoriasis,0.2659713168187745,0.9108138360068541
+ENSG00000237803.5,1,Scoliosis,0.13788968824940048,0.6035924984996416
+ENSG00000235050.6,1,Scoliosis,0.32627118644067793,0.9085712589361913
+ENSG00000235007.2,1,Patent Ductus Arteriosus,0.5288116901020127,0.9453306163544651
+ENSG00000234883.5,1,Conductive Hearing Loss Disorder,0.4648809523809524,0.8859960539491062
+ENSG00000234882.1,1,Atrioventricular Septal Defect,0.3012048192771084,0.9275618337631898
+ENSG00000234741.7,1,Hashimoto Thyroiditis,0.3444316877152698,0.9377349998373654
+ENSG00000234614.1,1,Hidradenitis Suppurativa,0.4013333333333333,0.9274820197028022
+ENSG00000234426.1,1,Ventricular Septal Defect,0.5996287128712872,0.9575414910110699
+ENSG00000234424.2,1,Pulmonary Hypertension,0.3722222222222222,0.9934622179170441
+ENSG00000234336.6,1,"Otitis Media, Susceptibility To",0.5551724137931034,0.995910480566264
+ENSG00000234323.6,1,Hashimoto Thyroiditis,0.2417391304347826,0.8145215298882402
+ENSG00000233746.1,1,Atrioventricular Septal Defect,0.3007957559681698,0.9545467204470155
+ENSG00000233614.6,1,Hypothyroidism,0.6915851272015655,0.8714633757436915
+ENSG00000237763.9,1,Hashimoto Thyroiditis,0.3246753246753247,0.8371027898062114
+ENSG00000237861.1,1,Obstructive Sleep Apnea Syndrome,0.6411657559198543,0.920275522909594
+ENSG00000243284.1,1,Atrioventricular Septal Defect,0.4690909090909091,0.950203194573258
+ENSG00000241170.2,1,Hidradenitis Suppurativa,0.16403162055335968,0.6797250266529881
+ENSG00000243279.3,1,Hashimoto Thyroiditis,0.1989795918367347,0.8466862039591325
+ENSG00000243244.5,1,Psoriasis,0.2576923076923077,0.8825058957007534
+ENSG00000243004.5,1,Sleep Apnea Syndrome,0.6539413220219159,0.9785928226820332
+ENSG00000242876.3,1,Obstructive Sleep Apnea Syndrome,0.673972602739726,0.9490965988386424
+ENSG00000242802.6,1,Scoliosis,0.0710955710955711,0.5354264127822644
+ENSG00000242687.2,1,Hypothyroidism,0.6838235294117646,0.9392096989673648
+ENSG00000242616.3,1,Pulmonary Hypertension,0.26626016260162605,0.7744512273719405
+ENSG00000242252.1,1,Scoliosis,0.12244897959183673,0.9214346084991514
+ENSG00000241978.9,1,Hidradenitis Suppurativa,0.21980676328502416,0.9083947091169996
+ENSG00000241933.1,1,Psoriasis,0.328125,0.9902378784620435
+ENSG00000241772.2,1,Conductive Hearing Loss Disorder,0.4642857142857143,0.8545630863554672
+ENSG00000241399.6,1,Celiac Disease,0.25588697017268447,0.83461650338091
+ENSG00000241106.6,1,Hidradenitis Suppurativa,0.32421479229989864,0.9158872200601191
+ENSG00000238152.2,1,Patent Foramen Ovale,0.5095238095238095,0.9624052243846403
+ENSG00000240912.1,1,Patent Foramen Ovale,0.4878917378917379,0.9778227916048146
+ENSG00000240583.11,1,Psoriasis,0.3080808080808081,0.9297092084838606
+ENSG00000240505.8,1,Hidradenitis Suppurativa,0.23314429741650913,0.9628433523285183
+ENSG00000240429.1,1,Psoriasis,0.25057471264367814,0.7557781247042574
+ENSG00000240065.7,1,Psoriasis,0.20272108843537417,0.8732767587359883
+ENSG00000240041.1,1,Sleep Apnea Syndrome,0.598125,0.8839172804883214
+ENSG00000239998.5,1,Hypothyroidism,0.6418918918918919,0.9002724929346375
+ENSG00000239862.1,1,Atrioventricular Septal Defect,0.49640287769784175,0.9717322169547025
+ENSG00000239819.2,1,Celiac Disease,0.1941638608305275,0.8059351432994425
+ENSG00000239306.4,1,Atrioventricular Septal Defect,0.23571428571428568,0.9561591989024183
+ENSG00000239291.1,1,Astigmatism,0.34118262689691264,0.963400182048978
+ENSG00000238213.1,1,Atrioventricular Septal Defect,0.44342507645259943,0.9487446426237958
+ENSG00000227617.8,1,Hearing Loss Disorder,0.6141581632653061,0.9608287263099496
+ENSG00000164756.12,1,Psoriasis,0.20272108843537417,0.8732767587359883
+ENSG00000170837.2,1,Atrioventricular Septal Defect,0.4509948415622697,0.9359580399152938
+ENSG00000113141.17,1,Psoriasis,0.3129770992366412,0.944499435077236
+ENSG00000112759.16,1,Pulmonary Hypertension,0.26626016260162605,0.7744512273719405
+ENSG00000112739.16,1,Celiac Disease,0.44074074074074077,0.9928609646102282
+ENSG00000112658.7,1,Atrioventricular Septal Defect,0.4821617802896503,0.9326906397651574
+ENSG00000112576.12,1,Alopecia Areata,0.1913875598086124,0.46898349214656426
+ENSG00000112394.16,1,Psoriasis,0.18803418803418803,0.48788015650704164
+ENSG00000112343.10,1,Hashimoto Thyroiditis,0.10183428209993675,0.7529122858148191
+ENSG00000112320.11,1,Hashimoto Thyroiditis,0.3819444444444444,0.9856733881456572
+ENSG00000112299.7,1,Atrioventricular Septal Defect,0.3815261044176707,0.9549930025914618
+ENSG00000112242.14,1,Hearing Loss Disorder,0.5802707930367504,0.9836415604676474
+ENSG00000112237.12,1,Conductive Hearing Loss Disorder,0.5580130529369108,0.9909370441361823
+ENSG00000112137.17,1,Hashimoto Thyroiditis,0.1989795918367347,0.8466862039591325
+ENSG00000112062.10,1,Hidradenitis Suppurativa,0.2860310421286031,0.9283155451446353
+ENSG00000112053.13,1,Hidradenitis Suppurativa,0.32421479229989864,0.9158872200601191
+ENSG00000112033.13,1,Conductive Hearing Loss Disorder,0.4868951612903226,0.9746843728123203
+ENSG00000111875.7,1,Hearing Loss Disorder,0.5817711700064643,0.9396407171890244
+ENSG00000111850.10,1,Hashimoto Thyroiditis,0.40236686390532544,0.9822004504331235
+ENSG00000111788.10,1,Psoriasis,0.3151515151515151,0.880235050826497
+ENSG00000111737.11,1,Atrioventricular Septal Defect,0.4457142857142857,0.9911111158033156
+ENSG00000111676.14,1,Hashimoto Thyroiditis,0.25357142857142856,0.8542802219923726
+ENSG00000111674.8,1,Hidradenitis Suppurativa,0.29124579124579125,0.945059684976574
+ENSG00000111669.14,1,Celiac Disease,0.3183673469387755,0.9037853629404895
+ENSG00000111652.9,1,Celiac Disease,0.3987730061349693,0.8611874220810077
+ENSG00000111615.13,1,Atrioventricular Septal Defect,0.48054919908466814,0.9970637730048617
+ENSG00000111602.11,1,Hidradenitis Suppurativa,0.20366132723112126,0.8423627911462064
+ENSG00000111537.4,1,Conductive Hearing Loss Disorder,0.46434494195688225,0.84326782725925
+ENSG00000111237.18,1,Conductive Hearing Loss Disorder,0.5605170387779084,0.985349290246713
+ENSG00000111229.15,1,Hidradenitis Suppurativa,0.34438775510204084,0.7554198720456621
+ENSG00000112763.15,1,Conductive Hearing Loss Disorder,0.37974683544303794,0.8659182023544306
+ENSG00000113263.12,1,Atrioventricular Septal Defect,0.3815261044176707,0.9549930025914618
+ENSG00000110955.8,1,Celiac Disease,0.25155279503105593,0.8205886394332255
+ENSG00000113391.18,1,Scoliosis,0.11094674556213018,0.8351437774978396
+ENSG00000115947.13,1,Hashimoto Thyroiditis,0.23638232271325796,0.6984414426775198
+ENSG00000115919.14,1,Patent Foramen Ovale,0.47826086956521735,0.9394173972384571
+ENSG00000115875.18,1,Hearing Loss Disorder,0.62890625,0.9980035463641629
+ENSG00000115828.15,1,Hidradenitis Suppurativa,0.1891304347826087,0.782821273086376
+ENSG00000115806.12,1,Conductive Hearing Loss Disorder,0.52486986697513,0.9429437268775127
+ENSG00000115762.16,1,Celiac Disease,0.29965156794425085,0.9759564575998786
+ENSG00000115685.14,1,Psoriasis,0.2536554354736173,0.8686983180437606
+ENSG00000115423.18,1,Patent Foramen Ovale,0.4166666666666667,0.8353015962866619
+ENSG00000115365.11,1,Scoliosis,0.20144927536231882,0.881815551116187
+ENSG00000115271.10,1,Atrioventricular Septal Defect,0.4026315789473684,0.7870589578591728
+ENSG00000115241.10,1,Conductive Hearing Loss Disorder,0.5351111111111111,0.9719197446447636
+ENSG00000115234.10,1,Celiac Disease,0.33473684210526317,0.9499031811911041
+ENSG00000115211.15,1,Hashimoto Thyroiditis,0.22010869565217392,0.9360617778590622
+ENSG00000115207.13,1,Hashimoto Thyroiditis,0.2792452830188679,0.9404481058674256
+ENSG00000115145.9,1,Hashimoto Thyroiditis,0.3554778554778555,0.9678525176308354
+ENSG00000115107.19,1,Celiac Disease,0.24173913043478262,0.6871674284167445
+ENSG00000114812.12,1,"Otitis Media, Susceptibility To",0.5735785953177257,0.9792722682353636
+ENSG00000114784.3,1,Hypothyroidism,0.6837209302325582,0.9082511187542103
+ENSG00000114654.7,1,Folliculitis,0.48824427480916033,0.9106921845073979
+ENSG00000114446.4,1,Hashimoto Thyroiditis,0.32929782082324455,0.9730874912005882
+ENSG00000114315.3,1,Psoriasis,0.23443223443223443,0.8029071855086272
+ENSG00000114204.14,1,Hidradenitis Suppurativa,0.3787128712871287,0.9765385501367881
+ENSG00000113763.10,1,Atrioventricular Septal Defect,0.27906976744186046,0.7699936636359266
+ENSG00000113615.12,1,Psoriasis,0.3151515151515151,0.880235050826497
+ENSG00000113583.7,1,Hashimoto Thyroiditis,0.13273001508295626,0.9798910485239776
+ENSG00000113558.18,1,Hidradenitis Suppurativa,0.34710743801652894,0.8403697741815063
+ENSG00000113532.12,1,Atrioventricular Septal Defect,0.31764705882352945,0.7076987486831585
+ENSG00000111087.9,1,Patent Foramen Ovale,0.40931545518701484,0.86866661456421
+ENSG00000110934.10,1,Atrioventricular Septal Defect,0.49640287769784175,0.9717322169547025
+ENSG00000127527.13,1,Psoriasis,0.2659713168187745,0.9108138360068541
+ENSG00000107331.16,1,Seborrheic Dermatitis,0.2113095238095238,0.9248800021433344
+ENSG00000107077.18,1,Celiac Disease,0.12134977287475664,0.8812028319578089
+ENSG00000107036.11,1,Psoriasis,0.3032581453634085,0.9151384860515539
+ENSG00000106952.7,1,Celiac Disease,0.3989968080255358,0.9289869785139739
+ENSG00000106799.12,1,Hashimoto Thyroiditis,0.3819444444444444,0.9856733881456572
+ENSG00000106780.8,1,Hypothyroidism,0.6286902286902287,0.882819640995337
+ENSG00000106682.14,1,Hashimoto Thyroiditis,0.29320388349514565,0.9872386575291378
+ENSG00000106665.15,1,Hearing Loss Disorder,0.5023880597014925,0.9647829618501026
+ENSG00000106633.15,1,Atrioventricular Septal Defect,0.42065663474692205,0.7998221972282255
+ENSG00000106628.10,1,Conductive Hearing Loss Disorder,0.4342324342324343,0.8997885860630045
+ENSG00000106603.18,1,Hashimoto Thyroiditis,0.22010869565217392,0.9360617778590622
+ENSG00000106591.3,1,Hashimoto Thyroiditis,0.3668639053254438,0.9988830773556382
+ENSG00000106588.10,1,Hashimoto Thyroiditis,0.28125,0.8312200390632073
+ENSG00000106524.8,1,Celiac Disease,0.4643527204502815,0.9935905482947655
+ENSG00000106460.18,1,Ventricular Septal Defect,0.6313492063492063,0.9469560398928529
+ENSG00000106443.15,1,Celiac Disease,0.44074074074074077,0.9928609646102282
+ENSG00000106348.16,1,Alopecia Areata,0.25900621118012424,0.8792772477025375
+ENSG00000106327.12,1,Hidradenitis Suppurativa,0.3538011695906432,0.8175763843639919
+ENSG00000106245.10,1,Folliculitis,0.31746031746031744,0.9927749016769453
+ENSG00000106052.13,1,Celiac Disease,0.4510344827586207,0.9919916007667154
+ENSG00000105993.14,1,Hearing Loss Disorder,0.5873417721518988,0.9146506760029633
+ENSG00000105991.7,1,Conductive Hearing Loss Disorder,0.5502958579881657,0.9887079316565909
+ENSG00000105968.18,1,Psoriasis,0.35282898919262556,0.9859863286392155
+ENSG00000105953.14,1,Hashimoto Thyroiditis,0.22777777777777777,0.968462570153005
+ENSG00000105705.15,1,Scoliosis,0.2684659090909091,0.9395756485374428
+ENSG00000105639.18,1,Folliculitis,0.4310064935064935,0.9883291612879703
+ENSG00000105509.10,1,Atrioventricular Septal Defect,0.33458646616541354,0.9210833826811362
+ENSG00000105447.12,1,Celiac Disease,0.44230769230769235,0.9710108020563496
+ENSG00000107164.15,1,Psoriasis,0.28554778554778554,0.7970546600845551
+ENSG00000107372.12,1,"Otitis Media, Susceptibility To",0.5068723702664797,0.9223401669461118
+ENSG00000110852.4,1,Conductive Hearing Loss Disorder,0.4967741935483871,0.9677847816386944
+ENSG00000107742.12,1,Conductive Hearing Loss Disorder,0.40096230954290296,0.7499736394720273
+ENSG00000110841.13,1,Celiac Disease,0.3521739130434783,0.9989680469126953
+ENSG00000110723.11,1,Ventricular Septal Defect,0.6100294985250737,0.9527150123145819
+ENSG00000110713.15,1,Sleep Apnea Syndrome,0.6777546777546778,0.9629188560463106
+ENSG00000110660.14,1,Hypothyroidism,0.6728768824716658,0.953789437497126
+ENSG00000110330.8,1,Conductive Hearing Loss Disorder,0.5005656108597285,0.899149939800837
+ENSG00000110031.12,1,Hashimoto Thyroiditis,0.3241296518607443,0.9578437956670006
+ENSG00000109929.9,1,Atrioventricular Septal Defect,0.47654851414249905,0.9469581021994158
+ENSG00000109920.12,1,Atrioventricular Septal Defect,0.4417009602194787,0.845999974020759
+ENSG00000109814.11,1,Hypothyroidism,0.6882143296055058,0.9239547591144548
+ENSG00000109475.16,1,Hashimoto Thyroiditis,0.3554778554778555,0.9678525176308354
+ENSG00000109436.7,1,Hearing Loss Disorder,0.47556800497976964,0.9470027885404961
+ENSG00000109332.19,1,Atrioventricular Septal Defect,0.30478395061728397,0.7647377741932146
+ENSG00000109083.13,1,Hashimoto Thyroiditis,0.28125,0.8312200390632073
+ENSG00000108829.9,1,Celiac Disease,0.3557504873294347,0.9228334470284459
+ENSG00000108819.10,1,Atrioventricular Septal Defect,0.49182115594329334,0.9773601977374469
+ENSG00000108773.10,1,Celiac Disease,0.1238471673254282,0.8991658578032904
+ENSG00000108559.11,1,Sleep Apnea Syndrome,0.6674157303370787,0.9532362509566149
+ENSG00000108523.15,1,Atrioventricular Septal Defect,0.4655172413793104,0.9659961274594111
+ENSG00000108509.20,1,Hypothyroidism,0.6991735537190081,0.9000627112681812
+ENSG00000108424.9,1,Obstructive Sleep Apnea Syndrome,0.6819541375872383,0.9972857029025873
+ENSG00000108262.15,1,Hashimoto Thyroiditis,0.2995391705069124,0.8852604858120813
+ENSG00000108239.8,1,Psoriasis,0.28340080971659914,0.9703686524473611
+ENSG00000107890.16,1,Celiac Disease,0.3291666666666666,0.9342165001902232
+ENSG00000107882.11,1,Celiac Disease,0.30511463844797176,0.9935604686331048
+ENSG00000107864.14,1,Conductive Hearing Loss Disorder,0.5465693430656935,0.9732358688339662
+ENSG00000107862.4,1,Celiac Disease,0.3663911845730028,0.8926891675341323
+ENSG00000107745.18,1,Hypothyroidism,0.6794551014734501,0.9385495983008063
+ENSG00000115966.16,1,Celiac Disease,0.384180790960452,0.9359430754271664
+ENSG00000115977.18,1,"Otitis Media, Susceptibility To",0.45783132530120485,0.9404279444733995
+ENSG00000116032.5,1,Scoliosis,0.19209039548022597,0.8409166239364124
+ENSG00000124233.11,1,Sleep Apnea Syndrome,0.6323734973441432,0.8957987004483436
+ENSG00000124215.16,1,Hashimoto Thyroiditis,0.25993555316863587,0.7681796371774183
+ENSG00000124196.5,1,Ventricular Septal Defect,0.5690526315789474,0.9270802260222653
+ENSG00000124134.8,1,Folliculitis,0.4828042328042328,0.9509474527181446
+ENSG00000124107.5,1,Folliculitis,0.5062328975372454,0.9236914489073298
+ENSG00000124103.8,1,Hidradenitis Suppurativa,0.37254901960784315,0.9607499377485097
+ENSG00000123975.4,1,Hashimoto Thyroiditis,0.3611274221961245,0.9832510923611006
+ENSG00000123965.13,1,Hidradenitis Suppurativa,0.3878116343490305,0.9386490174217208
+ENSG00000123505.15,1,Hearing Loss Disorder,0.5618925831202046,0.9814870139359605
+ENSG00000123453.17,1,"Otitis Media, Susceptibility To",0.37825059101654845,0.7790501685675728
+ENSG00000123405.13,1,Hypothyroidism,0.6225045372050817,0.8937353737551931
+ENSG00000123360.11,1,Psoriasis,0.2938271604938272,0.8866362966764822
+ENSG00000123106.10,1,Atrioventricular Septal Defect,0.40382608695652167,0.838234472075394
+ENSG00000123091.4,1,Atrioventricular Septal Defect,0.4457142857142857,0.9911111158033156
+ENSG00000122970.15,1,Ventricular Septal Defect,0.6483277261033049,0.973028932434955
+ENSG00000122965.10,1,Atrioventricular Septal Defect,0.33458646616541354,0.9210833826811362
+ENSG00000122873.11,1,Hashimoto Thyroiditis,0.29320388349514565,0.9872386575291378
+ENSG00000122786.19,1,Hypothyroidism,0.6529559748427672,0.8901527299914207
+ENSG00000122729.18,1,Celiac Disease,0.40714285714285714,0.9169490382146196
+ENSG00000122707.11,1,Atrioventricular Septal Defect,0.4583333333333333,0.8968360391825643
+ENSG00000122674.11,1,Scoliosis,0.18301435406698563,0.6398902608799819
+ENSG00000122592.7,1,Atrioventricular Septal Defect,0.4157228514323784,0.8029758613464433
+ENSG00000122515.14,1,Hashimoto Thyroiditis,0.22010869565217392,0.9360617778590622
+ENSG00000122435.9,1,Atrioventricular Septal Defect,0.4853801169590643,0.9218441214030598
+ENSG00000122417.15,1,Conductive Hearing Loss Disorder,0.4094444444444444,0.7807482697449697
+ENSG00000122390.17,1,Celiac Disease,0.40935672514619886,0.9970890649389422
+ENSG00000122033.14,1,Celiac Disease,0.3987730061349693,0.8611874220810077
+ENSG00000121933.18,1,Patent Foramen Ovale,0.4652777777777778,0.932629826878437
+ENSG00000124222.22,1,Celiac Disease,0.3615346778160354,0.9377624272298771
+ENSG00000124243.17,1,Patent Foramen Ovale,0.45059928733398125,0.8590892929541368
+ENSG00000116191.17,1,Hidradenitis Suppurativa,0.09229957805907173,0.6703074079691884
+ENSG00000124279.11,1,Conductive Hearing Loss Disorder,0.484526967285588,0.9060135452817505
+ENSG00000127337.6,1,Celiac Disease,0.3183673469387755,0.9037853629404895
+ENSG00000126878.12,1,Pulmonary Hypertension,0.33796296296296297,0.9823979129924687
+ENSG00000126821.7,1,Psoriasis,0.317948717948718,0.9595141627064148
+ENSG00000126773.12,1,Scoliosis,0.2728476821192053,0.8464824043628058
+ENSG00000126581.12,1,Celiac Disease,0.243161094224924,0.7934127166221668
+ENSG00000126231.13,1,Atrioventricular Septal Defect,0.45454545454545453,0.9207493171774666
+ENSG00000126107.14,1,Ventricular Septal Defect,0.5524296675191815,0.9107619099664684
+ENSG00000126012.11,1,Patent Foramen Ovale,0.3992592592592593,0.881741405473598
+ENSG00000125971.16,1,Psoriasis,0.32555282555282555,0.9094417707043354
+ENSG00000125970.11,1,Psoriasis,0.3080808080808081,0.9297092084838606
+ENSG00000125898.12,1,Hashimoto Thyroiditis,0.33371040723981904,0.9084908183933613
+ENSG00000125863.18,1,Hashimoto Thyroiditis,0.24561403508771928,0.827545153858874
+ENSG00000125817.7,1,Conductive Hearing Loss Disorder,0.5498251748251748,0.9719560957690128
+ENSG00000125779.21,1,Scoliosis,0.0990990990990991,0.7461602495878512
+ENSG00000125731.12,1,Patent Foramen Ovale,0.36198462613556953,0.8000092696913901
+ENSG00000125538.11,1,Hidradenitis Suppurativa,0.41188959660297236,0.8799187888623293
+ENSG00000125485.17,1,Scoliosis,0.2220779220779221,0.7770296426961983
+ENSG00000125457.13,1,Conductive Hearing Loss Disorder,0.5104166666666667,0.9270760862022837
+ENSG00000125149.11,1,Hashimoto Thyroiditis,0.10905485789821547,0.8060401212520351
+ENSG00000125107.17,1,Conductive Hearing Loss Disorder,0.5037169194171871,0.8752198502213187
+ENSG00000124657.1,1,Hearing Loss Disorder,0.6141581632653061,0.9608287263099496
+ENSG00000124588.19,1,Sleep Apnea Syndrome,0.4931868131868132,0.8495886852469413
+ENSG00000124570.17,1,Ventricular Septal Defect,0.5533910533910533,0.9526553943087759
+ENSG00000124493.13,1,Obstructive Sleep Apnea Syndrome,0.6024955436720143,0.9234492749212853
+ENSG00000124370.10,1,Psoriasis,0.3151515151515151,0.880235050826497
+ENSG00000124302.12,1,Hearing Loss Disorder,0.5560747663551402,0.9217562646345338
+ENSG00000124299.13,1,Pulmonary Hypertension,0.238562091503268,0.7935813317751973
+ENSG00000121931.15,1,Psoriasis,0.36455696202531646,0.9711954526492999
+ENSG00000121895.7,1,Sleep Apnea Syndrome,0.611098371933043,0.9989624885231713
+ENSG00000121749.15,1,Hashimoto Thyroiditis,0.13273001508295626,0.9798910485239776
+ENSG00000121743.3,1,Ventricular Septal Defect,0.5540727105384262,0.9384858675239597
+ENSG00000118217.5,1,Hidradenitis Suppurativa,0.40037593984962405,0.9689413238393331
+ENSG00000118197.13,1,Hashimoto Thyroiditis,0.21639344262295082,0.7292565466132059
+ENSG00000117877.10,1,Hidradenitis Suppurativa,0.3134920634920635,0.8858296043689056
+ENSG00000117859.18,1,Alopecia Areata,0.21768707482993196,0.7391701986274076
+ENSG00000117834.12,1,Atrioventricular Septal Defect,0.443916697113628,0.9213092275357914
+ENSG00000117650.12,1,Alopecia Areata,0.24268689057421453,0.7239546232915017
+ENSG00000117632.22,1,Celiac Disease,0.34623655913978496,0.9822683953342618
+ENSG00000117620.14,1,Psoriasis,0.3843137254901961,0.9962410492715557
+ENSG00000117616.17,1,Reactive Airway Disease,0.42592592592592593,0.9724320776734372
+ENSG00000117597.17,1,Psoriasis,0.3180722891566265,0.8462919302231845
+ENSG00000117528.11,1,Psoriasis,0.27577937649880097,0.8320617997260559
+ENSG00000117475.13,1,Hashimoto Thyroiditis,0.32929782082324455,0.9730874912005882
+ENSG00000117318.8,1,Psoriasis,0.24666666666666665,0.6541376621734246
+ENSG00000117308.14,1,Psoriasis,0.32926829268292684,0.876388942499083
+ENSG00000117151.12,1,Hypothyroidism,0.6702898550724637,0.9216460983194592
+ENSG00000117009.11,1,Sleep Apnea Syndrome,0.6869158878504672,0.9533687327031446
+ENSG00000116984.12,1,Atrioventricular Septal Defect,0.4765395894428152,0.9652786086946091
+ENSG00000116962.14,1,Hidradenitis Suppurativa,0.366504854368932,0.9452618238815369
+ENSG00000116874.11,1,Hidradenitis Suppurativa,0.3020713463751438,0.9797931422404433
+ENSG00000116815.15,1,Patent Foramen Ovale,0.3927392739273928,0.8674613362805424
+ENSG00000116754.13,1,Conductive Hearing Loss Disorder,0.5131578947368421,0.8920403245438876
+ENSG00000116489.12,1,Hashimoto Thyroiditis,0.22689075630252103,0.7645867223202472
+ENSG00000116478.11,1,Strabismus,0.3680823680823681,0.8810164265034801
+ENSG00000116266.10,1,Hashimoto Thyroiditis,0.20921052631578946,0.8899826053239742
+ENSG00000116260.16,1,Psoriasis,0.28795098706603134,0.9859070321135558
+ENSG00000116221.15,1,Conductive Hearing Loss Disorder,0.5085470085470085,0.9135368416721835
+ENSG00000116209.11,1,Atrioventricular Septal Defect,0.2891156462585034,0.797399439896199
+ENSG00000118260.14,1,Conductive Hearing Loss Disorder,0.4916387959866221,0.863018934509401
+ENSG00000118508.4,1,Atrioventricular Septal Defect,0.3884372177055104,0.9720622548182503
+ENSG00000118523.5,1,Hidradenitis Suppurativa,0.11171497584541062,0.8101092018358629
+ENSG00000120533.12,1,Hearing Loss Disorder,0.6381263616557734,0.9950658741428897
+ENSG00000121690.10,1,Obstructive Sleep Apnea Syndrome,0.5757990867579909,0.9628171048407146
+ENSG00000121578.12,1,Hashimoto Thyroiditis,0.3931673422119282,0.9799007798895841
+ENSG00000121570.12,1,Seborrheic Dermatitis,0.3101567825494206,0.8976688981734493
+ENSG00000121350.15,1,Conductive Hearing Loss Disorder,0.4967832167832168,0.8841266518554536
+ENSG00000121075.9,1,Hidradenitis Suppurativa,0.2982202982202982,0.8429774029527952
+ENSG00000121058.4,1,Celiac Disease,0.3989968080255358,0.9289869785139739
+ENSG00000120915.13,1,Conductive Hearing Loss Disorder,0.4229074889867842,0.7882385059839339
+ENSG00000120896.13,1,Hashimoto Thyroiditis,0.2792452830188679,0.9404481058674256
+ENSG00000120802.13,1,Alopecia Areata,0.3277456647398844,0.8299718987241435
+ENSG00000120798.16,1,Celiac Disease,0.4606365159128978,0.9954481256039117
+ENSG00000120693.13,1,Hashimoto Thyroiditis,0.22777777777777777,0.968462570153005
+ENSG00000120662.15,1,Hypothyroidism,0.6884345437900519,0.8847580822389252
+ENSG00000120526.10,1,Celiac Disease,0.4564102564102564,0.9763790582049525
+ENSG00000118579.12,1,Hashimoto Thyroiditis,0.2184235517568851,0.593249192083292
+ENSG00000120370.12,1,Conductive Hearing Loss Disorder,0.5455680399500625,0.9505989457299533
+ENSG00000120306.9,1,Hidradenitis Suppurativa,0.33540372670807456,0.9472252135439224
+ENSG00000120162.9,1,Hidradenitis Suppurativa,0.21980676328502416,0.9083947091169996
+ENSG00000119919.10,1,Celiac Disease,0.4053308823529412,0.9437409313913114
+ENSG00000119915.4,1,Hashimoto Thyroiditis,0.27252747252747256,0.8054298952571931
+ENSG00000119866.20,1,Celiac Disease,0.3516530699871189,0.8185806759986725
+ENSG00000119778.14,1,Celiac Disease,0.3500724287783679,0.9081733031574214
+ENSG00000119777.18,1,Hashimoto Thyroiditis,0.22689075630252103,0.7645867223202472
+ENSG00000119771.14,1,Psoriasis,0.34074074074074073,0.9072201768501041
+ENSG00000119335.16,1,Hidradenitis Suppurativa,0.40682788051209107,0.9844887864887224
+ENSG00000118965.14,1,Folliculitis,0.39826839826839827,0.9790237358762583
+ENSG00000118894.14,1,Conductive Hearing Loss Disorder,0.5267489711934156,0.9567406523266698
+ENSG00000105397.13,1,Scoliosis,0.11277072442120985,0.8488339052160438
+ENSG00000105393.15,1,Ventricular Septal Defect,0.6038500506585612,0.9563840146081661
+ENSG00000105373.18,1,"Otitis Media, Susceptibility To",0.4850649350649351,0.9626674136760455
+ENSG00000070444.14,1,Atrioventricular Septal Defect,0.5209580838323353,0.9906403304606771
+ENSG00000069974.15,1,Celiac Disease,0.41899441340782123,0.8900158013921449
+ENSG00000069943.9,1,Atrioventricular Septal Defect,0.47654851414249905,0.9469581021994158
+ENSG00000069431.11,1,Pulmonary Hypertension,0.41132478632478636,0.9963414549321209
+ENSG00000068976.13,1,Scoliosis,0.18032786885245902,0.7894801807852783
+ENSG00000068697.6,1,Atrioventricular Septal Defect,0.19384615384615386,0.7887324531318489
+ENSG00000068323.16,1,Atrioventricular Septal Defect,0.39655172413793105,0.8488918548097385
+ENSG00000067900.7,1,Psoriasis,0.33085961657390234,0.924339387441039
+ENSG00000067533.5,1,Hashimoto Thyroiditis,0.3581081081081081,0.9238687105699758
+ENSG00000067177.14,1,Psoriasis,0.2132867132867133,0.7304591188020163
+ENSG00000067064.10,1,Hashimoto Thyroiditis,0.2995391705069124,0.8852604858120813
+ENSG00000067048.16,1,Hypothyroidism,0.6775777414075287,0.9928441950560722
+ENSG00000066923.17,1,Atrioventricular Septal Defect,0.3884372177055104,0.9720622548182503
+ENSG00000066279.17,1,Alopecia Areata,0.2891566265060241,0.7556244814032764
+ENSG00000065618.18,1,Pneumonia,0.2943201376936317,0.9587682418287208
+ENSG00000065548.17,1,Hashimoto Thyroiditis,0.3554778554778555,0.9678525176308354
+ENSG00000065427.14,1,Conductive Hearing Loss Disorder,0.4998597475455821,0.8776347662201129
+ENSG00000065135.10,1,Atrioventricular Septal Defect,0.3732441471571907,0.7747446248126455
+ENSG00000064886.13,1,Atrioventricular Septal Defect,0.27192118226600986,0.8642870405764058
+ENSG00000064601.16,1,Hypothyroidism,0.6949806949806949,0.9402843895814996
+ENSG00000063978.15,1,Alopecia Areata,0.37206502107164363,0.9743347318735138
+ENSG00000063587.13,1,Hashimoto Thyroiditis,0.2,0.6740358899974143
+ENSG00000063244.12,1,Hashimoto Thyroiditis,0.3819444444444444,0.9856733881456572
+ENSG00000062485.18,1,Celiac Disease,0.4438356164383561,0.9760689196210812
+ENSG00000059915.16,1,Conductive Hearing Loss Disorder,0.38639018691588783,0.7752343594155708
+ENSG00000059769.19,1,Celiac Disease,0.36065573770491804,0.8787355436112761
+ENSG00000059728.10,1,Hypothyroidism,0.6417112299465241,0.9653834586700744
+ENSG00000058799.14,1,Atrioventricular Septal Defect,0.4654088050314465,0.9954792362968963
+ENSG00000070182.19,1,Psoriasis,0.28340080971659914,0.9703686524473611
+ENSG00000070610.14,1,Scoliosis,0.1775067750677507,0.7771382635034466
+ENSG00000081803.15,1,Ventricular Septal Defect,0.5101214574898786,0.9388658848146156
+ENSG00000070718.11,1,"Otitis Media, Susceptibility To",0.4406912804399057,0.9951444255813662
+ENSG00000081189.15,1,Celiac Disease,0.21696969696969698,0.8996328379279862
+ENSG00000080345.17,1,Celiac Disease,0.3516530699871189,0.8185806759986725
+ENSG00000079387.13,1,Hypothyroidism,0.6922421142369992,0.99446042127895
+ENSG00000079263.18,1,Celiac Disease,0.38661876964526265,0.9001431074142996
+ENSG00000078808.16,1,Atrioventricular Septal Defect,0.49182115594329334,0.9773601977374469
+ENSG00000078804.12,1,Atrioventricular Septal Defect,0.4583333333333333,0.8968360391825643
+ENSG00000078674.17,1,Ventricular Septal Defect,0.6429391504018369,0.9769199254862084
+ENSG00000077721.15,1,Conductive Hearing Loss Disorder,0.4478214093598709,0.8039468033104074
+ENSG00000077312.8,1,Celiac Disease,0.2747663551401869,0.7806792077247227
+ENSG00000076944.15,1,Hypothyroidism,0.6514369933677229,0.9676252202012412
+ENSG00000075711.20,1,Conductive Hearing Loss Disorder,0.5081669691470054,0.9500180225510603
+ENSG00000075568.16,1,Patent Foramen Ovale,0.49356521739130427,0.9694679784421528
+ENSG00000075415.12,1,Celiac Disease,0.3180778032036613,0.8254723178333429
+ENSG00000075292.18,1,Ventricular Septal Defect,0.55577610162763,0.9139314091527792
+ENSG00000074660.15,1,Hidradenitis Suppurativa,0.10135135135135136,0.735547512084561
+ENSG00000074527.11,1,Psoriasis,0.22361359570661896,0.7658509180979896
+ENSG00000073921.17,1,Hypothyroidism,0.5907859078590786,0.9513986913677537
+ENSG00000072786.12,1,Sleep Apnea Syndrome,0.667144906743185,0.997475151581898
+ENSG00000072571.19,1,Conductive Hearing Loss Disorder,0.518452380952381,0.9541179304273071
+ENSG00000072506.12,1,Celiac Disease,0.20512820512820512,0.851013567352682
+ENSG00000072195.14,1,Conductive Hearing Loss Disorder,0.5332167832167832,0.9579730600186368
+ENSG00000072135.12,1,Celiac Disease,0.35726643598615915,0.8316829817786676
+ENSG00000071967.11,1,Atrioventricular Septal Defect,0.4093567251461988,0.8761977788264279
+ENSG00000071575.11,1,Celiac Disease,0.38661876964526265,0.9001431074142996
+ENSG00000071189.21,1,Conductive Hearing Loss Disorder,0.5081874647092038,0.8924362311713806
+ENSG00000070882.12,1,Conductive Hearing Loss Disorder,0.516325907842539,0.9651912349699884
+ENSG00000070831.15,1,Patent Ductus Arteriosus,0.1252913752913753,0.8829021115735279
+ENSG00000058673.16,1,Celiac Disease,0.22366522366522365,0.7301973531167604
+ENSG00000058063.15,1,Celiac Disease,0.3903133903133903,0.9508448605614904
+ENSG00000057935.13,1,Pneumonia,0.3626373626373626,0.8075593605131169
+ENSG00000056736.9,1,Sleep Apnea Syndrome,0.6843058610428258,0.9296663447397657
+ENSG00000022277.12,1,Atrioventricular Septal Defect,0.5050505050505051,0.9689034529968427
+ENSG00000022267.16,1,Psoriasis,0.2702169625246548,0.9253258809630682
+ENSG00000021355.12,1,Hidradenitis Suppurativa,0.3547619047619047,0.9151534305420999
+ENSG00000015676.17,1,Conductive Hearing Loss Disorder,0.3553986466607825,0.7379727567022917
+ENSG00000013725.14,1,Psoriasis,0.18404118404118402,0.7930511202472128
+ENSG00000013523.9,1,Atrioventricular Septal Defect,0.44342507645259943,0.9487446426237958
+ENSG00000011566.14,1,Scoliosis,0.32056737588652484,0.9951851548090335
+ENSG00000011405.13,1,Hashimoto Thyroiditis,0.16898148148148148,0.7195224322640092
+ENSG00000011304.19,1,Hashimoto Thyroiditis,0.20572916666666666,0.875253976782341
+ENSG00000011243.17,1,Scoliosis,0.11846153846153847,0.8915314329095009
+ENSG00000011198.7,1,Hypothyroidism,0.5566433566433566,0.8274006063186387
+ENSG00000010404.17,1,Atrioventricular Septal Defect,0.45454545454545453,0.9207493171774666
+ENSG00000010327.10,1,Folliculitis,0.36432637571157495,0.9860924999609991
+ENSG00000008869.11,1,Scoliosis,0.32056737588652484,0.9951851548090335
+ENSG00000008853.16,1,Folliculitis,0.31215772179627604,0.7703353637951548
+ENSG00000008394.12,1,Ventricular Septal Defect,0.6432794639337801,0.9931323779319011
+ENSG00000008226.19,1,Hidradenitis Suppurativa,0.22857142857142856,0.9441853815398389
+ENSG00000007312.12,1,Celiac Disease,0.2254047322540473,0.9342243168786187
+ENSG00000006744.18,1,Hashimoto Thyroiditis,0.2792452830188679,0.9404481058674256
+ENSG00000006576.16,1,Conductive Hearing Loss Disorder,0.5498251748251748,0.9719560957690128
+ENSG00000006125.17,1,Sleep Apnea Syndrome,0.6915584415584416,0.954092597867744
+ENSG00000006007.11,1,Atrioventricular Septal Defect,0.440303657694962,0.8747301804671098
+ENSG00000005486.16,1,Alopecia Areata,0.3541912632821724,0.927228061229478
+ENSG00000005187.11,1,Scoliosis,0.13788968824940048,0.6035924984996416
+ENSG00000004975.11,1,Conductive Hearing Loss Disorder,0.5586854460093896,0.9877227384286834
+ENSG00000004399.12,1,Celiac Disease,0.4053308823529412,0.9437409313913114
+ENSG00000003756.16,1,Hashimoto Thyroiditis,0.30335861321776814,0.8256343244278973
+ENSG00000023516.8,1,Atrioventricular Septal Defect,0.4654088050314465,0.9954792362968963
+ENSG00000023608.4,1,Hashimoto Thyroiditis,0.26605504587155965,0.8961956337037327
+ENSG00000025039.14,1,Hypothyroidism,0.6922421142369992,0.99446042127895
+ENSG00000041982.15,1,Patent Ductus Arteriosus,0.523650697392359,0.9841885289385401
+ENSG00000055070.16,1,Hearing Loss Disorder,0.37777777777777777,0.8949277699658736
+ENSG00000054148.17,1,Celiac Disease,0.12642140468227425,0.9176732930493346
+ENSG00000053900.10,1,Hashimoto Thyroiditis,0.3444316877152698,0.9377349998373654
+ENSG00000053372.4,1,Conductive Hearing Loss Disorder,0.41666666666666663,0.900228221367565
+ENSG00000052749.13,1,Pulmonary Hypertension,0.2856276531231049,0.9492801800955082
+ENSG00000051128.18,1,Folliculitis,0.3843514070006863,0.8381533530384107
+ENSG00000049130.14,1,Folliculitis,0.4770496992719215,0.9195224528238708
+ENSG00000049089.13,1,Hashimoto Thyroiditis,0.29024943310657597,0.8578174048886111
+ENSG00000048392.11,1,Conductive Hearing Loss Disorder,0.4694291509707331,0.8778779014057045
+ENSG00000048052.21,1,Sleep Apnea Syndrome,0.6490015360983102,0.8889105110873227
+ENSG00000047634.14,1,Atrioventricular Septal Defect,0.4205128205128205,0.9835110031522158
+ENSG00000047346.12,1,Conductive Hearing Loss Disorder,0.5470059880239521,0.9527048505685596
+ENSG00000040531.14,1,Psoriasis,0.36455696202531646,0.9711954526492999
+ENSG00000025156.12,1,Atrioventricular Septal Defect,0.3673469387755102,0.860318903185728
+ENSG00000039319.16,1,Conductive Hearing Loss Disorder,0.5465693430656935,0.9732358688339662
+ENSG00000036530.8,1,Patent Ductus Arteriosus,0.5409836065573771,0.9554856511519481
+ENSG00000036054.12,1,Hashimoto Thyroiditis,0.15350877192982457,0.6538076409842501
+ENSG00000035862.12,1,Hypothyroidism,0.6249446167478955,0.9833317678702265
+ENSG00000033122.18,1,Pulmonary Hypertension,0.27629233511586454,0.918439523773014
+ENSG00000033030.13,1,Atrioventricular Septal Defect,0.4581939799331104,0.950851612415127
+ENSG00000031081.10,1,Patent Ductus Arteriosus,0.4743003997715591,0.8923784215360674
+ENSG00000028203.17,1,Atrioventricular Septal Defect,0.4732394366197183,0.9261742783579366
+ENSG00000027697.13,1,Folliculitis,0.46956521739130436,0.9809734894498927
+ENSG00000025800.13,1,Celiac Disease,0.3291666666666666,0.9342165001902232
+ENSG00000025796.13,1,Hidradenitis Suppurativa,0.4160958904109589,0.9057586584664933
+ENSG00000025708.13,1,Hypothyroidism,0.6362732095490716,0.9279734767599314
+ENSG00000081307.12,1,Atrioventricular Septal Defect,0.4996336996336997,0.992904503976472
+ENSG00000082074.15,1,Conductive Hearing Loss Disorder,0.4652605459057072,0.9069437997478056
+ENSG00000105371.8,1,Ventricular Septal Defect,0.5070483626111473,0.8604839335198485
+ENSG00000102189.16,1,Psoriasis,0.3584905660377359,0.9549035539844263
+ENSG00000102081.13,1,Conductive Hearing Loss Disorder,0.518452380952381,0.9541179304273071
+ENSG00000102043.15,1,Hashimoto Thyroiditis,0.3802172670097198,0.9473520774352727
+ENSG00000101997.12,1,Conductive Hearing Loss Disorder,0.5351089588377724,0.9846736688412416
+ENSG00000101977.19,1,Folliculitis,0.5391414141414141,0.9936958549349829
+ENSG00000101974.14,1,Conductive Hearing Loss Disorder,0.5595238095238095,0.9765089946453139
+ENSG00000101846.6,1,Celiac Disease,0.3494623655913978,0.851491709589118
+ENSG00000101843.18,1,Hashimoto Thyroiditis,0.3345543345543346,0.9885878072534261
+ENSG00000101493.10,1,Conductive Hearing Loss Disorder,0.3495495495495496,0.9408615223381248
+ENSG00000101421.3,1,Hearing Loss Disorder,0.4192872117400419,0.9228623317650168
+ENSG00000101342.9,1,Alopecia Areata,0.3182870370370371,0.8768102701722427
+ENSG00000101236.16,1,Hidradenitis Suppurativa,0.39403819282720076,0.9536637217596504
+ENSG00000101210.10,1,Strabismus,0.286231884057971,0.802608854288905
+ENSG00000101160.13,1,Scoliosis,0.11463046757164404,0.8627899563386384
+ENSG00000101158.13,1,Hashimoto Thyroiditis,0.2682660850599782,0.7928261363625503
+ENSG00000101019.21,1,Atrioventricular Septal Defect,0.4111111111111111,0.7780457707182248
+ENSG00000100994.11,1,Hearing Loss Disorder,0.473344489600765,0.8446992164257809
+ENSG00000100991.11,1,Alopecia Areata,0.29842342342342343,0.8218483117140403
+ENSG00000100968.13,1,Hidradenitis Suppurativa,0.43662587412587417,0.9506984641873173
+ENSG00000100916.13,1,Ventricular Septal Defect,0.6440281030444965,0.9896214744606583
+ENSG00000100614.17,1,Atrioventricular Septal Defect,0.3274725274725275,0.7675900890875831
+ENSG00000100612.13,1,Scoliosis,0.19827586206896552,0.8679501644488814
+ENSG00000100483.13,1,Conductive Hearing Loss Disorder,0.47173489278752434,0.8567234458148532
+ENSG00000100478.14,1,Sleep Apnea Syndrome,0.6743986254295533,0.9499076415269858
+ENSG00000100441.9,1,Sleep Apnea Syndrome,0.6901737101374125,0.9361312824427221
+ENSG00000100429.17,1,Hashimoto Thyroiditis,0.28380952380952384,0.9557523692166743
+ENSG00000100422.13,1,Hashimoto Thyroiditis,0.18935643564356436,0.805927918636384
+ENSG00000100410.7,1,Hashimoto Thyroiditis,0.3140495867768595,0.9281011954122909
+ENSG00000102098.17,1,Celiac Disease,0.384180790960452,0.9359430754271664
+ENSG00000102265.11,1,Scoliosis,0.2113095238095238,0.9248800021433344
+ENSG00000083799.17,1,Psoriasis,0.24096385542168675,0.671633379428846
+ENSG00000102271.13,1,Alopecia Areata,0.3286384976525822,0.9054369860289804
+ENSG00000105369.9,1,Celiac Disease,0.1238471673254282,0.8991658578032904
+ENSG00000105364.13,1,Hashimoto Thyroiditis,0.3190476190476191,0.9428504015315634
+ENSG00000105323.16,1,Hashimoto Thyroiditis,0.2792452830188679,0.9404481058674256
+ENSG00000105122.12,1,Hashimoto Thyroiditis,0.23793103448275862,0.8017193828428696
+ENSG00000104687.12,1,Hashimoto Thyroiditis,0.3302752293577982,0.8241011346239161
+ENSG00000104442.9,1,Celiac Disease,0.4438356164383561,0.9760689196210812
+ENSG00000104361.9,1,Conductive Hearing Loss Disorder,0.5281065088757396,0.9191524588572217
+ENSG00000104131.12,1,Alopecia Areata,0.24697336561743344,0.8385101986496369
+ENSG00000104081.13,1,Patent Foramen Ovale,0.5301204819277109,0.9860567078457815
+ENSG00000104055.15,1,Atrioventricular Septal Defect,0.3881884538818845,0.786123127865726
+ENSG00000103995.13,1,Hidradenitis Suppurativa,0.3531300160513644,0.9968176972851622
+ENSG00000103769.9,1,Atrioventricular Septal Defect,0.36819172113289755,0.922029298767429
+ENSG00000103653.16,1,Conductive Hearing Loss Disorder,0.5351089588377724,0.9846736688412416
+ENSG00000103544.14,1,Celiac Disease,0.3500724287783679,0.9081733031574214
+ENSG00000103343.12,1,Hashimoto Thyroiditis,0.16363636363636364,0.6968305825848004
+ENSG00000103064.13,1,Scoliosis,0.2796610169491526,0.9130800411120957
+ENSG00000103035.10,1,Conductive Hearing Loss Disorder,0.5465693430656935,0.9732358688339662
+ENSG00000103005.11,1,Hypothyroidism,0.6362732095490716,0.9279734767599314
+ENSG00000102978.12,1,Alopecia Areata,0.3182870370370371,0.8768102701722427
+ENSG00000102967.11,1,Reactive Airway Disease,0.3996003996003996,0.9293367054866242
+ENSG00000102871.15,1,Atrioventricular Septal Defect,0.2412121212121212,0.9780591215983813
+ENSG00000102805.14,1,Scoliosis,0.291156462585034,0.9035635957548289
+ENSG00000102796.10,1,Hidradenitis Suppurativa,0.2241273729332517,0.9260428543349378
+ENSG00000102753.9,1,Hidradenitis Suppurativa,0.39403819282720076,0.9536637217596504
+ENSG00000102710.19,1,Hearing Loss Disorder,0.5127272727272727,0.9840652286282605
+ENSG00000102409.9,1,Atrioventricular Septal Defect,0.3616600790513834,0.7506686099666415
+ENSG00000102349.17,1,Atrioventricular Septal Defect,0.4617283950617284,0.9174381758099691
+ENSG00000100395.14,1,Hashimoto Thyroiditis,0.19570707070707072,0.8328293352093572
+ENSG00000100353.17,1,Atrial Septal Defect,0.6009160305343512,0.8692896647178832
+ENSG00000100345.20,1,Celiac Disease,0.39276018099547516,0.9144560429032391
+ENSG00000100307.12,1,Hidradenitis Suppurativa,0.4083044982698962,0.9117488971717135
+ENSG00000091129.19,1,Scoliosis,0.30248618784530384,0.8414099261339552
+ENSG00000090989.17,1,Celiac Disease,0.28403361344537814,0.9255816516454597
+ENSG00000090975.12,1,Pulmonary Hypertension,0.34345794392523366,0.9982990600514545
+ENSG00000090861.15,1,Strabismus,0.32806324110671936,0.9188060148917412
+ENSG00000090621.13,1,Hashimoto Thyroiditis,0.3131868131868132,0.8524748269012058
+ENSG00000090447.11,1,Conductive Hearing Loss Disorder,0.4902356902356903,0.859971431562842
+ENSG00000090376.10,1,Celiac Disease,0.3734335839598997,0.9684570167056299
+ENSG00000090339.8,1,Hypothyroidism,0.6691148775894539,0.9916597219731123
+ENSG00000089847.12,1,Pneumonia,0.23122238586156113,0.7547146264591951
+ENSG00000089053.12,1,Strabismus,0.41208791208791207,0.9857371282372662
+ENSG00000089022.13,1,Sleep Apnea Syndrome,0.684322033898305,0.9393205603647233
+ENSG00000088899.14,1,Hearing Loss Disorder,0.6031456576248005,0.989518001558659
+ENSG00000088833.17,1,Atrioventricular Septal Defect,0.40382608695652167,0.838234472075394
+ENSG00000088387.18,1,Hidradenitis Suppurativa,0.28319502074688796,0.7050109212597251
+ENSG00000087903.12,1,Hidradenitis Suppurativa,0.32207207207207206,0.8312185642248557
+ENSG00000087502.17,1,Hashimoto Thyroiditis,0.33903133903133903,0.9230061331019086
+ENSG00000087269.15,1,Strabismus,0.4621212121212121,0.9894915266152194
+ENSG00000086758.15,1,Hearing Loss Disorder,0.5933888118354138,0.9829250908061384
+ENSG00000086730.16,1,Atrioventricular Septal Defect,0.46176046176046176,0.935361900443049
+ENSG00000086666.18,1,Hashimoto Thyroiditis,0.3745664739884393,0.9134639779964889
+ENSG00000086619.13,1,Hashimoto Thyroiditis,0.29320388349514565,0.9872386575291378
+ENSG00000086598.10,1,Hearing Loss Disorder,0.5651392632524708,0.936631409294551
+ENSG00000085982.13,1,Ventricular Septal Defect,0.6620568757304246,0.9958476647143677
+ENSG00000084463.7,1,Psoriasis,0.3108298171589311,0.9865086296681012
+ENSG00000083896.12,1,Psoriasis,0.30005941770647654,0.8378392683528192
+ENSG00000083838.15,1,Alopecia Areata,0.33372093023255817,0.8453077722932398
+ENSG00000083812.11,1,Conductive Hearing Loss Disorder,0.4417508417508417,0.9151633575673985
+ENSG00000091542.8,1,Hashimoto Thyroiditis,0.1109625668449198,0.8200684713508568
+ENSG00000091651.8,1,Hidradenitis Suppurativa,0.34279835390946506,0.7921007129282946
+ENSG00000092067.5,1,Ventricular Septal Defect,0.627184071515644,0.9857054513540264
+ENSG00000099810.18,1,Alopecia Areata,0.3939393939393939,0.9829013682853708
+ENSG00000100294.12,1,Celiac Disease,0.33529411764705885,0.7803786243989226
+ENSG00000100281.13,1,Scoliosis,0.3263888888888889,0.9450509543243517
+ENSG00000100271.16,1,Conductive Hearing Loss Disorder,0.47914285714285715,0.8818982583552968
+ENSG00000100151.15,1,Hearing Loss Disorder,0.5566202090592335,0.9138179211497108
+ENSG00000100106.19,1,Hypothyroidism,0.6654767975522692,0.9063823858531698
+ENSG00000100105.17,1,Atrioventricular Septal Defect,0.4996336996336997,0.992904503976472
+ENSG00000100077.14,1,Hidradenitis Suppurativa,0.38500000000000006,0.9926364881522057
+ENSG00000100031.18,1,Folliculitis,0.13262099308610936,0.9406267359171046
+ENSG00000099985.3,1,Hidradenitis Suppurativa,0.3950617283950617,0.9129944639554373
+ENSG00000099940.11,1,Atrioventricular Septal Defect,0.39279869067103107,0.9193575012288433
+ENSG00000099917.17,1,Sleep Apnea Syndrome,0.6496598639455782,0.990714161651991
+ENSG00000099866.14,1,Hearing Loss Disorder,0.6190783807062877,0.9823958486707043
+ENSG00000099377.13,1,Hashimoto Thyroiditis,0.28380952380952384,0.9557523692166743
+ENSG00000092096.16,1,Conductive Hearing Loss Disorder,0.5351089588377724,0.9846736688412416
+ENSG00000099365.10,1,Celiac Disease,0.3746130030959752,0.8721519092843835
+ENSG00000099364.16,1,Folliculitis,0.543233082706767,0.9782189222377334
+ENSG00000096968.13,1,Conductive Hearing Loss Disorder,0.551502772103881,0.9693559440448841
+ENSG00000096060.14,1,Hashimoto Thyroiditis,0.1349206349206349,0.5809492694875192
+ENSG00000095585.16,1,Celiac Disease,0.2985404688191066,0.7748927020503714
+ENSG00000095209.11,1,Hearing Loss Disorder,0.5060106234274532,0.9439041360918877
+ENSG00000095066.11,1,Scoliosis,0.2727272727272727,0.9544909767808537
+ENSG00000095002.13,1,Psoriasis,0.2164073550212164,0.9319867915877947
+ENSG00000094916.15,1,Astigmatism,0.4418500224517288,0.986807080097834
+ENSG00000092978.10,1,Hearing Loss Disorder,0.5802707930367504,0.9836415604676474
+ENSG00000092931.11,1,"Otitis Media, Susceptibility To",0.36181818181818176,0.9674366421509177
+ENSG00000092531.9,1,Atrioventricular Septal Defect,0.3881884538818845,0.786123127865726
+ENSG00000127463.14,1,Seborrheic Dermatitis,0.12450436161776368,0.936844066335651
+ENSG00000127720.7,1,Celiac Disease,0.3698630136986301,0.8326071111721494
+ENSG00000170677.5,1,Hidradenitis Suppurativa,0.40770609318996415,0.9421989228499433
+ENSG00000161395.13,1,Strabismus,0.4054421768707483,0.9699401917100504
+ENSG00000161298.17,1,Celiac Disease,0.21288515406162462,0.695195317930968
+ENSG00000161217.11,1,Folliculitis,0.36432637571157495,0.9860924999609991
+ENSG00000161202.17,1,Conductive Hearing Loss Disorder,0.5246305418719212,0.9806279268973597
+ENSG00000160867.14,1,Patent Foramen Ovale,0.23539668700959024,0.7462410014254955
+ENSG00000160789.19,1,Conductive Hearing Loss Disorder,0.4769140853302163,0.8918296163952005
+ENSG00000160785.13,1,Atrioventricular Septal Defect,0.4841093865484109,0.9805937237334847
+ENSG00000160752.14,1,Celiac Disease,0.2648475120385233,0.8636005397015794
+ENSG00000160695.14,1,Hearing Loss Disorder,0.5840232714253748,0.9584345325129118
+ENSG00000160602.13,1,Atrioventricular Septal Defect,0.362714013950539,0.6992754760923714
+ENSG00000160307.9,1,Patent Foramen Ovale,0.37732919254658387,0.8773595495030644
+ENSG00000160209.18,1,Ventricular Septal Defect,0.5745679012345679,0.9881201223423045
+ENSG00000160193.11,1,Atrioventricular Septal Defect,0.33458646616541354,0.9210833826811362
+ENSG00000160191.17,1,Atrioventricular Septal Defect,0.3955189757658893,0.9895419252137804
+ENSG00000160180.15,1,Celiac Disease,0.3734335839598997,0.9684570167056299
+ENSG00000160097.16,1,Folliculitis,0.4986522911051213,0.9819336893319703
+ENSG00000160013.8,1,Strabismus,0.32929782082324455,0.7884871086829299
+ENSG00000159882.12,1,Celiac Disease,0.2603174603174603,0.8489504289038948
+ENSG00000159873.9,1,Psoriasis,0.328125,0.9902378784620435
+ENSG00000159650.8,1,Sleep Apnea Syndrome,0.563048245614035,0.8119065892531564
+ENSG00000159648.11,1,Conductive Hearing Loss Disorder,0.3146186440677966,0.5765683024683619
+ENSG00000159588.14,1,Scoliosis,0.2864864864864865,0.8890073339003932
+ENSG00000159496.14,1,Folliculitis,0.3548644338118022,0.8740876367839335
+ENSG00000159363.17,1,Hashimoto Thyroiditis,0.1989795918367347,0.8466862039591325
+ENSG00000159208.15,1,Alopecia Areata,0.2981514609421586,0.889752066148021
+ENSG00000159147.17,1,Hidradenitis Suppurativa,0.42812914639540023,0.9561187407022315
+ENSG00000159069.13,1,Scoliosis,0.11652703731911652,0.8770197544153475
+ENSG00000158941.16,1,Hearing Loss Disorder,0.5149758454106279,0.9010000256209739
+ENSG00000161381.13,1,Psoriasis,0.34658385093167704,0.922919573709362
+ENSG00000161813.21,1,Scoliosis,0.19209039548022597,0.8409166239364124
+ENSG00000158716.8,1,Atrioventricular Septal Defect,0.3955189757658893,0.9895419252137804
+ENSG00000161888.11,1,Hidradenitis Suppurativa,0.3134920634920635,0.8858296043689056
+ENSG00000163462.17,1,Pulmonary Hypertension,0.18287037037037038,0.7708465596610974
+ENSG00000163421.8,1,Hidradenitis Suppurativa,0.1186868686868687,0.8601887414701497
+ENSG00000163406.10,1,Celiac Disease,0.29965156794425085,0.9759564575998786
+ENSG00000163399.15,1,Hearing Loss Disorder,0.5837912087912087,0.9672081145914235
+ENSG00000163376.11,1,Psoriasis,0.28340080971659914,0.9703686524473611
+ENSG00000163359.15,1,Ventricular Septal Defect,0.6620568757304246,0.9958476647143677
+ENSG00000163312.10,1,Hashimoto Thyroiditis,0.30823786142935083,0.8389606871497371
+ENSG00000163251.3,1,Hypothyroidism,0.639542614014094,0.8864140164795355
+ENSG00000163221.8,1,Hidradenitis Suppurativa,0.10532407407407407,0.7641463336581655
+ENSG00000163219.11,1,Atrioventricular Septal Defect,0.4617283950617284,0.9174381758099691
+ENSG00000163171.7,1,Hidradenitis Suppurativa,0.22857142857142856,0.9441853815398389
+ENSG00000163104.17,1,Psoriasis,0.2938271604938272,0.8866362966764822
+ENSG00000162980.16,1,Hashimoto Thyroiditis,0.2768549280177187,0.8182263782931354
+ENSG00000162894.11,1,Celiac Disease,0.32836516068933397,0.8520809537403607
+ENSG00000162889.10,1,Atrioventricular Septal Defect,0.49182115594329334,0.9773601977374469
+ENSG00000162817.6,1,Hearing Loss Disorder,0.5060106234274532,0.9439041360918877
+ENSG00000162753.11,1,Astigmatism,0.4329004329004329,0.9252375539460205
+ENSG00000162664.16,1,Celiac Disease,0.45977011494252873,0.9783051594856461
+ENSG00000162614.18,1,Patent Foramen Ovale,0.5041322314049587,0.9743267846626159
+ENSG00000162607.12,1,Hashimoto Thyroiditis,0.32929782082324455,0.9730874912005882
+ENSG00000162576.16,1,Hashimoto Thyroiditis,0.3698630136986301,0.9543535771379359
+ENSG00000162517.12,1,Psoriasis,0.34658385093167704,0.922919573709362
+ENSG00000162438.11,1,Scoliosis,0.2727272727272727,0.9544909767808537
+ENSG00000162373.12,1,Hidradenitis Suppurativa,0.4480431848852901,0.9386198415646309
+ENSG00000162241.12,1,Conductive Hearing Loss Disorder,0.40564903846153844,0.8135745536935118
+ENSG00000162144.9,1,Hidradenitis Suppurativa,0.21151586368977676,0.8745029016852469
+ENSG00000161920.9,1,Hidradenitis Suppurativa,0.42284482758620684,0.9205354750090935
+ENSG00000158850.14,1,Folliculitis,0.43344456803856135,0.9438270956301178
+ENSG00000158691.14,1,Psoriasis,0.26179702650290887,0.8965424869205281
+ENSG00000127863.15,1,Hidradenitis Suppurativa,0.3481063658340048,0.7768033294846247
+ENSG00000154760.13,1,Psoriasis,0.3525,0.9388128285959454
+ENSG00000154511.11,1,Psoriasis,0.29850746268656714,0.900782418082243
+ENSG00000154265.15,1,Conductive Hearing Loss Disorder,0.5024404249210451,0.9125801340108428
+ENSG00000154174.7,1,Scoliosis,0.2601398601398601,0.9104252730769692
+ENSG00000154153.13,1,Psoriasis,0.32751091703056767,0.9392965770824336
+ENSG00000154079.5,1,Hashimoto Thyroiditis,0.3611274221961245,0.9832510923611006
+ENSG00000154016.13,1,Celiac Disease,0.23431498079385404,0.9707271868436156
+ENSG00000153885.14,1,Patent Foramen Ovale,0.39707256306446587,0.7416775628267145
+ENSG00000153310.19,1,Atrioventricular Septal Defect,0.4729678638941399,0.9813979773032891
+ENSG00000153187.18,1,Hearing Loss Disorder,0.5650862068965516,0.9197359838328546
+ENSG00000153006.15,1,Hashimoto Thyroiditis,0.3997668997668998,0.9964839122900884
+ENSG00000152990.13,1,Atrioventricular Septal Defect,0.3493265993265993,0.8753254533784018
+ENSG00000152944.8,1,Conductive Hearing Loss Disorder,0.518452380952381,0.9541179304273071
+ENSG00000152926.14,1,Celiac Disease,0.26605504587155965,0.7560361951458889
+ENSG00000152894.14,1,Scoliosis,0.2958904109589041,0.9183169526474166
+ENSG00000152558.14,1,Hashimoto Thyroiditis,0.23174157303370785,0.9852008579889583
+ENSG00000152492.13,1,Psoriasis,0.3100541842263697,0.8659182500977648
+ENSG00000152465.17,1,Patent Foramen Ovale,0.4514285714285714,0.8371232226776792
+ENSG00000152380.9,1,Obstructive Sleep Apnea Syndrome,0.6493946731234866,0.9503791342113886
+ENSG00000152359.14,1,Conductive Hearing Loss Disorder,0.5351089588377724,0.9846736688412416
+ENSG00000152270.8,1,Celiac Disease,0.1941638608305275,0.8059351432994425
+ENSG00000152242.10,1,Hashimoto Thyroiditis,0.23793103448275862,0.8017193828428696
+ENSG00000152240.12,1,Hashimoto Thyroiditis,0.2682660850599782,0.7928261363625503
+ENSG00000152217.16,1,Psoriasis,0.2789297658862876,0.9550968288140572
+ENSG00000152207.7,1,Hidradenitis Suppurativa,0.45803571428571427,0.9975304662183067
+ENSG00000151892.14,1,Seborrheic Dermatitis,0.2687782805429864,0.7530372534011023
+ENSG00000151743.10,1,Hashimoto Thyroiditis,0.29320388349514565,0.9872386575291378
+ENSG00000151726.13,1,Hidradenitis Suppurativa,0.4296875,0.935514024062766
+ENSG00000154620.5,1,Hashimoto Thyroiditis,0.27252747252747256,0.8054298952571931
+ENSG00000154928.16,1,Hidradenitis Suppurativa,0.21151586368977676,0.8745029016852469
+ENSG00000158623.14,1,Hashimoto Thyroiditis,0.32929782082324455,0.9730874912005882
+ENSG00000155026.16,1,Astigmatism,0.4329004329004329,0.9252375539460205
+ENSG00000158473.6,1,Scoliosis,0.3142458100558659,0.8746192634789113
+ENSG00000158417.10,1,Ventricular Septal Defect,0.53328645100797,0.9189029922628251
+ENSG00000158109.14,1,Hypothyroidism,0.6997144022847817,0.8974278270137094
+ENSG00000157978.11,1,Psoriasis,0.32031726662599147,0.8947416250976149
+ENSG00000157954.14,1,Hashimoto Thyroiditis,0.32929782082324455,0.9730874912005882
+ENSG00000157800.17,1,Conductive Hearing Loss Disorder,0.5416911332941867,0.9732261182715133
+ENSG00000157796.17,1,Celiac Disease,0.2985404688191066,0.7748927020503714
+ENSG00000157741.14,1,Celiac Disease,0.2254047322540473,0.9342243168786187
+ENSG00000157625.15,1,Psoriasis,0.36455696202531646,0.9711954526492999
+ENSG00000157184.6,1,Atrioventricular Septal Defect,0.39438502673796794,0.7987126385925687
+ENSG00000156976.16,1,Hashimoto Thyroiditis,0.34105960264900664,0.8796353396394215
+ENSG00000156831.7,1,Celiac Disease,0.4338235294117647,0.9772397822804517
+ENSG00000156738.17,1,Psoriasis,0.17267080745341615,0.7441647769279529
+ENSG00000156735.10,1,Psoriasis,0.20253164556962025,0.6101543592983413
+ENSG00000156671.12,1,Conductive Hearing Loss Disorder,0.5294964028776978,0.942698421272946
+ENSG00000156642.16,1,Atrioventricular Septal Defect,0.4172549019607843,0.928343660366089
+ENSG00000156500.14,1,Psoriasis,0.2496847414880202,0.8551141955123845
+ENSG00000156097.12,1,Patent Ductus Arteriosus,0.5351851851851851,0.9275589019275109
+ENSG00000156052.10,1,Atrioventricular Septal Defect,0.3331034482758621,0.7420344831257658
+ENSG00000155970.11,1,Ventricular Septal Defect,0.6472416472416472,0.9722650424380258
+ENSG00000155868.7,1,Hashimoto Thyroiditis,0.2792452830188679,0.9404481058674256
+ENSG00000155858.5,1,Ventricular Septal Defect,0.6260069044879172,0.9397831784917166
+ENSG00000155659.14,1,Scoliosis,0.27705627705627706,0.9696401754621732
+ENSG00000155636.14,1,Hearing Loss Disorder,0.5904882154882155,0.9369469546044348
+ENSG00000155330.9,1,Alopecia Areata,0.3286384976525822,0.9054369860289804
+ENSG00000155324.9,1,Folliculitis,0.4271206690561529,0.8234988380009238
+ENSG00000155256.17,1,Folliculitis,0.5141975308641975,0.9476075853049629
+ENSG00000163468.14,1,Patent Foramen Ovale,0.1096418732782369,0.7838057552647878
+ENSG00000163492.14,1,Celiac Disease,0.12642140468227425,0.9176732930493346
+ENSG00000163519.13,1,Atrioventricular Septal Defect,0.4335664335664336,0.8782321826797819
+ENSG00000168955.3,1,Strabismus,0.4779874213836478,0.9773798181992882
+ENSG00000168781.21,1,Atrioventricular Septal Defect,0.4474431818181818,0.906360200893179
+ENSG00000168734.13,1,Sleep Apnea Syndrome,0.530718954248366,0.8911103031721557
+ENSG00000168575.9,1,Hypothyroidism,0.6343283582089553,0.8847395971312898
+ENSG00000168488.18,1,Conductive Hearing Loss Disorder,0.5129078014184397,0.9130069021029179
+ENSG00000168389.17,1,Patent Foramen Ovale,0.4437669376693767,0.8895917347610401
+ENSG00000168286.2,1,Hashimoto Thyroiditis,0.2995391705069124,0.8852604858120813
+ENSG00000168081.8,1,Hidradenitis Suppurativa,0.1263227513227513,0.9149638384744759
+ENSG00000168056.15,1,Scoliosis,0.28439153439153436,0.8224191961184566
+ENSG00000168038.10,1,Sleep Apnea Syndrome,0.6751196172248803,0.9518769244026482
+ENSG00000167986.13,1,Hashimoto Thyroiditis,0.22777777777777777,0.968462570153005
+ENSG00000167972.13,1,Hidradenitis Suppurativa,0.4418500224517288,0.986807080097834
+ENSG00000167895.14,1,Hashimoto Thyroiditis,0.26605504587155965,0.8961956337037327
+ENSG00000167881.14,1,Celiac Disease,0.23909774436090225,0.7802464599331985
+ENSG00000167785.8,1,Hearing Loss Disorder,0.49843750000000003,0.907585177406839
+ENSG00000167721.10,1,Atrioventricular Septal Defect,0.3724770642201835,0.8293391601471851
+ENSG00000167676.4,1,Hidradenitis Suppurativa,0.12115384615384617,0.8778937602836568
+ENSG00000167674.14,1,Hashimoto Thyroiditis,0.23174157303370785,0.9852008579889583
+ENSG00000167670.15,1,Hidradenitis Suppurativa,0.39832285115303984,0.8506413450143165
+ENSG00000167658.15,1,Celiac Disease,0.42358974358974355,0.9034553610513194
+ENSG00000167641.10,1,Hidradenitis Suppurativa,0.23607038123167154,0.7674746419359143
+ENSG00000167613.15,1,Psoriasis,0.28795098706603134,0.9859070321135558
+ENSG00000167562.12,1,Psoriasis,0.29515938606847697,0.8240699725777295
+ENSG00000167460.14,1,Ventricular Septal Defect,0.5788043478260869,0.9103565115932075
+ENSG00000167371.17,1,Hashimoto Thyroiditis,0.3802172670097198,0.9473520774352727
+ENSG00000167363.13,1,Conductive Hearing Loss Disorder,0.3653308480894688,0.9823431122986024
+ENSG00000167220.11,1,Hypothyroidism,0.6665485471296952,0.8926704393023205
+ENSG00000167088.10,1,Hashimoto Thyroiditis,0.38665132336018415,0.9635247871037447
+ENSG00000168872.16,1,Pulmonary Hypertension,0.2953560371517028,0.9813974053065798
+ENSG00000169062.14,1,Atrioventricular Septal Defect,0.44429254955570746,0.8587902823041242
+ENSG00000163520.13,1,Hidradenitis Suppurativa,0.43118466898954705,0.909790292675348
+ENSG00000169193.11,1,Hashimoto Thyroiditis,0.3668639053254438,0.9988830773556382
+ENSG00000170638.9,1,Hidradenitis Suppurativa,0.3531300160513644,0.9968176972851622
+ENSG00000170632.13,1,Hashimoto Thyroiditis,0.3819444444444444,0.9856733881456572
+ENSG00000170571.11,1,Conductive Hearing Loss Disorder,0.5073863636363636,0.8869417642420596
+ENSG00000170525.19,1,Hidradenitis Suppurativa,0.4349376114081997,0.9713487688767024
+ENSG00000170515.13,1,Hidradenitis Suppurativa,0.3828125,0.8846862859958815
+ENSG00000170396.7,1,Celiac Disease,0.3852813852813853,0.831692743925201
+ENSG00000170385.9,1,Psoriasis,0.280833815865663,0.7838020573115343
+ENSG00000170382.11,1,Strabismus,0.271875,0.876578927080986
+ENSG00000170365.9,1,Patent Foramen Ovale,0.4620915032679738,0.8720530119645634
+ENSG00000170345.9,1,Sleep Apnea Syndrome,0.6453349282296651,0.9274185214504601
+ENSG00000170161.6,1,Hashimoto Thyroiditis,0.21639784946236562,0.920376474673152
+ENSG00000170074.19,1,Astigmatism,0.4349376114081997,0.9713487688767024
+ENSG00000170027.6,1,Pulmonary Hypertension,0.30217391304347824,0.8787113058610756
+ENSG00000169918.9,1,Hearing Loss Disorder,0.5364431486880465,0.999139551225269
+ENSG00000169896.16,1,Atrioventricular Septal Defect,0.10206240084611318,0.7321798601917373
+ENSG00000169891.17,1,Atrioventricular Septal Defect,0.4093567251461988,0.8761977788264279
+ENSG00000169885.9,1,Hypothyroidism,0.6742738589211619,0.9300745977087734
+ENSG00000169862.18,1,Patent Ductus Arteriosus,0.582312925170068,0.9919277935583515
+ENSG00000169826.7,1,Hashimoto Thyroiditis,0.2618181818181818,0.8819734609457568
+ENSG00000169814.12,1,Folliculitis,0.40683760683760684,0.770081243577532
+ENSG00000169612.3,1,Atrioventricular Septal Defect,0.32234432234432236,0.8878423952885804
+ENSG00000169385.2,1,Psoriasis,0.13254901960784315,0.9867174565321852
+ENSG00000169299.13,1,Atrioventricular Septal Defect,0.266634288489558,0.8477243659483361
+ENSG00000169288.17,1,Celiac Disease,0.44074074074074077,0.9928609646102282
+ENSG00000169252.5,1,Conductive Hearing Loss Disorder,0.4417508417508417,0.9151633575673985
+ENSG00000169242.11,1,Atrioventricular Septal Defect,0.42696629213483145,0.8087655840343579
+ENSG00000169221.13,1,Psoriasis,0.36455696202531646,0.9711954526492999
+ENSG00000167004.12,1,Pulmonary Hypertension,0.3080808080808081,0.8223064667303441
+ENSG00000166963.12,1,Celiac Disease,0.40935672514619886,0.9970890649389422
+ENSG00000166946.13,1,"Otitis Media, Susceptibility To",0.5606575963718822,0.9538869956452909
+ENSG00000166920.12,1,"Otitis Media, Susceptibility To",0.5550068587105623,0.9663486607371246
+ENSG00000164930.11,1,Atrioventricular Septal Defect,0.2773613193403298,0.881318077401163
+ENSG00000164850.14,1,Alopecia Areata,0.3426791277258567,0.873477442765329
+ENSG00000001561.6,1,Conductive Hearing Loss Disorder,0.5203174603174604,0.990869003850338
+ENSG00000164744.12,1,Scoliosis,0.3202247191011236,0.89150088082259
+ENSG00000164684.13,1,Celiac Disease,0.2648475120385233,0.8636005397015794
+ENSG00000164609.9,1,Hashimoto Thyroiditis,0.3639455782312925,0.9390088761552854
+ENSG00000164535.14,1,Obstructive Sleep Apnea Syndrome,0.6352750809061489,0.9345995586875857
+ENSG00000164530.13,1,Hidradenitis Suppurativa,0.40682788051209107,0.9844887864887224
+ENSG00000164465.18,1,Hearing Loss Disorder,0.5553191489361702,0.9878579861754416
+ENSG00000164463.12,1,Hearing Loss Disorder,0.5618925831202046,0.9814870139359605
+ENSG00000164362.18,1,Atrioventricular Septal Defect,0.4241584158415842,0.9435806181874122
+ENSG00000164307.12,1,Hidradenitis Suppurativa,0.318796992481203,0.9007033179378022
+ENSG00000164291.16,1,Atrioventricular Septal Defect,0.4581939799331104,0.950851612415127
+ENSG00000164187.6,1,Hearing Loss Disorder,0.5158730158730159,0.9618271533774467
+ENSG00000164181.13,1,Atrioventricular Septal Defect,0.4509948415622697,0.9359580399152938
+ENSG00000164112.12,1,Seborrheic Dermatitis,0.21818181818181817,0.9548791533851283
+ENSG00000164086.9,1,Hashimoto Thyroiditis,0.22777777777777777,0.968462570153005
+ENSG00000164073.10,1,Hashimoto Thyroiditis,0.18935643564356436,0.805927918636384
+ENSG00000164032.11,1,Atrioventricular Septal Defect,0.4172549019607843,0.928343660366089
+ENSG00000164023.14,1,Patent Foramen Ovale,0.4932885906040269,0.931495597296037
+ENSG00000163932.13,1,Atrioventricular Septal Defect,0.4226190476190476,0.9044568499269361
+ENSG00000163874.10,1,Hidradenitis Suppurativa,0.2620967741935484,0.6767675336517995
+ENSG00000163754.17,1,Atrioventricular Septal Defect,0.3164556962025316,0.8718376965411084
+ENSG00000163701.18,1,"Otitis Media, Susceptibility To",0.2587108013937282,0.804186453302546
+ENSG00000163629.12,1,Hearing Loss Disorder,0.5869191049913941,0.9120648326869317
+ENSG00000163606.10,1,Celiac Disease,0.4026315789473684,0.8848623161685225
+ENSG00000163599.14,1,Celiac Disease,0.19772727272727272,0.820592021535361
+ENSG00000165006.13,1,Atrioventricular Septal Defect,0.4841093865484109,0.9805937237334847
+ENSG00000165195.15,1,Conductive Hearing Loss Disorder,0.5081874647092038,0.8924362311713806
+ENSG00000165271.16,1,Conductive Hearing Loss Disorder,0.4477941176470588,0.9663706929689027
+ENSG00000166272.16,1,Conductive Hearing Loss Disorder,0.5351111111111111,0.9719197446447636
+ENSG00000166888.11,1,Sleep Apnea Syndrome,0.6995235259082787,0.9885762335835456
+ENSG00000166886.12,1,Pulmonary Hypertension,0.22486772486772486,0.946558897571835
+ENSG00000166860.2,1,Hypothyroidism,0.6977611940298508,0.957244818552402
+ENSG00000166848.5,1,Atrioventricular Septal Defect,0.4918032786885246,0.9961542992872451
+ENSG00000166803.11,1,Alopecia Areata,0.26738305941845764,0.9076410910340932
+ENSG00000166788.9,1,Hidradenitis Suppurativa,0.23785166240409206,0.9820390414298649
+ENSG00000166575.16,1,Hearing Loss Disorder,0.5030146425495262,0.8437685642539224
+ENSG00000166523.7,1,Atrioventricular Septal Defect,0.4654088050314465,0.9954792362968963
+ENSG00000166432.14,1,Celiac Disease,0.37815126050420167,0.9212871886198768
+ENSG00000166352.15,1,Conductive Hearing Loss Disorder,0.5693857653558662,0.9955561843146468
+ENSG00000166326.6,1,Hidradenitis Suppurativa,0.2860310421286031,0.9283155451446353
+ENSG00000166313.18,1,Patent Foramen Ovale,0.4732620320855615,0.9145177781800916
+ENSG00000166188.2,1,Hidradenitis Suppurativa,0.19988706945228688,0.8269077363989022
+ENSG00000165359.15,1,Atrioventricular Septal Defect,0.4241584158415842,0.9435806181874122
+ENSG00000166173.10,1,Atrioventricular Septal Defect,0.3973333333333333,0.8843339794876417
+ENSG00000166166.12,1,Atrioventricular Septal Defect,0.4690831556503199,0.9320902842033114
+ENSG00000166128.12,1,Conductive Hearing Loss Disorder,0.5351111111111111,0.9719197446447636
+ENSG00000165997.4,1,Hashimoto Thyroiditis,0.10905485789821547,0.8060401212520351
+ENSG00000165959.11,1,Hidradenitis Suppurativa,0.4694519317160827,0.991534744756637
+ENSG00000165819.11,1,Hearing Loss Disorder,0.5655899802241265,0.9284316059658325
+ENSG00000165804.15,1,Celiac Disease,0.3500724287783679,0.9081733031574214
+ENSG00000165685.8,1,Sleep Apnea Syndrome,0.6736004108885465,0.9150718743593224
+ENSG00000165678.20,1,Folliculitis,0.4806060606060606,0.8964207565580622
+ENSG00000165526.8,1,Sleep Apnea Syndrome,0.6777546777546778,0.9629188560463106
+ENSG00000165494.11,1,Celiac Disease,0.4183006535947712,0.9739387389717338
+ENSG00000165406.15,1,Folliculitis,0.5391414141414141,0.9936958549349829
+ENSG00000151553.14,1,Atrioventricular Septal Defect,0.411864406779661,0.9399828391097454
+ENSG00000151414.14,1,Conductive Hearing Loss Disorder,0.4904601571268237,0.8568992483813122
+ENSG00000151332.18,1,Conductive Hearing Loss Disorder,0.4855275443510737,0.8446859490954489
+ENSG00000135842.16,1,Hidradenitis Suppurativa,0.3878116343490305,0.9386490174217208
+ENSG00000135437.9,1,Hidradenitis Suppurativa,0.3297491039426524,0.9313911123374361
+ENSG00000135436.8,1,Patent Foramen Ovale,0.4956896551724138,0.9933941629009093
+ENSG00000135363.11,1,Ventricular Septal Defect,0.6120823620823621,0.950233612104643
+ENSG00000135317.12,1,Hearing Loss Disorder,0.4476744186046512,0.8168936176040961
+ENSG00000135164.18,1,Hashimoto Thyroiditis,0.3698630136986301,0.9543535771379359
+ENSG00000134954.14,1,Ventricular Septal Defect,0.3290322580645162,0.775303325803496
+ENSG00000134884.13,1,Conductive Hearing Loss Disorder,0.5096491228070176,0.8863689457128194
+ENSG00000134851.12,1,Conductive Hearing Loss Disorder,0.44988925802879287,0.828054821633406
+ENSG00000134802.17,1,"Otitis Media, Susceptibility To",0.4833333333333334,0.9918814400004966
+ENSG00000134758.13,1,Psoriasis,0.3151515151515151,0.880235050826497
+ENSG00000134716.9,1,Hidradenitis Suppurativa,0.4538461538461539,0.9562757668090907
+ENSG00000134644.15,1,Psoriasis,0.35282898919262556,0.9859863286392155
+ENSG00000134590.13,1,Celiac Disease,0.2254047322540473,0.9342243168786187
+ENSG00000134452.19,1,Strabismus,0.24852941176470586,0.8020513446685049
+ENSG00000134444.13,1,Psoriasis,0.36455696202531646,0.9711954526492999
+ENSG00000134419.15,1,Hashimoto Thyroiditis,0.28125,0.8312200390632073
+ENSG00000134294.13,1,Celiac Disease,0.23431498079385404,0.9707271868436156
+ENSG00000134285.10,1,Folliculitis,0.3492647058823529,0.9461454907310561
+ENSG00000134248.13,1,Ventricular Septal Defect,0.5690526315789474,0.9270802260222653
+ENSG00000134242.15,1,Conductive Hearing Loss Disorder,0.41263700838168926,0.8555711430120427
+ENSG00000134198.9,1,Strabismus,0.32251082251082247,0.8242905327668415
+ENSG00000133961.19,1,Hypothyroidism,0.6682758620689655,0.9710615811231627
+ENSG00000133816.13,1,Folliculitis,0.5165343915343915,0.9952669657061197
+ENSG00000133740.10,1,Psoriasis,0.21288515406162467,0.9168831796115661
+ENSG00000133739.15,1,Hashimoto Thyroiditis,0.1773809523809524,0.7551605313760232
+ENSG00000133275.15,1,Scoliosis,0.2958904109589041,0.9183169526474166
+ENSG00000133193.12,1,Psoriasis,0.24193548387096772,0.82859496703104
+ENSG00000135441.7,1,Psoriasis,0.24193548387096772,0.82859496703104
+ENSG00000135862.5,1,Hidradenitis Suppurativa,0.3076923076923077,0.9978136993710842
+ENSG00000138081.20,1,Hashimoto Thyroiditis,0.30429732868757264,0.8993118729669991
+ENSG00000135926.14,1,Atrioventricular Septal Defect,0.41335587489433645,0.9669571693649349
+ENSG00000137955.15,1,Alopecia Areata,0.3277048155096936,0.9779258721875014
+ENSG00000137776.16,1,Folliculitis,0.5307017543859649,0.9781075236247386
+ENSG00000137764.19,1,Conductive Hearing Loss Disorder,0.5081669691470054,0.9500180225510603
+ENSG00000137731.13,1,Hashimoto Thyroiditis,0.1925,0.819245911340346
+ENSG00000137575.11,1,Hearing Loss Disorder,0.6241438356164384,0.9766183253205454
+ENSG00000137486.16,1,Conductive Hearing Loss Disorder,0.5586854460093896,0.9877227384286834
+ENSG00000137474.19,1,Folliculitis,0.5223880597014925,0.9627464103028123
+ENSG00000137414.5,1,Atrioventricular Septal Defect,0.4457142857142857,0.9911111158033156
+ENSG00000137409.19,1,Folliculitis,0.45698924731182794,0.9943468888494845
+ENSG00000137331.11,1,Celiac Disease,0.2603174603174603,0.8489504289038948
+ENSG00000137074.18,1,Hearing Loss Disorder,0.5131802721088435,0.8512281326795398
+ENSG00000136940.13,1,Hidradenitis Suppurativa,0.2860310421286031,0.9283155451446353
+ENSG00000136937.12,1,Atrioventricular Septal Defect,0.4617283950617284,0.9174381758099691
+ENSG00000136810.12,1,Hashimoto Thyroiditis,0.3140495867768595,0.9281011954122909
+ENSG00000136754.17,1,Pulmonary Hypertension,0.35501355013550134,0.9475921973050503
+ENSG00000136699.19,1,Pulmonary Hypertension,0.3326673326673327,0.8378404041877454
+ENSG00000136536.14,1,Conductive Hearing Loss Disorder,0.518452380952381,0.9541179304273071
+ENSG00000136535.14,1,Celiac Disease,0.25588697017268447,0.83461650338091
+ENSG00000136527.17,1,Hypothyroidism,0.6887883358471594,0.8820279885871207
+ENSG00000136450.12,1,Psoriasis,0.2846715328467153,0.8589557403095294
+ENSG00000136286.14,1,Hashimoto Thyroiditis,0.26605504587155965,0.8961956337037327
+ENSG00000136273.11,1,Scoliosis,0.13093289689034368,0.9850196267800638
+ENSG00000136152.14,1,Atrioventricular Septal Defect,0.4457142857142857,0.9911111158033156
+ENSG00000136149.6,1,Astigmatism,0.42812914639540023,0.9561187407022315
+ENSG00000136111.12,1,Atrioventricular Septal Defect,0.48054919908466814,0.9970637730048617
+ENSG00000136048.13,1,Celiac Disease,0.23909774436090225,0.7802464599331985
+ENSG00000135930.13,1,Celiac Disease,0.2648475120385233,0.8636005397015794
+ENSG00000133116.7,1,Obstructive Sleep Apnea Syndrome,0.6056753270683619,0.9364650386429524
+ENSG00000133056.13,1,Atrioventricular Septal Defect,0.3007957559681698,0.9545467204470155
+ENSG00000133019.11,1,Pulmonary Hypertension,0.11241065627030539,0.8252508521289362
+ENSG00000132801.6,1,Conductive Hearing Loss Disorder,0.3661375661375661,0.8353651615456661
+ENSG00000130813.17,1,Psoriasis,0.28340080971659914,0.9703686524473611
+ENSG00000130772.13,1,Atrioventricular Septal Defect,0.5183823529411764,0.9889336331894726
+ENSG00000130768.14,1,Atrioventricular Septal Defect,0.36819172113289755,0.922029298767429
+ENSG00000130653.15,1,Folliculitis,0.4616487455197133,0.9646325754616396
+ENSG00000130545.15,1,Conductive Hearing Loss Disorder,0.551502772103881,0.9693559440448841
+ENSG00000130332.14,1,Sleep Apnea Syndrome,0.6981132075471698,0.9686697845294046
+ENSG00000130165.10,1,Ventricular Septal Defect,0.6238380499896716,0.9876447645369941
+ENSG00000130147.15,1,Patent Foramen Ovale,0.4437869822485207,0.9413157802195427
+ENSG00000130066.16,1,Atrioventricular Septal Defect,0.32234432234432236,0.8878423952885804
+ENSG00000129810.14,1,Hidradenitis Suppurativa,0.3582485625829279,0.8672913327007071
+ENSG00000129757.12,1,Ventricular Septal Defect,0.6645569620253164,0.998158618800109
+ENSG00000129691.15,1,Celiac Disease,0.40935672514619886,0.9970890649389422
+ENSG00000129682.15,1,Astigmatism,0.4400715563506261,0.9216493949949556
+ENSG00000129422.14,1,Atrioventricular Septal Defect,0.3673469387755102,0.860318903185728
+ENSG00000129245.11,1,Atrioventricular Septal Defect,0.498030791263874,0.9636307071748105
+ENSG00000129244.8,1,"Otitis Media, Susceptibility To",0.5129476584022039,0.920417952643523
+ENSG00000129055.12,1,Atrioventricular Septal Defect,0.343859649122807,0.7659077603648364
+ENSG00000128872.9,1,Hearing Loss Disorder,0.5730232558139535,0.9598277779219693
+ENSG00000128699.13,1,Conductive Hearing Loss Disorder,0.42036124794745483,0.7862651452972518
+ENSG00000128694.11,1,Atrioventricular Septal Defect,0.49640287769784175,0.9717322169547025
+ENSG00000128590.4,1,Conductive Hearing Loss Disorder,0.5721362229102168,0.9970330116727106
+ENSG00000128536.15,1,Atrioventricular Septal Defect,0.3616600790513834,0.7506686099666415
+ENSG00000128438.10,1,Hashimoto Thyroiditis,0.3567977915804003,0.8716021797455111
+ENSG00000128218.7,1,Celiac Disease,0.12642140468227425,0.9176732930493346
+ENSG00000128059.8,1,Folliculitis,0.43344456803856135,0.9438270956301178
+ENSG00000127980.15,1,Atrioventricular Septal Defect,0.4312,0.9591149323394433
+ENSG00000127884.4,1,Celiac Disease,0.16853932584269662,0.7003560799832707
+ENSG00000130818.11,1,Atrioventricular Septal Defect,0.44342507645259943,0.9487446426237958
+ENSG00000130821.15,1,Psoriasis,0.2164073550212164,0.9319867915877947
+ENSG00000131002.11,1,Hidradenitis Suppurativa,0.32421479229989864,0.9158872200601191
+ENSG00000132024.17,1,Hashimoto Thyroiditis,0.22777777777777777,0.968462570153005
+ENSG00000132793.11,1,Alopecia Areata,0.31507622811970637,0.8240554629508852
+ENSG00000132780.16,1,Hidradenitis Suppurativa,0.20753623188405798,0.858222480657456
+ENSG00000132768.13,1,Hearing Loss Disorder,0.6072649572649572,0.9462153331680183
+ENSG00000132591.11,1,Conductive Hearing Loss Disorder,0.5119496855345912,0.9750631579121136
+ENSG00000132589.15,1,Alopecia Areata,0.2805194805194805,0.9520930565888128
+ENSG00000132581.9,1,Sleep Apnea Syndrome,0.6923558897243107,0.9928841219742954
+ENSG00000132570.14,1,Folliculitis,0.5521917376222012,0.9945186767992478
+ENSG00000132478.9,1,Atrioventricular Septal Defect,0.21555555555555556,0.8756898956174446
+ENSG00000132475.10,1,Hypothyroidism,0.6783406565003878,0.9230150681257737
+ENSG00000132424.14,1,Conductive Hearing Loss Disorder,0.5316973415132924,0.9271902830661604
+ENSG00000132423.11,1,Seborrheic Dermatitis,0.3575581395348837,0.9968685378543066
+ENSG00000132334.16,1,Sleep Apnea Syndrome,0.6761877003788983,0.9564149097887312
+ENSG00000132005.8,1,Conductive Hearing Loss Disorder,0.4222873900293255,0.8237594547520573
+ENSG00000131042.14,1,Pneumonia,0.37955465587044535,0.9842383953917481
+ENSG00000131899.10,1,Hashimoto Thyroiditis,0.08484162895927602,0.6276877132016698
+ENSG00000131849.11,1,Psoriasis,0.2714285714285714,0.8188994076627283
+ENSG00000131771.13,1,Atrioventricular Septal Defect,0.3665454545454545,0.8162016720781415
+ENSG00000131686.14,1,Atrioventricular Septal Defect,0.5050505050505051,0.9689034529968427
+ENSG00000131634.13,1,Psoriasis,0.28092485549132945,0.7463709173846964
+ENSG00000131495.8,1,Psoriasis,0.17267080745341615,0.7441647769279529
+ENSG00000131469.12,1,Hashimoto Thyroiditis,0.3819444444444444,0.9856733881456572
+ENSG00000131462.7,1,Conductive Hearing Loss Disorder,0.48866176940274675,0.9521357629297929
+ENSG00000131389.16,1,Hidradenitis Suppurativa,0.12903225806451613,0.934381593616562
+ENSG00000131100.12,1,Celiac Disease,0.4585196224540487,0.9753059022101809
+ENSG00000131051.22,1,Conductive Hearing Loss Disorder,0.52486986697513,0.9429437268775127
+ENSG00000131043.11,1,Conductive Hearing Loss Disorder,0.5294964028776978,0.942698421272946
+ENSG00000137959.15,1,Hashimoto Thyroiditis,0.3345543345543346,0.9885878072534261
+ENSG00000138182.14,1,Celiac Disease,0.4117647058823529,0.9587230737620891
+ENSG00000151320.10,1,Ventricular Septal Defect,0.4125,0.8512314174827333
+ENSG00000147443.12,1,Ventricular Septal Defect,0.6298298298298298,0.9833827990276468
+ENSG00000147162.13,1,Conductive Hearing Loss Disorder,0.5501330967169477,0.9598695703953003
+ENSG00000147140.15,1,Pulmonary Hypertension,0.26291079812206575,0.701469700432007
+ENSG00000146802.12,1,Conductive Hearing Loss Disorder,0.562019082794706,0.9790330219211039
+ENSG00000146592.16,1,Hidradenitis Suppurativa,0.24149659863945577,0.6833710483710803
+ENSG00000146555.18,1,Patent Foramen Ovale,0.49624060150375937,0.9590446397207508
+ENSG00000146535.13,1,Folliculitis,0.403960396039604,0.845249582554093
+ENSG00000146433.8,1,Conductive Hearing Loss Disorder,0.5436081242532855,0.9873373025671696
+ENSG00000146242.8,1,Folliculitis,0.3030612244897959,0.9487208808636395
+ENSG00000145936.8,1,Reactive Airway Disease,0.23751686909581646,0.9949454598554108
+ENSG00000145911.5,1,Atrioventricular Septal Defect,0.36819172113289755,0.922029298767429
+ENSG00000145901.14,1,Hypothyroidism,0.6859504132231405,0.9081171618313254
+ENSG00000145850.8,1,Alopecia Areata,0.39079754601226996,0.9916921935939393
+ENSG00000145782.12,1,Hashimoto Thyroiditis,0.3091334894613583,0.9135902613626922
+ENSG00000145723.16,1,Hashimoto Thyroiditis,0.3284671532846715,0.8941844456685257
+ENSG00000145700.9,1,Patent Ductus Arteriosus,0.5150669642857143,0.9339729393238989
+ENSG00000145491.11,1,Atrioventricular Septal Defect,0.4808510638297872,0.9411492050901955
+ENSG00000145425.9,1,Hashimoto Thyroiditis,0.3091334894613583,0.9135902613626922
+ENSG00000145423.4,1,Atrioventricular Septal Defect,0.4369565217391304,0.9068991941491386
+ENSG00000145390.11,1,Atrioventricular Septal Defect,0.37980769230769235,0.8892378237050808
+ENSG00000145075.11,1,Folliculitis,0.2973856209150327,0.8079434211400625
+ENSG00000144802.11,1,Celiac Disease,0.3404255319148936,0.9659170331822817
+ENSG00000144792.9,1,Hashimoto Thyroiditis,0.21639784946236562,0.920376474673152
+ENSG00000144451.18,1,Celiac Disease,0.46753246753246747,0.9948959769431882
+ENSG00000144381.16,1,Celiac Disease,0.3033006244424621,0.7872216261780831
+ENSG00000144362.11,1,Atrioventricular Septal Defect,0.43636363636363634,0.933719829951234
+ENSG00000144228.8,1,Conductive Hearing Loss Disorder,0.5416911332941867,0.9732261182715133
+ENSG00000144118.13,1,Hypothyroidism,0.6840939299955693,0.9557068993824079
+ENSG00000147257.13,1,Patent Foramen Ovale,0.5262068965517241,0.994149875475633
+ENSG00000147475.14,1,Psoriasis,0.32031726662599147,0.8947416250976149
+ENSG00000138326.18,1,Hashimoto Thyroiditis,0.38830409356725143,0.9474352550341062
+ENSG00000147535.16,1,Celiac Disease,0.46753246753246747,0.9948959769431882
+ENSG00000151287.16,1,Conductive Hearing Loss Disorder,0.5073198198198199,0.8962463404035986
+ENSG00000151176.7,1,Celiac Disease,0.3247721623860812,0.7557930381403707
+ENSG00000151135.9,1,Hypothyroidism,0.5976331360946746,0.884118638570175
+ENSG00000151093.7,1,Celiac Disease,0.38057040998217473,0.886043304217094
+ENSG00000150636.17,1,Celiac Disease,0.20604395604395603,0.6729648831818542
+ENSG00000150625.16,1,Celiac Disease,0.38057040998217473,0.886043304217094
+ENSG00000150337.13,1,Hashimoto Thyroiditis,0.3611274221961245,0.9832510923611006
+ENSG00000149970.14,1,Sleep Apnea Syndrome,0.6449286973241468,0.943905153122622
+ENSG00000149930.17,1,Celiac Disease,0.340531561461794,0.7337851755671511
+ENSG00000149823.8,1,Ventricular Septal Defect,0.5003639010189229,0.7994210073673248
+ENSG00000149499.11,1,Hashimoto Thyroiditis,0.3668639053254438,0.9988830773556382
+ENSG00000149485.18,1,Seborrheic Dermatitis,0.31550068587105623,0.9132700849238087
+ENSG00000149346.14,1,Conductive Hearing Loss Disorder,0.48866176940274675,0.9521357629297929
+ENSG00000149231.11,1,Celiac Disease,0.44248704663212435,0.9449630753823677
+ENSG00000149150.8,1,Conductive Hearing Loss Disorder,0.5351089588377724,0.9846736688412416
+ENSG00000148730.6,1,Celiac Disease,0.43673469387755104,0.96035929992612
+ENSG00000148634.15,1,Celiac Disease,0.41600000000000004,0.9144668937518564
+ENSG00000148516.21,1,Folliculitis,0.4489563567362429,0.9771224200809171
+ENSG00000148468.16,1,Hidradenitis Suppurativa,0.44008714596949894,0.9407322618706592
+ENSG00000148429.14,1,Psoriasis,0.20604395604395603,0.8875362522649154
+ENSG00000148400.9,1,Sleep Apnea Syndrome,0.6777546777546778,0.9629188560463106
+ENSG00000148399.12,1,Patent Foramen Ovale,0.45849802371541504,0.8858860642266746
+ENSG00000148248.13,1,Celiac Disease,0.28027385537013266,0.7275488160183538
+ENSG00000148200.16,1,Scoliosis,0.18032786885245902,0.7894801807852783
+ENSG00000147905.17,1,Celiac Disease,0.4183006535947712,0.9739387389717338
+ENSG00000147853.16,1,Atrioventricular Septal Defect,0.47654851414249905,0.9469581021994158
+ENSG00000147642.16,1,Eustachian Tube Disorder,0.42700729927007297,0.9141355647882801
+ENSG00000144043.11,1,Sleep Apnea Syndrome,0.6996677740863787,0.9806638094043251
+ENSG00000144034.14,1,Hashimoto Thyroiditis,0.21300813008130082,0.7178578752232128
+ENSG00000143977.13,1,Hashimoto Thyroiditis,0.2682660850599782,0.7928261363625503
+ENSG00000143771.11,1,Hearing Loss Disorder,0.618073316283035,0.9727681221271268
+ENSG00000140678.16,1,Hidradenitis Suppurativa,0.44620811287477946,0.9418920945596402
+ENSG00000140564.11,1,Atrioventricular Septal Defect,0.4241584158415842,0.9435806181874122
+ENSG00000140365.15,1,Celiac Disease,0.2943201376936317,0.9587682418287208
+ENSG00000140299.11,1,Conductive Hearing Loss Disorder,0.5211428571428571,0.9277491320951342
+ENSG00000140265.12,1,Scoliosis,0.16666666666666666,0.7296942811893002
+ENSG00000139998.14,1,Celiac Disease,0.4338235294117647,0.9772397822804517
+ENSG00000139946.9,1,Hypothyroidism,0.6555126555126555,0.918223719590235
+ENSG00000139890.9,1,Hidradenitis Suppurativa,0.29124579124579125,0.945059684976574
+ENSG00000139880.19,1,Celiac Disease,0.4338235294117647,0.9772397822804517
+ENSG00000139746.15,1,Atrioventricular Septal Defect,0.30698659139026113,0.719838062287632
+ENSG00000139726.10,1,Alopecia Areata,0.3259005145797598,0.8526179230659396
+ENSG00000139722.6,1,Atrioventricular Septal Defect,0.4690909090909091,0.950203194573258
+ENSG00000139679.15,1,Conductive Hearing Loss Disorder,0.5516129032258065,0.9653650736582701
+ENSG00000139675.11,1,Psoriasis,0.20943134535367544,0.9020690812007713
+ENSG00000139613.11,1,Hearing Loss Disorder,0.5354957160342718,0.8591702258860885
+ENSG00000139433.9,1,Alopecia Areata,0.27606177606177607,0.9370125475222275
+ENSG00000139372.14,1,Celiac Disease,0.30511463844797176,0.9935604686331048
+ENSG00000139117.13,1,Psoriasis,0.341692789968652,0.9547431643101224
+ENSG00000139112.10,1,Atrioventricular Septal Defect,0.4918032786885246,0.9961542992872451
+ENSG00000138964.16,1,Atrioventricular Septal Defect,0.4473409801876955,0.8887625855032049
+ENSG00000138798.11,1,Atrioventricular Septal Defect,0.46470999301187976,0.8906661831032116
+ENSG00000138750.14,1,Conductive Hearing Loss Disorder,0.5516129032258065,0.9653650736582701
+ENSG00000138593.8,1,Psoriasis,0.3472222222222222,0.9702576657698923
+ENSG00000138449.10,1,Atrioventricular Septal Defect,0.3542074363992172,0.9742700732423885
+ENSG00000138442.9,1,Hearing Loss Disorder,0.5517806935332709,0.9360600369419868
+ENSG00000138376.10,1,Alopecia Areata,0.2799305957200694,0.8353308742219187
+ENSG00000138375.12,1,Conductive Hearing Loss Disorder,0.48776758409785936,0.9293376762321417
+ENSG00000140743.7,1,Ventricular Septal Defect,0.6440281030444965,0.9896214744606583
+ENSG00000140750.16,1,Hidradenitis Suppurativa,0.30701754385964913,0.7925051631157352
+ENSG00000140961.12,1,Psoriasis,0.12796934865900383,0.9528075435948112
+ENSG00000142065.13,1,Psoriasis,0.28795098706603134,0.9859070321135558
+ENSG00000143641.9,1,Celiac Disease,0.34623655913978496,0.9822683953342618
+ENSG00000143627.17,1,Reactive Airway Disease,0.2934160305343511,0.7767928368154312
+ENSG00000143473.12,1,Celiac Disease,0.42558033682294033,0.909539741986338
+ENSG00000143368.9,1,Conductive Hearing Loss Disorder,0.5335842501447597,0.933409389119683
+ENSG00000143367.15,1,Hidradenitis Suppurativa,0.29659090909090907,0.9622138047669802
+ENSG00000143294.14,1,Conductive Hearing Loss Disorder,0.47550908090258664,0.8343303678271846
+ENSG00000143252.14,1,Psoriasis,0.317948717948718,0.9595141627064148
+ENSG00000143119.12,1,Atrioventricular Septal Defect,0.48054919908466814,0.9970637730048617
+ENSG00000142892.14,1,Hashimoto Thyroiditis,0.27037037037037037,0.9106773101405469
+ENSG00000142733.14,1,Celiac Disease,0.3291666666666666,0.9342165001902232
+ENSG00000142556.18,1,Celiac Disease,0.44081068631966835,0.9425651740562778
+ENSG00000142235.8,1,Hidradenitis Suppurativa,0.3082965144820815,0.8712566738598205
+ENSG00000142039.3,1,Celiac Disease,0.3758620689655172,0.8461872519704277
+ENSG00000141084.10,1,Folliculitis,0.5003248862897985,0.9641924296200948
+ENSG00000141965.4,1,Conductive Hearing Loss Disorder,0.516325907842539,0.9651912349699884
+ENSG00000141959.16,1,Hearing Loss Disorder,0.4987629886194953,0.8892215597762596
+ENSG00000141682.11,1,Conductive Hearing Loss Disorder,0.45100671140939597,0.802034165968071
+ENSG00000141576.14,1,Atrioventricular Septal Defect,0.4506172839506173,0.9640411477784734
+ENSG00000141560.14,1,Pulmonary Hypertension,0.2747933884297521,0.7992430198809772
+ENSG00000141543.9,1,Conductive Hearing Loss Disorder,0.5330848089468779,0.9963350146556805
+ENSG00000141456.14,1,Hearing Loss Disorder,0.6094017094017093,0.9670205918106514
+ENSG00000141384.12,1,Atrioventricular Septal Defect,0.27596223674655046,0.6929454668094961
+ENSG00000141380.13,1,Scoliosis,0.12450436161776368,0.936844066335651
+ENSG00000141349.8,1,Celiac Disease,0.2792452830188679,0.7933433582741717
+ENSG00000141316.12,1,Patent Foramen Ovale,0.47268907563025214,0.9474468621595947
+ENSG00000141219.15,1,Scoliosis,0.3375527426160338,0.9776272801612659
+ENSG00000284690.1,1,Conductive Hearing Loss Disorder,0.542608695652174,0.9535710279094661
